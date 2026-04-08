@@ -166,6 +166,11 @@ export function Landing() {
           <span className="font-mono bg-slate-800 px-2 py-1 rounded border border-slate-700">CC BY-SA</span>
           <span className="font-mono bg-slate-800 px-2 py-1 rounded border border-slate-700">AGPL-3.0</span>
         </div>
+        <div className="mt-6 text-xs text-slate-600">
+          Powered by <span className="text-slate-400 font-semibold">ZAMAI</span>
+          <span className="mx-2">·</span>
+          <a href="mailto:hello@zamai.pro" className="text-slate-500 hover:text-slate-300 transition-colors">hello@zamai.pro</a>
+        </div>
       </div>
     </div>
   )

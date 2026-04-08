@@ -26,5 +26,11 @@ data/*_backup_*
 data/*.db
 data/bibles/
 
+# Large JSON data files — regenerate with scripts/export_to_json.py
+public/data/translations.json
+public/data/sentences.json
+public/data/bible.json
+public/data/cross_language.json
+
 # Claude config
 .claude/

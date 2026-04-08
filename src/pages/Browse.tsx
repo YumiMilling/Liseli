@@ -31,6 +31,9 @@ interface CorpusGroup {
   files: { name: string; line_count: number; sample: string[] }[]
 }
 
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+type GrammarData = Record<string, any>
+
 type View =
   | { type: 'home' }
   | { type: 'source'; source: string }
@@ -46,7 +49,9 @@ export function Browse() {
   const [viewLang, setViewLang] = useState<ZamLanguage>('nyanja')
   const [corpusGroups, setCorpusGroups] = useState<CorpusGroup[]>([])
   const [dictionary, setDictionary] = useState<{ english: string; translations: Record<string, { text: string; status: string }> }[]>([])
+  const [grammar, setGrammar] = useState<GrammarData | null>(null)
   const [searchQ, setSearchQ] = useState('')
+  const [page, setPage] = useState(0)
 
   useEffect(() => {
     fetch('/data/stats.json').then(r => r.json()).then(setStats)
@@ -65,8 +70,16 @@ export function Browse() {
   }
 
   const loadDictionary = () => {
+    setPage(0)
+    setSearchQ('')
     if (dictionary.length === 0) {
       fetch('/data/dictionary.json').then(r => r.json()).then(setDictionary)
+    }
+  }
+
+  const loadGrammar = () => {
+    if (!grammar) {
+      fetch('/data/grammar.json').then(r => r.json()).then(setGrammar)
     }
   }
 
@@ -81,7 +94,7 @@ export function Browse() {
     { label: 'Database', onClick: () => setView({ type: 'home' }) },
   ]
   if (view.type === 'source') {
-    const srcLabels: Record<string, string> = { storybooks: 'Storybooks Zambia', bible: 'Bible', dictionary: 'Dictionary', corpus: 'Corpus' }
+    const srcLabels: Record<string, string> = { storybooks: 'Storybooks Zambia', bible: 'Bible', dictionary: 'Dictionary', grammar: 'Grammar Patterns', corpus: 'Corpus' }
     crumbs.push({ label: srcLabels[view.source] ?? view.source })
   } else if (view.type === 'story') {
     crumbs.push({ label: 'Storybooks', onClick: () => setView({ type: 'source', source: 'storybooks' }) })
@@ -172,6 +185,19 @@ export function Browse() {
               <div>
                 <p className="font-semibold text-white">Dictionary</p>
                 <p className="text-xs text-slate-400">14K+ English words with translations in 7 languages (draft, unverified)</p>
+              </div>
+              <span className="text-slate-400">→</span>
+            </div>
+          </button>
+
+          <button
+            onClick={() => { loadGrammar(); setView({ type: 'source', source: 'grammar' }) }}
+            className="w-full bg-slate-800 rounded-xl p-4 border border-slate-700 hover:border-brand-600 transition-colors text-left"
+          >
+            <div className="flex justify-between items-center">
+              <div>
+                <p className="font-semibold text-white">Grammar Patterns</p>
+                <p className="text-xs text-slate-400">Noun prefixes, cognates, sentence structure — derived from parallel data</p>
               </div>
               <span className="text-slate-400">→</span>
             </div>
@@ -377,6 +403,21 @@ export function Browse() {
 
   // === DICTIONARY ===
   if (view.type === 'source' && view.source === 'dictionary') {
+    if (dictionary.length === 0) {
+      return (
+        <div className="max-w-3xl mx-auto px-4 py-6">
+          <Breadcrumb />
+          <h2 className="text-lg font-bold mb-4">Dictionary</h2>
+          <p className="text-slate-400 text-sm">Loading 14,000+ entries...</p>
+          <div className="space-y-2 mt-4">
+            {Array.from({ length: 10 }).map((_, i) => (
+              <div key={i} className="bg-slate-800 rounded-lg h-12 animate-pulse" />
+            ))}
+          </div>
+        </div>
+      )
+    }
+
     const filtered = searchQ
       ? dictionary.filter(d => d.english.toLowerCase().includes(searchQ.toLowerCase()) ||
           Object.values(d.translations).some(t => t.text.toLowerCase().includes(searchQ.toLowerCase())))
@@ -413,14 +454,33 @@ export function Browse() {
           </select>
         </div>
 
+        {/* Alphabet jump bar */}
+        <div className="flex flex-wrap gap-1 mb-3">
+          {'abcdefghijklmnopqrstuvwxyz'.split('').map(letter => {
+            const idx = filtered.findIndex(d => d.english.toLowerCase().startsWith(letter))
+            return (
+              <button
+                key={letter}
+                onClick={() => { if (idx >= 0) setPage(Math.floor(idx / 100)) }}
+                disabled={idx < 0}
+                className={`w-7 h-7 rounded text-xs font-medium transition-colors ${
+                  idx >= 0 ? 'bg-slate-800 text-slate-300 hover:bg-brand-600 hover:text-white' : 'bg-slate-800/50 text-slate-600'
+                }`}
+              >
+                {letter.toUpperCase()}
+              </button>
+            )
+          })}
+        </div>
+
         <div className="flex items-center justify-between mb-3">
           <span className="text-xs text-slate-500">{filtered.length.toLocaleString()} words</span>
           {totalPg > 1 && (
             <div className="flex items-center gap-2">
-              <button onClick={() => setPage(p => Math.max(0, p - 1))} disabled={page === 0}
+              <button onClick={() => { setPage(p => Math.max(0, p - 1)); window.scrollTo(0, 0) }} disabled={page === 0}
                 className="text-xs text-slate-400 hover:text-white disabled:opacity-30">← Prev</button>
               <span className="text-xs text-slate-500">{page + 1}/{totalPg}</span>
-              <button onClick={() => setPage(p => Math.min(totalPg - 1, p + 1))} disabled={page >= totalPg - 1}
+              <button onClick={() => { setPage(p => Math.min(totalPg - 1, p + 1)); window.scrollTo(0, 0) }} disabled={page >= totalPg - 1}
                 className="text-xs text-slate-400 hover:text-white disabled:opacity-30">Next →</button>
             </div>
           )}
@@ -469,6 +529,206 @@ export function Browse() {
             )
           })}
         </div>
+
+        {/* Bottom pagination */}
+        {totalPg > 1 && (
+          <div className="flex items-center justify-center gap-4 mt-4 py-4 border-t border-slate-700">
+            <button onClick={() => { setPage(p => Math.max(0, p - 1)); window.scrollTo(0, 0) }} disabled={page === 0}
+              className="px-4 py-2 bg-slate-800 rounded-lg text-sm text-slate-300 hover:bg-slate-700 disabled:opacity-30 transition-colors">← Prev</button>
+            <span className="text-sm text-slate-400">{page + 1} of {totalPg}</span>
+            <button onClick={() => { setPage(p => Math.min(totalPg - 1, p + 1)); window.scrollTo(0, 0) }} disabled={page >= totalPg - 1}
+              className="px-4 py-2 bg-slate-800 rounded-lg text-sm text-slate-300 hover:bg-slate-700 disabled:opacity-30 transition-colors">Next →</button>
+          </div>
+        )}
+      </div>
+    )
+  }
+
+  // === GRAMMAR PATTERNS ===
+  if (view.type === 'source' && view.source === 'grammar') {
+    if (!grammar) {
+      return (
+        <div className="max-w-3xl mx-auto px-4 py-6">
+          <Breadcrumb />
+          <h2 className="text-lg font-bold mb-4">Grammar Patterns</h2>
+          <div className="space-y-3">{Array.from({length:5}).map((_,i) => <div key={i} className="bg-slate-800 rounded-xl h-24 animate-pulse" />)}</div>
+        </div>
+      )
+    }
+
+    const langInfo = LANGUAGES.find(l => l.id === viewLang)
+    const gLang = (grammar as Record<string, unknown> & { languages: Record<string, unknown>; shared_roots: { cognates: { word: string; languages: string[]; count: number }[] } }).languages[viewLang] as Record<string, unknown> | undefined
+    const sharedRoots = (grammar as unknown as { shared_roots: { cognates: { word: string; languages: string[]; count: number }[] } }).shared_roots
+
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const g = gLang as any
+
+    return (
+      <div className="max-w-3xl mx-auto px-4 py-6">
+        <Breadcrumb />
+        <div className="flex items-center justify-between mb-4">
+          <h2 className="text-lg font-bold">Grammar: {langInfo?.endonym}</h2>
+          <select value={viewLang} onChange={e => setViewLang(e.target.value as ZamLanguage)}
+            className="bg-slate-800 border border-slate-600 rounded-lg px-3 py-1.5 text-sm text-white">
+            {LANGUAGES.map(l => <option key={l.id} value={l.id}>{l.name} ({l.endonym})</option>)}
+          </select>
+        </div>
+        <p className="text-xs text-slate-400 mb-6">Derived from {viewLang === 'kaonde' ? '~8K' : '~31K'} parallel Bible verses. Draft — needs linguist verification.</p>
+
+        {g && (
+          <>
+            {/* Word order */}
+            <div className="bg-slate-800 rounded-xl p-5 border border-slate-700 mb-4">
+              <h3 className="text-sm font-semibold mb-2">Word Order &amp; Length</h3>
+              <div className="flex items-center gap-4">
+                <div>
+                  <span className="text-2xl font-bold text-brand-400">{g.word_order?.avg_word_ratio}x</span>
+                  <p className="text-xs text-slate-400">{g.word_order?.description} than English</p>
+                </div>
+              </div>
+              {g.word_order?.statement_examples?.slice(0, 3).map((ex: {english: string; translation: string}, i: number) => (
+                <div key={i} className="mt-3 border-t border-slate-700 pt-3">
+                  <p className="text-sm text-white">{ex.english}</p>
+                  <p className="text-sm text-brand-300">{ex.translation}</p>
+                </div>
+              ))}
+            </div>
+
+            {/* Noun classes */}
+            <div className="bg-slate-800 rounded-xl p-5 border border-slate-700 mb-4">
+              <h3 className="text-sm font-semibold mb-1">Noun Class Prefixes</h3>
+              <p className="text-xs text-slate-500 mb-3">Bantu languages mark nouns with class prefixes that determine agreement on verbs, adjectives, and pronouns.</p>
+              <div className="space-y-1.5">
+                {g.noun_classes?.prefixes?.slice(0, 15).map((p: {prefix: string; distinct_words: number; examples: string[]}, i: number) => (
+                  <div key={i} className="flex items-center gap-3">
+                    <span className="font-mono text-brand-300 text-sm w-10 font-bold">{p.prefix}-</span>
+                    <div className="flex-1 h-1.5 bg-slate-700 rounded-full overflow-hidden">
+                      <div className="h-full bg-brand-600 rounded-full" style={{ width: `${Math.min(p.distinct_words / 2, 100)}%` }} />
+                    </div>
+                    <span className="text-xs text-slate-500 w-8 text-right">{p.distinct_words}</span>
+                    <span className="text-xs text-slate-400 hidden sm:inline truncate max-w-[180px]">{p.examples.slice(0,3).join(', ')}</span>
+                  </div>
+                ))}
+              </div>
+              {g.noun_classes?.noun_class_pairs?.length > 0 && (
+                <div className="mt-4 border-t border-slate-700 pt-3">
+                  <p className="text-xs text-slate-500 mb-2">Likely singular/plural prefix pairs:</p>
+                  <div className="flex flex-wrap gap-2">
+                    {g.noun_classes.noun_class_pairs.map((pair: {singular_prefix: string; plural_prefix: string}, i: number) => (
+                      <span key={i} className="text-xs bg-slate-700 px-2 py-1 rounded font-mono">
+                        {pair.singular_prefix}- / {pair.plural_prefix}-
+                      </span>
+                    ))}
+                  </div>
+                </div>
+              )}
+            </div>
+
+            {/* Pronouns */}
+            {Object.keys(g.pronouns || {}).length > 0 && (
+              <div className="bg-slate-800 rounded-xl p-5 border border-slate-700 mb-4">
+                <h3 className="text-sm font-semibold mb-3">Subject Markers / Pronouns</h3>
+                <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
+                  {Object.entries(g.pronouns).map(([key, val]: [string, unknown]) => {
+                    const v = val as {english: string; candidates: {form: string; count: number}[]}
+                    return (
+                      <div key={key} className="bg-slate-700/50 rounded-lg p-2">
+                        <p className="text-xs text-slate-400">{v.english} <span className="text-slate-600">({key})</span></p>
+                        <p className="text-sm text-brand-300 font-mono">{v.candidates?.[0]?.form ?? '?'}</p>
+                      </div>
+                    )
+                  })}
+                </div>
+              </div>
+            )}
+
+            {/* Verb morphology */}
+            {Object.keys(g.verb_morphology || {}).length > 0 && (
+              <div className="bg-slate-800 rounded-xl p-5 border border-slate-700 mb-4">
+                <h3 className="text-sm font-semibold mb-3">Verb Tense Markers</h3>
+                {Object.entries(g.verb_morphology).map(([tense, data]: [string, unknown]) => {
+                  const d = data as {likely_prefixes: {marker: string; score: number}[]; likely_suffixes: {marker: string; score: number}[]; examples: {english: string; translation: string}[]}
+                  return (
+                    <div key={tense} className="mb-4 last:mb-0">
+                      <p className="text-xs text-slate-400 uppercase tracking-wider mb-1">{tense}</p>
+                      <div className="flex flex-wrap gap-1 mb-2">
+                        {d.likely_prefixes?.slice(0,3).map((p, i) => (
+                          <span key={i} className="text-xs bg-brand-900/50 text-brand-300 px-2 py-0.5 rounded font-mono">{p.marker}-</span>
+                        ))}
+                        {d.likely_suffixes?.slice(0,3).map((s, i) => (
+                          <span key={i} className="text-xs bg-slate-700 text-slate-300 px-2 py-0.5 rounded font-mono">-{s.marker}</span>
+                        ))}
+                      </div>
+                      {d.examples?.slice(0,2).map((ex, i) => (
+                        <div key={i} className="text-xs ml-2 mb-1">
+                          <span className="text-slate-400">{ex.english}</span>
+                          <span className="text-slate-600 mx-1">→</span>
+                          <span className="text-brand-300">{ex.translation}</span>
+                        </div>
+                      ))}
+                    </div>
+                  )
+                })}
+              </div>
+            )}
+
+            {/* Negation */}
+            {g.negation?.likely_markers?.length > 0 && (
+              <div className="bg-slate-800 rounded-xl p-5 border border-slate-700 mb-4">
+                <h3 className="text-sm font-semibold mb-3">Negation</h3>
+                <div className="flex flex-wrap gap-2 mb-3">
+                  {g.negation.likely_markers.slice(0, 5).map((m: {marker: string; ratio: number}, i: number) => (
+                    <span key={i} className="text-sm bg-red-900/30 text-red-300 px-2 py-1 rounded font-mono">{m.marker}</span>
+                  ))}
+                </div>
+                {g.negation.examples?.slice(0,3).map((ex: {english: string; translation: string}, i: number) => (
+                  <div key={i} className="text-xs mb-1">
+                    <span className="text-slate-400">{ex.english}</span>
+                    <span className="text-slate-600 mx-1">→</span>
+                    <span className="text-brand-300">{ex.translation}</span>
+                  </div>
+                ))}
+              </div>
+            )}
+
+            {/* Numbers */}
+            {g.numbers?.length > 0 && (
+              <div className="bg-slate-800 rounded-xl p-5 border border-slate-700 mb-4">
+                <h3 className="text-sm font-semibold mb-3">Number System</h3>
+                <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
+                  {g.numbers.map((n: {value: string; english: string; candidates: {word: string; count: number}[]}, i: number) => (
+                    <div key={i} className="bg-slate-700/50 rounded-lg p-2">
+                      <p className="text-xs text-slate-400">{n.english} ({n.value})</p>
+                      <p className="text-sm text-brand-300 font-mono">{n.candidates?.[0]?.word ?? '?'}</p>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+          </>
+        )}
+
+        {/* Cognates */}
+        {sharedRoots?.cognates && (
+          <div className="bg-slate-800 rounded-xl p-5 border border-slate-700">
+            <h3 className="text-sm font-semibold mb-3">Shared Vocabulary (Cognates)</h3>
+            <p className="text-xs text-slate-500 mb-3">Words appearing in 3+ Zambian languages.</p>
+            <div className="space-y-1 max-h-72 overflow-y-auto">
+              {sharedRoots.cognates.filter(v => v.languages.includes(viewLang)).slice(0, 60).map((v, i) => (
+                <div key={i} className="flex items-center justify-between py-0.5">
+                  <span className="text-sm text-white">{v.word}</span>
+                  <div className="flex gap-0.5">
+                    {v.languages.map(l => (
+                      <span key={l} className={`text-[9px] px-1 py-0.5 rounded ${l === viewLang ? 'bg-brand-900 text-brand-300' : 'bg-slate-700 text-slate-500'}`}>
+                        {l.slice(0,3)}
+                      </span>
+                    ))}
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
       </div>
     )
   }

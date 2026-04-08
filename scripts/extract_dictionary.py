@@ -111,7 +111,7 @@ def extract_dictionary(conn: sqlite3.Connection, language: str) -> list[dict]:
                 best_target = tgt_word
                 best_count = count
 
-        if best_target and best_score > 1.5:
+        if best_target and best_score > 0.8:
             confidence = min(best_count / en_word_count[en_word], 1.0)
             dictionary.append({
                 "english": en_word,

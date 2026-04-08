@@ -2109,6 +2109,10 @@
       "nyanja": {
         "text": "amene",
         "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
+        "status": "unverified"
       }
     }
   },
@@ -2213,6 +2217,15 @@
     "translations": {
       "nyanja": {
         "text": "pofuna",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "accounted",
+    "translations": {
+      "lozi": {
+        "text": "lukile",
         "status": "unverified"
       }
     }
@@ -2870,6 +2883,10 @@
       "lozi": {
         "text": "ni",
         "status": "unverified"
+      },
+      "nyanja": {
+        "text": "ndi",
+        "status": "unverified"
       }
     }
   },
@@ -3400,6 +3417,10 @@
     "translations": {
       "bemba": {
         "text": "adieli",
+        "status": "unverified"
+      },
+      "lozi": {
+        "text": "ba",
         "status": "unverified"
       },
       "lunda": {
@@ -10484,6 +10505,10 @@
         "text": "anatoti",
         "status": "unverified"
       },
+      "lozi": {
+        "text": "wa",
+        "status": "unverified"
+      },
       "lunda": {
         "text": "abiyezeri",
         "status": "unverified"
@@ -11354,6 +11379,10 @@
         "text": "yindi",
         "status": "unverified"
       },
+      "nyanja": {
+        "text": "kuti",
+        "status": "unverified"
+      },
       "tonga": {
         "text": "nguzu",
         "status": "unverified"
@@ -11746,6 +11775,15 @@
     }
   },
   {
+    "english": "answers",
+    "translations": {
+      "kaonde": {
+        "text": "ne",
+        "status": "unverified"
+      }
+    }
+  },
+  {
     "english": "ant",
     "translations": {
       "nyanja": {
@@ -11964,6 +12002,14 @@
       },
       "kaonde": {
         "text": "pa",
+        "status": "unverified"
+      },
+      "lozi": {
+        "text": "li",
+        "status": "unverified"
+      },
+      "luvale": {
+        "text": "kaha",
         "status": "unverified"
       },
       "tonga": {
@@ -12584,6 +12630,10 @@
       "kaonde": {
         "text": "ponkapo",
         "status": "unverified"
+      },
+      "lozi": {
+        "text": "bonahala",
+        "status": "unverified"
       }
     }
   },
@@ -12722,6 +12772,10 @@
       },
       "lunda": {
         "text": "dehi",
+        "status": "unverified"
+      },
+      "luvale": {
+        "text": "kaha",
         "status": "unverified"
       },
       "tonga": {
@@ -13003,6 +13057,10 @@
   {
     "english": "arabian",
     "translations": {
+      "bemba": {
+        "text": "na",
+        "status": "unverified"
+      },
       "lozi": {
         "text": "sanibalati",
         "status": "unverified"
@@ -16569,6 +16627,10 @@
       "luvale": {
         "text": "mutu",
         "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
+        "status": "unverified"
       }
     }
   },
@@ -17547,6 +17609,15 @@
     "translations": {
       "nyanja": {
         "text": "ndi",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "away",
+    "translations": {
+      "kaonde": {
+        "text": "ne",
         "status": "unverified"
       }
     }
@@ -19274,6 +19345,10 @@
         "text": "ya",
         "status": "unverified"
       },
+      "lozi": {
+        "text": "ya",
+        "status": "unverified"
+      },
       "luvale": {
         "text": "nge",
         "status": "unverified"
@@ -20894,6 +20969,10 @@
         "text": "sha",
         "status": "unverified"
       },
+      "lozi": {
+        "text": "ya",
+        "status": "unverified"
+      },
       "luvale": {
         "text": "lyami",
         "status": "unverified"
@@ -21698,6 +21777,15 @@
       },
       "tonga": {
         "text": "kunze",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "behold",
+    "translations": {
+      "lozi": {
+        "text": "ni",
         "status": "unverified"
       }
     }
@@ -23631,6 +23719,10 @@
   {
     "english": "billows",
     "translations": {
+      "lozi": {
+        "text": "ni",
+        "status": "unverified"
+      },
       "nyanja": {
         "text": "mkokomo",
         "status": "unverified"
@@ -25179,6 +25271,10 @@
       },
       "luvale": {
         "text": "kulitukwojola",
+        "status": "unverified"
+      },
+      "nyanja": {
+        "text": "ndi",
         "status": "unverified"
       },
       "tonga": {
@@ -26978,6 +27074,10 @@
       },
       "lozi": {
         "text": "ki",
+        "status": "unverified"
+      },
+      "nyanja": {
+        "text": "ndi",
         "status": "unverified"
       },
       "tonga": {
@@ -28954,6 +29054,10 @@
       },
       "nyanja": {
         "text": "cholemetsa",
+        "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
         "status": "unverified"
       }
     }
@@ -31515,6 +31619,10 @@
   {
     "english": "carmelite",
     "translations": {
+      "lozi": {
+        "text": "abigaili",
+        "status": "unverified"
+      },
       "lunda": {
         "text": "wakukarameli",
         "status": "unverified"
@@ -32142,6 +32250,15 @@
     }
   },
   {
+    "english": "cater",
+    "translations": {
+      "nyanja": {
+        "text": "ndi",
+        "status": "unverified"
+      }
+    }
+  },
+  {
     "english": "caterpillar",
     "translations": {
       "lunda": {
@@ -32726,6 +32843,15 @@
     "translations": {
       "nyanja": {
         "text": "pamene",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "centred",
+    "translations": {
+      "nyanja": {
+        "text": "ndi",
         "status": "unverified"
       }
     }
@@ -33997,6 +34123,10 @@
         "text": "lesa",
         "status": "unverified"
       },
+      "lozi": {
+        "text": "bupilo",
+        "status": "unverified"
+      },
       "lunda": {
         "text": "kuwaha",
         "status": "unverified"
@@ -34613,6 +34743,10 @@
         "text": "ya",
         "status": "unverified"
       },
+      "lozi": {
+        "text": "ni",
+        "status": "unverified"
+      },
       "lunda": {
         "text": "eyi",
         "status": "unverified"
@@ -34762,6 +34896,10 @@
       },
       "lunda": {
         "text": "yuma",
+        "status": "unverified"
+      },
+      "luvale": {
+        "text": "kaha",
         "status": "unverified"
       },
       "nyanja": {
@@ -36386,8 +36524,16 @@
   {
     "english": "choicest",
     "translations": {
+      "bemba": {
+        "text": "na",
+        "status": "unverified"
+      },
       "lozi": {
         "text": "mi",
+        "status": "unverified"
+      },
+      "luvale": {
+        "text": "kaha",
         "status": "unverified"
       },
       "nyanja": {
@@ -37131,6 +37277,10 @@
   {
     "english": "circle",
     "translations": {
+      "lozi": {
+        "text": "li",
+        "status": "unverified"
+      },
       "tonga": {
         "text": "leza",
         "status": "unverified"
@@ -37952,6 +38102,15 @@
       },
       "tonga": {
         "text": "mulwaanzi",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "clefts",
+    "translations": {
+      "bemba": {
+        "text": "mu",
         "status": "unverified"
       }
     }
@@ -39076,6 +39235,10 @@
   {
     "english": "collateral",
     "translations": {
+      "luvale": {
+        "text": "cijikilo",
+        "status": "unverified"
+      },
       "nyanja": {
         "text": "chikole",
         "status": "unverified"
@@ -39095,6 +39258,10 @@
       },
       "luvale": {
         "text": "ngwenyi",
+        "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
         "status": "unverified"
       }
     }
@@ -39456,6 +39623,15 @@
     "translations": {
       "nyanja": {
         "text": "ntchito",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "come",
+    "translations": {
+      "kaonde": {
+        "text": "amba",
         "status": "unverified"
       }
     }
@@ -40265,6 +40441,10 @@
       },
       "lunda": {
         "text": "adi",
+        "status": "unverified"
+      },
+      "luvale": {
+        "text": "kaha",
         "status": "unverified"
       },
       "tonga": {
@@ -41433,6 +41613,10 @@
       "luvale": {
         "text": "oloze",
         "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
+        "status": "unverified"
       }
     }
   },
@@ -41953,6 +42137,10 @@
       },
       "lunda": {
         "text": "hela",
+        "status": "unverified"
+      },
+      "luvale": {
+        "text": "kuli",
         "status": "unverified"
       },
       "nyanja": {
@@ -42535,6 +42723,10 @@
   {
     "english": "contained",
     "translations": {
+      "bemba": {
+        "text": "na",
+        "status": "unverified"
+      },
       "kaonde": {
         "text": "amba",
         "status": "unverified"
@@ -42804,6 +42996,10 @@
       },
       "lozi": {
         "text": "tabo",
+        "status": "unverified"
+      },
+      "luvale": {
+        "text": "kaha",
         "status": "unverified"
       },
       "tonga": {
@@ -43434,6 +43630,15 @@
     "translations": {
       "nyanja": {
         "text": "mthunzi",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "copy",
+    "translations": {
+      "lozi": {
+        "text": "liñolo",
         "status": "unverified"
       }
     }
@@ -44372,6 +44577,10 @@
       },
       "lozi": {
         "text": "muñwi",
+        "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
         "status": "unverified"
       }
     }
@@ -45716,6 +45925,10 @@
         "text": "lika",
         "status": "unverified"
       },
+      "luvale": {
+        "text": "kaha",
+        "status": "unverified"
+      },
       "tonga": {
         "text": "zili",
         "status": "unverified"
@@ -46648,6 +46861,10 @@
     "translations": {
       "lozi": {
         "text": "kuli",
+        "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
         "status": "unverified"
       }
     }
@@ -48124,6 +48341,10 @@
       "luvale": {
         "text": "ove",
         "status": "unverified"
+      },
+      "nyanja": {
+        "text": "ndi",
+        "status": "unverified"
       }
     }
   },
@@ -48823,6 +49044,10 @@
   {
     "english": "debtor",
     "translations": {
+      "bemba": {
+        "text": "no",
+        "status": "unverified"
+      },
       "kaonde": {
         "text": "ne",
         "status": "unverified"
@@ -49168,6 +49393,10 @@
       "luvale": {
         "text": "oloze",
         "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
+        "status": "unverified"
       }
     }
   },
@@ -49197,6 +49426,15 @@
     "translations": {
       "nyanja": {
         "text": "dziko",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "deck",
+    "translations": {
+      "lozi": {
+        "text": "ka",
         "status": "unverified"
       }
     }
@@ -49345,6 +49583,15 @@
       },
       "nyanja": {
         "text": "lamulo",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "decreed",
+    "translations": {
+      "tonga": {
+        "text": "kuti",
         "status": "unverified"
       }
     }
@@ -49570,6 +49817,10 @@
   {
     "english": "deeps",
     "translations": {
+      "bemba": {
+        "text": "mu",
+        "status": "unverified"
+      },
       "lunda": {
         "text": "menji",
         "status": "unverified"
@@ -50037,6 +50288,10 @@
       "lozi": {
         "text": "buhata",
         "status": "unverified"
+      },
+      "nyanja": {
+        "text": "ndi",
+        "status": "unverified"
       }
     }
   },
@@ -50083,6 +50338,10 @@
     "translations": {
       "lozi": {
         "text": "mane",
+        "status": "unverified"
+      },
+      "nyanja": {
+        "text": "ndi",
         "status": "unverified"
       }
     }
@@ -51425,6 +51684,10 @@
       "kaonde": {
         "text": "ba",
         "status": "unverified"
+      },
+      "lozi": {
+        "text": "ba",
+        "status": "unverified"
       }
     }
   },
@@ -51895,6 +52158,10 @@
     "translations": {
       "bemba": {
         "text": "abapetamina",
+        "status": "unverified"
+      },
+      "lozi": {
+        "text": "majuda",
         "status": "unverified"
       },
       "lunda": {
@@ -56550,6 +56817,10 @@
   {
     "english": "dreaded",
     "translations": {
+      "lozi": {
+        "text": "ba",
+        "status": "unverified"
+      },
       "luvale": {
         "text": "kaza",
         "status": "unverified"
@@ -61745,6 +62016,10 @@
         "text": "mu",
         "status": "unverified"
       },
+      "lozi": {
+        "text": "ya",
+        "status": "unverified"
+      },
       "nyanja": {
         "text": "pake",
         "status": "unverified"
@@ -63033,6 +63308,10 @@
       "nyanja": {
         "text": "manja",
         "status": "unverified"
+      },
+      "tonga": {
+        "text": "leza",
+        "status": "unverified"
       }
     }
   },
@@ -63166,6 +63445,10 @@
       },
       "nyanja": {
         "text": "nazo",
+        "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
         "status": "unverified"
       }
     }
@@ -64051,6 +64334,10 @@
         "text": "fosize",
         "status": "unverified"
       },
+      "luvale": {
+        "text": "kaha",
+        "status": "unverified"
+      },
       "nyanja": {
         "text": "ine",
         "status": "unverified"
@@ -64871,6 +65158,10 @@
         "text": "ntungu",
         "status": "unverified"
       },
+      "lunda": {
+        "text": "nhembi",
+        "status": "unverified"
+      },
       "luvale": {
         "text": "cilolo",
         "status": "unverified"
@@ -65502,6 +65793,10 @@
         "text": "bwa",
         "status": "unverified"
       },
+      "luvale": {
+        "text": "kaha",
+        "status": "unverified"
+      },
       "nyanja": {
         "text": "zoyipa",
         "status": "unverified"
@@ -66045,6 +66340,10 @@
       },
       "luvale": {
         "text": "kuwaha",
+        "status": "unverified"
+      },
+      "tonga": {
+        "text": "leza",
         "status": "unverified"
       }
     }
@@ -67573,6 +67872,10 @@
         "text": "lekeni",
         "status": "unverified"
       },
+      "lozi": {
+        "text": "ni",
+        "status": "unverified"
+      },
       "lunda": {
         "text": "niyuma",
         "status": "unverified"
@@ -68297,6 +68600,15 @@
       },
       "tonga": {
         "text": "moyo",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "fair",
+    "translations": {
+      "kaonde": {
+        "text": "amba",
         "status": "unverified"
       }
     }
@@ -69090,6 +69402,15 @@
     }
   },
   {
+    "english": "fashioned",
+    "translations": {
+      "tonga": {
+        "text": "leza",
+        "status": "unverified"
+      }
+    }
+  },
+  {
     "english": "fashions",
     "translations": {
       "bemba": {
@@ -69574,6 +69895,10 @@
       },
       "nyanja": {
         "text": "lanu",
+        "status": "unverified"
+      },
+      "tonga": {
+        "text": "leza",
         "status": "unverified"
       }
     }
@@ -71851,6 +72176,10 @@
   {
     "english": "flash",
     "translations": {
+      "lozi": {
+        "text": "ku",
+        "status": "unverified"
+      },
       "luvale": {
         "text": "nge",
         "status": "unverified"
@@ -72607,6 +72936,10 @@
         "text": "bang'omba",
         "status": "unverified"
       },
+      "lozi": {
+        "text": "lipala",
+        "status": "unverified"
+      },
       "nyanja": {
         "text": "zitoliro",
         "status": "unverified"
@@ -72729,6 +73062,10 @@
     "translations": {
       "kaonde": {
         "text": "ne",
+        "status": "unverified"
+      },
+      "lozi": {
+        "text": "mi",
         "status": "unverified"
       },
       "lunda": {
@@ -74356,6 +74693,10 @@
       },
       "luvale": {
         "text": "kembwe",
+        "status": "unverified"
+      },
+      "nyanja": {
+        "text": "ndipo",
         "status": "unverified"
       },
       "tonga": {
@@ -77405,6 +77746,10 @@
       "nyanja": {
         "text": "alonda",
         "status": "unverified"
+      },
+      "tonga": {
+        "text": "balindizi",
+        "status": "unverified"
       }
     }
   },
@@ -79821,6 +80166,10 @@
   {
     "english": "gloat",
     "translations": {
+      "lozi": {
+        "text": "ka",
+        "status": "unverified"
+      },
       "nyanja": {
         "text": "akondwere",
         "status": "unverified"
@@ -80393,6 +80742,10 @@
       "nyanja": {
         "text": "wosapembedza",
         "status": "unverified"
+      },
+      "tonga": {
+        "text": "leza",
+        "status": "unverified"
       }
     }
   },
@@ -80696,6 +81049,10 @@
         "text": "goliati",
         "status": "unverified"
       },
+      "lozi": {
+        "text": "goliati",
+        "status": "unverified"
+      },
       "lunda": {
         "text": "goliyati",
         "status": "unverified"
@@ -80883,6 +81240,19 @@
       },
       "nyanja": {
         "text": "goodbye",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "goodly",
+    "translations": {
+      "lozi": {
+        "text": "ni",
+        "status": "unverified"
+      },
+      "tonga": {
+        "text": "mwami",
         "status": "unverified"
       }
     }
@@ -81094,6 +81464,10 @@
     "translations": {
       "bemba": {
         "text": "bushe",
+        "status": "unverified"
+      },
+      "lozi": {
+        "text": "ku",
         "status": "unverified"
       },
       "tonga": {
@@ -82489,6 +82863,10 @@
   {
     "english": "groaning",
     "translations": {
+      "kaonde": {
+        "text": "ne",
+        "status": "unverified"
+      },
       "nyanja": {
         "text": "kubuwula",
         "status": "unverified"
@@ -84278,6 +84656,10 @@
       "lozi": {
         "text": "ndu",
         "status": "unverified"
+      },
+      "luvale": {
+        "text": "kaha",
+        "status": "unverified"
       }
     }
   },
@@ -84606,6 +84988,10 @@
   {
     "english": "hammers",
     "translations": {
+      "lozi": {
+        "text": "ka",
+        "status": "unverified"
+      },
       "luvale": {
         "text": "namiveto",
         "status": "unverified"
@@ -85032,6 +85418,10 @@
     "translations": {
       "lozi": {
         "text": "saba",
+        "status": "unverified"
+      },
+      "luvale": {
+        "text": "kaha",
         "status": "unverified"
       }
     }
@@ -85486,6 +85876,10 @@
       "lozi": {
         "text": "lwanisa",
         "status": "unverified"
+      },
+      "nyanja": {
+        "text": "ndi",
+        "status": "unverified"
       }
     }
   },
@@ -85559,6 +85953,15 @@
     "translations": {
       "lozi": {
         "text": "katata",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "harden",
+    "translations": {
+      "kaonde": {
+        "text": "amba",
         "status": "unverified"
       }
     }
@@ -85665,6 +86068,14 @@
     "translations": {
       "bemba": {
         "text": "nganshi",
+        "status": "unverified"
+      },
+      "kaonde": {
+        "text": "ne",
+        "status": "unverified"
+      },
+      "lozi": {
+        "text": "ku",
         "status": "unverified"
       },
       "luvale": {
@@ -86908,6 +87319,19 @@
     }
   },
   {
+    "english": "having",
+    "translations": {
+      "kaonde": {
+        "text": "na",
+        "status": "unverified"
+      },
+      "lozi": {
+        "text": "ku",
+        "status": "unverified"
+      }
+    }
+  },
+  {
     "english": "havoc",
     "translations": {
       "nyanja": {
@@ -87372,6 +87796,10 @@
     "translations": {
       "bemba": {
         "text": "mu",
+        "status": "unverified"
+      },
+      "lozi": {
+        "text": "ka",
         "status": "unverified"
       },
       "luvale": {
@@ -87883,6 +88311,10 @@
   {
     "english": "heaviness",
     "translations": {
+      "lozi": {
+        "text": "li",
+        "status": "unverified"
+      },
       "nyanja": {
         "text": "chisoni",
         "status": "unverified"
@@ -88081,6 +88513,10 @@
       },
       "lozi": {
         "text": "hae",
+        "status": "unverified"
+      },
+      "luvale": {
+        "text": "kaha",
         "status": "unverified"
       }
     }
@@ -90122,6 +90558,10 @@
   {
     "english": "hireling",
     "translations": {
+      "lozi": {
+        "text": "ya",
+        "status": "unverified"
+      },
       "nyanja": {
         "text": "waganyu",
         "status": "unverified"
@@ -92410,6 +92850,15 @@
       },
       "tonga": {
         "text": "bamikwasyi",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "houses",
+    "translations": {
+      "kaonde": {
+        "text": "mazubo",
         "status": "unverified"
       }
     }
@@ -94947,6 +95396,15 @@
     }
   },
   {
+    "english": "immoral",
+    "translations": {
+      "luvale": {
+        "text": "ujila",
+        "status": "unverified"
+      }
+    }
+  },
+  {
     "english": "immorality",
     "translations": {
       "kaonde": {
@@ -95943,6 +96401,15 @@
     "translations": {
       "nyanja": {
         "text": "komanso",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "incomplete",
+    "translations": {
+      "nyanja": {
+        "text": "ndi",
         "status": "unverified"
       }
     }
@@ -97898,6 +98365,10 @@
       "nyanja": {
         "text": "chipolowe",
         "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
+        "status": "unverified"
       }
     }
   },
@@ -97937,10 +98408,28 @@
     }
   },
   {
+    "english": "integrate",
+    "translations": {
+      "nyanja": {
+        "text": "ndi",
+        "status": "unverified"
+      }
+    }
+  },
+  {
     "english": "integrating",
     "translations": {
       "nyanja": {
         "text": "kwa",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "intellectual",
+    "translations": {
+      "nyanja": {
+        "text": "ndi",
         "status": "unverified"
       }
     }
@@ -101004,6 +101493,10 @@
   {
     "english": "james",
     "translations": {
+      "bemba": {
+        "text": "yakobo",
+        "status": "unverified"
+      },
       "kaonde": {
         "text": "yakoba",
         "status": "unverified"
@@ -101299,6 +101792,15 @@
       },
       "tonga": {
         "text": "jaamuti",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "jars",
+    "translations": {
+      "nyanja": {
+        "text": "ndi",
         "status": "unverified"
       }
     }
@@ -105505,6 +106007,10 @@
       },
       "luvale": {
         "text": "mwaciyulo",
+        "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
         "status": "unverified"
       }
     }
@@ -110858,6 +111364,10 @@
       "nyanja": {
         "text": "wantchito",
         "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
+        "status": "unverified"
       }
     }
   },
@@ -112611,6 +113121,10 @@
         "text": "kanshi",
         "status": "unverified"
       },
+      "lozi": {
+        "text": "ba",
+        "status": "unverified"
+      },
       "luvale": {
         "text": "kuhwakuka",
         "status": "unverified"
@@ -113817,6 +114331,10 @@
     "translations": {
       "lozi": {
         "text": "mi",
+        "status": "unverified"
+      },
+      "nyanja": {
+        "text": "ndi",
         "status": "unverified"
       }
     }
@@ -116002,6 +116520,10 @@
       "nyanja": {
         "text": "dzombe",
         "status": "unverified"
+      },
+      "tonga": {
+        "text": "cikwikwi",
+        "status": "unverified"
       }
     }
   },
@@ -116549,6 +117071,10 @@
         "text": "mane",
         "status": "unverified"
       },
+      "luvale": {
+        "text": "kaha",
+        "status": "unverified"
+      },
       "tonga": {
         "text": "akali",
         "status": "unverified"
@@ -116975,6 +117501,15 @@
     "translations": {
       "lozi": {
         "text": "lata",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "loving",
+    "translations": {
+      "kaonde": {
+        "text": "ne",
         "status": "unverified"
       }
     }
@@ -117438,6 +117973,15 @@
     "translations": {
       "nyanja": {
         "text": "sword",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "lure",
+    "translations": {
+      "nyanja": {
+        "text": "ndi",
         "status": "unverified"
       }
     }
@@ -118847,6 +119391,10 @@
     "translations": {
       "bemba": {
         "text": "bakaputula",
+        "status": "unverified"
+      },
+      "kaonde": {
+        "text": "bachiba",
         "status": "unverified"
       },
       "lozi": {
@@ -127816,6 +128364,10 @@
         "text": "valombelenungava",
         "status": "unverified"
       },
+      "nyanja": {
+        "text": "ndi",
+        "status": "unverified"
+      },
       "tonga": {
         "text": "aabo",
         "status": "unverified"
@@ -128047,6 +128599,15 @@
     "translations": {
       "lozi": {
         "text": "ku",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "mixture",
+    "translations": {
+      "nyanja": {
+        "text": "ndi",
         "status": "unverified"
       }
     }
@@ -128528,6 +129089,10 @@
   {
     "english": "moan",
     "translations": {
+      "bemba": {
+        "text": "no",
+        "status": "unverified"
+      },
       "lozi": {
         "text": "mi",
         "status": "unverified"
@@ -129510,6 +130075,10 @@
   {
     "english": "moreover",
     "translations": {
+      "lozi": {
+        "text": "ni",
+        "status": "unverified"
+      },
       "luvale": {
         "text": "nawa",
         "status": "unverified"
@@ -131471,6 +132040,10 @@
     "translations": {
       "lunda": {
         "text": "tumina",
+        "status": "unverified"
+      },
+      "luvale": {
+        "text": "visaji",
         "status": "unverified"
       },
       "tonga": {
@@ -135082,6 +135655,10 @@
         "text": "amasumbu",
         "status": "unverified"
       },
+      "kaonde": {
+        "text": "makonde",
+        "status": "unverified"
+      },
       "lozi": {
         "text": "tunyandi",
         "status": "unverified"
@@ -136610,6 +137187,10 @@
   {
     "english": "northward",
     "translations": {
+      "bemba": {
+        "text": "kapinda",
+        "status": "unverified"
+      },
       "lozi": {
         "text": "mutulo",
         "status": "unverified"
@@ -139277,6 +139858,10 @@
         "text": "olivi",
         "status": "unverified"
       },
+      "lozi": {
+        "text": "olive",
+        "status": "unverified"
+      },
       "lunda": {
         "text": "yaoliveta",
         "status": "unverified"
@@ -140693,6 +141278,10 @@
       "nyanja": {
         "text": "ine",
         "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
+        "status": "unverified"
       }
     }
   },
@@ -141246,6 +141835,10 @@
   {
     "english": "outcry",
     "translations": {
+      "lozi": {
+        "text": "ku",
+        "status": "unverified"
+      },
       "nyanja": {
         "text": "chifukwa",
         "status": "unverified"
@@ -141622,6 +142215,15 @@
       },
       "tonga": {
         "text": "aameso",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "oval",
+    "translations": {
+      "nyanja": {
+        "text": "ndipo",
         "status": "unverified"
       }
     }
@@ -142127,6 +142729,10 @@
   {
     "english": "overtaken",
     "translations": {
+      "lozi": {
+        "text": "li",
+        "status": "unverified"
+      },
       "lunda": {
         "text": "dehi",
         "status": "unverified"
@@ -142229,6 +142835,10 @@
     "translations": {
       "bemba": {
         "text": "lesa",
+        "status": "unverified"
+      },
+      "lozi": {
+        "text": "ba",
         "status": "unverified"
       },
       "luvale": {
@@ -142950,6 +143560,10 @@
       },
       "lunda": {
         "text": "hakuya",
+        "status": "unverified"
+      },
+      "luvale": {
+        "text": "kaha",
         "status": "unverified"
       },
       "tonga": {
@@ -144019,6 +144633,10 @@
         "text": "yawe",
         "status": "unverified"
       },
+      "lozi": {
+        "text": "ba",
+        "status": "unverified"
+      },
       "luvale": {
         "text": "lyehi",
         "status": "unverified"
@@ -144283,6 +144901,10 @@
   {
     "english": "parting",
     "translations": {
+      "bemba": {
+        "text": "ku",
+        "status": "unverified"
+      },
       "kaonde": {
         "text": "ne",
         "status": "unverified"
@@ -146100,6 +146722,10 @@
   {
     "english": "penalty",
     "translations": {
+      "bemba": {
+        "text": "na",
+        "status": "unverified"
+      },
       "kaonde": {
         "text": "yafwainwa",
         "status": "unverified"
@@ -146625,6 +147251,14 @@
       "lozi": {
         "text": "eza",
         "status": "unverified"
+      },
+      "luvale": {
+        "text": "kaha",
+        "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
+        "status": "unverified"
       }
     }
   },
@@ -146698,6 +147332,10 @@
   {
     "english": "perfumes",
     "translations": {
+      "lozi": {
+        "text": "ku",
+        "status": "unverified"
+      },
       "luvale": {
         "text": "vyamavumba",
         "status": "unverified"
@@ -146984,6 +147622,10 @@
       "lozi": {
         "text": "kwa",
         "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
+        "status": "unverified"
       }
     }
   },
@@ -147193,6 +147835,10 @@
       "luvale": {
         "text": "kunguyanjisa",
         "status": "unverified"
+      },
+      "tonga": {
+        "text": "mwami",
+        "status": "unverified"
       }
     }
   },
@@ -147314,6 +147960,10 @@
   {
     "english": "person",
     "translations": {
+      "lozi": {
+        "text": "mutu",
+        "status": "unverified"
+      },
       "nyanja": {
         "text": "munthu",
         "status": "unverified"
@@ -147538,6 +148188,10 @@
   {
     "english": "pertain",
     "translations": {
+      "bemba": {
+        "text": "na",
+        "status": "unverified"
+      },
       "kaonde": {
         "text": "bumi",
         "status": "unverified"
@@ -149492,6 +150146,10 @@
       "lunda": {
         "text": "ejima",
         "status": "unverified"
+      },
+      "luvale": {
+        "text": "kaha",
+        "status": "unverified"
       }
     }
   },
@@ -149811,6 +150469,10 @@
   {
     "english": "plainly",
     "translations": {
+      "lunda": {
+        "text": "chalumbuluka",
+        "status": "unverified"
+      },
       "luvale": {
         "text": "mwakulumbunuka",
         "status": "unverified"
@@ -150319,6 +150981,10 @@
         "text": "we",
         "status": "unverified"
       },
+      "lozi": {
+        "text": "ya",
+        "status": "unverified"
+      },
       "lunda": {
         "text": "nsaŋu",
         "status": "unverified"
@@ -150629,6 +151295,10 @@
       },
       "nyanja": {
         "text": "chiwembu",
+        "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
         "status": "unverified"
       }
     }
@@ -152149,6 +152819,10 @@
   {
     "english": "posterity",
     "translations": {
+      "bemba": {
+        "text": "mu",
+        "status": "unverified"
+      },
       "lozi": {
         "text": "baikulu",
         "status": "unverified"
@@ -153034,6 +153708,15 @@
     }
   },
   {
+    "english": "precious",
+    "translations": {
+      "kaonde": {
+        "text": "buneme",
+        "status": "unverified"
+      }
+    }
+  },
+  {
     "english": "precipitation",
     "translations": {
       "nyanja": {
@@ -153047,6 +153730,15 @@
     "translations": {
       "nyanja": {
         "text": "pakatikati",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "precision",
+    "translations": {
+      "nyanja": {
+        "text": "ndi",
         "status": "unverified"
       }
     }
@@ -153161,6 +153853,15 @@
     "translations": {
       "nyanja": {
         "text": "zitatu",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "prefer",
+    "translations": {
+      "lozi": {
+        "text": "ni",
         "status": "unverified"
       }
     }
@@ -153790,6 +154491,10 @@
         "text": "wa",
         "status": "unverified"
       },
+      "luvale": {
+        "text": "kaha",
+        "status": "unverified"
+      },
       "nyanja": {
         "text": "anthu",
         "status": "unverified"
@@ -154118,6 +154823,15 @@
     "translations": {
       "nyanja": {
         "text": "za",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "printed",
+    "translations": {
+      "nyanja": {
+        "text": "ndi",
         "status": "unverified"
       }
     }
@@ -154565,6 +155279,10 @@
       },
       "luvale": {
         "text": "ami",
+        "status": "unverified"
+      },
+      "tonga": {
+        "text": "leza",
         "status": "unverified"
       }
     }
@@ -155596,6 +156314,10 @@
       },
       "nyanja": {
         "text": "bwino",
+        "status": "unverified"
+      },
+      "tonga": {
+        "text": "mwami",
         "status": "unverified"
       }
     }
@@ -156681,6 +157403,10 @@
       "nyanja": {
         "text": "mulungu",
         "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
+        "status": "unverified"
       }
     }
   },
@@ -156812,6 +157538,10 @@
       },
       "lozi": {
         "text": "muleko",
+        "status": "unverified"
+      },
+      "lunda": {
+        "text": "yakulanda",
         "status": "unverified"
       },
       "luvale": {
@@ -157046,6 +157776,10 @@
     "translations": {
       "lozi": {
         "text": "lelile",
+        "status": "unverified"
+      },
+      "luvale": {
+        "text": "najinyi",
         "status": "unverified"
       }
     }
@@ -157363,6 +158097,10 @@
   {
     "english": "quake",
     "translations": {
+      "lozi": {
+        "text": "ka",
+        "status": "unverified"
+      },
       "luvale": {
         "text": "jajinene",
         "status": "unverified"
@@ -157485,6 +158223,15 @@
     }
   },
   {
+    "english": "quarrels",
+    "translations": {
+      "lozi": {
+        "text": "ku",
+        "status": "unverified"
+      }
+    }
+  },
+  {
     "english": "quarry",
     "translations": {
       "nyanja": {
@@ -157544,6 +158291,10 @@
   {
     "english": "queens",
     "translations": {
+      "lozi": {
+        "text": "ba",
+        "status": "unverified"
+      },
       "luvale": {
         "text": "masano",
         "status": "unverified"
@@ -158857,6 +159608,15 @@
       },
       "tonga": {
         "text": "lamotigiliyadi",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "ramp",
+    "translations": {
+      "nyanja": {
+        "text": "ndi",
         "status": "unverified"
       }
     }
@@ -160917,6 +161677,10 @@
   {
     "english": "reel",
     "translations": {
+      "bemba": {
+        "text": "na",
+        "status": "unverified"
+      },
       "lozi": {
         "text": "tantalika",
         "status": "unverified"
@@ -161174,6 +161938,15 @@
     "translations": {
       "luvale": {
         "text": "mwomwo",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "refresh",
+    "translations": {
+      "luvale": {
+        "text": "kuli",
         "status": "unverified"
       }
     }
@@ -162483,6 +163256,10 @@
   {
     "english": "renewed",
     "translations": {
+      "bemba": {
+        "text": "mu",
+        "status": "unverified"
+      },
       "kaonde": {
         "text": "kusangulwa",
         "status": "unverified"
@@ -162729,6 +163506,10 @@
         "text": "mu",
         "status": "unverified"
       },
+      "nyanja": {
+        "text": "ndi",
+        "status": "unverified"
+      },
       "tonga": {
         "text": "bubi",
         "status": "unverified"
@@ -162806,6 +163587,10 @@
     "translations": {
       "bemba": {
         "text": "ine",
+        "status": "unverified"
+      },
+      "lozi": {
+        "text": "ka",
         "status": "unverified"
       },
       "lunda": {
@@ -163016,6 +163801,10 @@
         "text": "amba",
         "status": "unverified"
       },
+      "lozi": {
+        "text": "ka",
+        "status": "unverified"
+      },
       "lunda": {
         "text": "nehi",
         "status": "unverified"
@@ -163048,6 +163837,15 @@
     "translations": {
       "nyanja": {
         "text": "komanso",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "reprisals",
+    "translations": {
+      "nyanja": {
+        "text": "ndi",
         "status": "unverified"
       }
     }
@@ -163148,6 +163946,14 @@
         "text": "kanshi",
         "status": "unverified"
       },
+      "lozi": {
+        "text": "li",
+        "status": "unverified"
+      },
+      "luvale": {
+        "text": "kaha",
+        "status": "unverified"
+      },
       "nyanja": {
         "text": "mbiri",
         "status": "unverified"
@@ -163231,6 +164037,10 @@
       },
       "luvale": {
         "text": "mwangana",
+        "status": "unverified"
+      },
+      "tonga": {
+        "text": "mwami",
         "status": "unverified"
       }
     }
@@ -163486,6 +164296,10 @@
       "nyanja": {
         "text": "kuti",
         "status": "unverified"
+      },
+      "tonga": {
+        "text": "leza",
+        "status": "unverified"
       }
     }
   },
@@ -163663,6 +164477,10 @@
   {
     "english": "respects",
     "translations": {
+      "bemba": {
+        "text": "elyo",
+        "status": "unverified"
+      },
       "kaonde": {
         "text": "kasa",
         "status": "unverified"
@@ -163702,6 +164520,10 @@
       },
       "luvale": {
         "text": "vatu",
+        "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
         "status": "unverified"
       }
     }
@@ -163874,6 +164696,15 @@
       },
       "nyanja": {
         "text": "koma",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "restraint",
+    "translations": {
+      "tonga": {
+        "text": "leza",
         "status": "unverified"
       }
     }
@@ -164123,6 +164954,10 @@
   {
     "english": "retribution",
     "translations": {
+      "lozi": {
+        "text": "li",
+        "status": "unverified"
+      },
       "nyanja": {
         "text": "chilango",
         "status": "unverified"
@@ -165040,6 +165875,10 @@
       },
       "lozi": {
         "text": "bile",
+        "status": "unverified"
+      },
+      "luvale": {
+        "text": "kaha",
         "status": "unverified"
       },
       "nyanja": {
@@ -166117,6 +166956,15 @@
     "translations": {
       "nyanja": {
         "text": "ena",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "roaming",
+    "translations": {
+      "nyanja": {
+        "text": "ndi",
         "status": "unverified"
       }
     }
@@ -170259,6 +171107,10 @@
       "nyanja": {
         "text": "nenani",
         "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
+        "status": "unverified"
       }
     }
   },
@@ -170840,6 +171692,10 @@
     "translations": {
       "luvale": {
         "text": "kutolekanga",
+        "status": "unverified"
+      },
+      "nyanja": {
+        "text": "ndi",
         "status": "unverified"
       }
     }
@@ -171606,6 +172462,10 @@
       "lunda": {
         "text": "wakusalulula",
         "status": "unverified"
+      },
+      "luvale": {
+        "text": "vyesekelo",
+        "status": "unverified"
       }
     }
   },
@@ -172000,6 +172860,10 @@
     "translations": {
       "kaonde": {
         "text": "byafyamika",
+        "status": "unverified"
+      },
+      "lunda": {
+        "text": "yakujinda",
         "status": "unverified"
       },
       "nyanja": {
@@ -172435,6 +173299,10 @@
       },
       "lunda": {
         "text": "dichi",
+        "status": "unverified"
+      },
+      "luvale": {
+        "text": "kuli",
         "status": "unverified"
       },
       "tonga": {
@@ -173780,6 +174648,10 @@
         "text": "ku",
         "status": "unverified"
       },
+      "lozi": {
+        "text": "ya",
+        "status": "unverified"
+      },
       "luvale": {
         "text": "ngwenyi",
         "status": "unverified"
@@ -173855,6 +174727,10 @@
     "translations": {
       "bemba": {
         "text": "abacita",
+        "status": "unverified"
+      },
+      "luvale": {
+        "text": "ujila",
         "status": "unverified"
       },
       "tonga": {
@@ -179400,6 +180276,10 @@
         "text": "ndeimba",
         "status": "unverified"
       },
+      "kaonde": {
+        "text": "kwimba",
+        "status": "unverified"
+      },
       "lozi": {
         "text": "naopela",
         "status": "unverified"
@@ -179608,6 +180488,10 @@
   {
     "english": "sirs",
     "translations": {
+      "kaonde": {
+        "text": "mwane",
+        "status": "unverified"
+      },
       "lozi": {
         "text": "banna",
         "status": "unverified"
@@ -180520,6 +181404,10 @@
       "luvale": {
         "text": "mwomwo",
         "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
+        "status": "unverified"
       }
     }
   },
@@ -180686,6 +181574,10 @@
       },
       "lunda": {
         "text": "mukwawu",
+        "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
         "status": "unverified"
       }
     }
@@ -183040,6 +183932,15 @@
     }
   },
   {
+    "english": "soul",
+    "translations": {
+      "lozi": {
+        "text": "ni",
+        "status": "unverified"
+      }
+    }
+  },
+  {
     "english": "sounded",
     "translations": {
       "kaonde": {
@@ -183078,6 +183979,15 @@
     "translations": {
       "kaonde": {
         "text": "bilulumo",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "soup",
+    "translations": {
+      "nyanja": {
+        "text": "ndi",
         "status": "unverified"
       }
     }
@@ -183398,6 +184308,10 @@
   {
     "english": "sparrow",
     "translations": {
+      "lozi": {
+        "text": "ni",
+        "status": "unverified"
+      },
       "lunda": {
         "text": "musweswa",
         "status": "unverified"
@@ -184427,6 +185341,15 @@
     }
   },
   {
+    "english": "splits",
+    "translations": {
+      "nyanja": {
+        "text": "ndi",
+        "status": "unverified"
+      }
+    }
+  },
+  {
     "english": "splitting",
     "translations": {
       "nyanja": {
@@ -184933,6 +185856,10 @@
       },
       "lozi": {
         "text": "na",
+        "status": "unverified"
+      },
+      "luvale": {
+        "text": "kaha",
         "status": "unverified"
       },
       "nyanja": {
@@ -185702,6 +186629,10 @@
   {
     "english": "stare",
     "translations": {
+      "lozi": {
+        "text": "ni",
+        "status": "unverified"
+      },
       "nyanja": {
         "text": "anga",
         "status": "unverified"
@@ -186240,6 +187171,10 @@
       },
       "lunda": {
         "text": "dihu",
+        "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
         "status": "unverified"
       }
     }
@@ -187553,6 +188488,10 @@
         "text": "akumafwiji",
         "status": "unverified"
       },
+      "luvale": {
+        "text": "kuvifwiji",
+        "status": "unverified"
+      },
       "nyanja": {
         "text": "tinsalu",
         "status": "unverified"
@@ -187808,8 +188747,16 @@
         "text": "kuti",
         "status": "unverified"
       },
+      "lozi": {
+        "text": "ya",
+        "status": "unverified"
+      },
       "nyanja": {
         "text": "mphamvu",
+        "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
         "status": "unverified"
       }
     }
@@ -187845,6 +188792,10 @@
       },
       "lunda": {
         "text": "nakudolola",
+        "status": "unverified"
+      },
+      "luvale": {
+        "text": "kaha",
         "status": "unverified"
       },
       "tonga": {
@@ -187990,6 +188941,10 @@
   {
     "english": "strings",
     "translations": {
+      "lozi": {
+        "text": "mu",
+        "status": "unverified"
+      },
       "nyanja": {
         "text": "zingwe",
         "status": "unverified"
@@ -188030,6 +188985,10 @@
   {
     "english": "strips",
     "translations": {
+      "bemba": {
+        "text": "ku",
+        "status": "unverified"
+      },
       "kaonde": {
         "text": "bisapi",
         "status": "unverified"
@@ -188539,6 +189498,10 @@
   {
     "english": "subdue",
     "translations": {
+      "bemba": {
+        "text": "pa",
+        "status": "unverified"
+      },
       "lozi": {
         "text": "tula",
         "status": "unverified"
@@ -189837,6 +190800,10 @@
       "lunda": {
         "text": "muloŋa",
         "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
+        "status": "unverified"
       }
     }
   },
@@ -190208,6 +191175,10 @@
       },
       "lozi": {
         "text": "maata",
+        "status": "unverified"
+      },
+      "lunda": {
+        "text": "nindi",
         "status": "unverified"
       },
       "luvale": {
@@ -190657,8 +191628,16 @@
         "text": "nao",
         "status": "unverified"
       },
+      "lozi": {
+        "text": "li",
+        "status": "unverified"
+      },
       "lunda": {
         "text": "nindi",
+        "status": "unverified"
+      },
+      "nyanja": {
+        "text": "ndi",
         "status": "unverified"
       }
     }
@@ -195561,6 +196540,10 @@
   {
     "english": "threshed",
     "translations": {
+      "lozi": {
+        "text": "ka",
+        "status": "unverified"
+      },
       "luvale": {
         "text": "mwomwo",
         "status": "unverified"
@@ -195657,6 +196640,10 @@
   {
     "english": "throat",
     "translations": {
+      "lozi": {
+        "text": "ni",
+        "status": "unverified"
+      },
       "nyanja": {
         "text": "kum'mero",
         "status": "unverified"
@@ -195926,6 +196913,10 @@
   {
     "english": "thunderings",
     "translations": {
+      "lozi": {
+        "text": "mi",
+        "status": "unverified"
+      },
       "lunda": {
         "text": "kudidima",
         "status": "unverified"
@@ -196557,6 +197548,10 @@
   {
     "english": "timna",
     "translations": {
+      "bemba": {
+        "text": "timuna",
+        "status": "unverified"
+      },
       "lozi": {
         "text": "timina",
         "status": "unverified"
@@ -196571,6 +197566,10 @@
       },
       "nyanja": {
         "text": "timna",
+        "status": "unverified"
+      },
+      "tonga": {
+        "text": "timuna",
         "status": "unverified"
       }
     }
@@ -196977,6 +197976,10 @@
         "text": "mulambula",
         "status": "unverified"
       },
+      "lozi": {
+        "text": "bulishumi",
+        "status": "unverified"
+      },
       "lunda": {
         "text": "yamwikumi",
         "status": "unverified"
@@ -197329,6 +198332,10 @@
       },
       "lunda": {
         "text": "nyinu",
+        "status": "unverified"
+      },
+      "luvale": {
+        "text": "minwe",
         "status": "unverified"
       },
       "nyanja": {
@@ -198215,6 +199222,10 @@
       },
       "nyanja": {
         "text": "kodi",
+        "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
         "status": "unverified"
       }
     }
@@ -199180,6 +200191,10 @@
   {
     "english": "traps",
     "translations": {
+      "lozi": {
+        "text": "ni",
+        "status": "unverified"
+      },
       "nyanja": {
         "text": "misampha",
         "status": "unverified"
@@ -200053,6 +201068,10 @@
   {
     "english": "trod",
     "translations": {
+      "bemba": {
+        "text": "no",
+        "status": "unverified"
+      },
       "lozi": {
         "text": "hatikezi",
         "status": "unverified"
@@ -200455,6 +201474,10 @@
       },
       "lozi": {
         "text": "sepahala",
+        "status": "unverified"
+      },
+      "luvale": {
+        "text": "kaha",
         "status": "unverified"
       },
       "nyanja": {
@@ -201098,6 +202121,10 @@
   {
     "english": "twelfth",
     "translations": {
+      "bemba": {
+        "text": "walenga",
+        "status": "unverified"
+      },
       "lozi": {
         "text": "bulishumi",
         "status": "unverified"
@@ -201243,6 +202270,10 @@
       },
       "luvale": {
         "text": "kumitute",
+        "status": "unverified"
+      },
+      "nyanja": {
+        "text": "ndi",
         "status": "unverified"
       },
       "tonga": {
@@ -202279,6 +203310,10 @@
       "nyanja": {
         "text": "munthu",
         "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
+        "status": "unverified"
       }
     }
   },
@@ -202946,6 +203981,10 @@
       "nyanja": {
         "text": "united",
         "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
+        "status": "unverified"
       }
     }
   },
@@ -203079,6 +204118,10 @@
       },
       "luvale": {
         "text": "muli",
+        "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
         "status": "unverified"
       }
     }
@@ -203837,6 +204880,10 @@
         "text": "fumana",
         "status": "unverified"
       },
+      "luvale": {
+        "text": "kaha",
+        "status": "unverified"
+      },
       "nyanja": {
         "text": "ndipo",
         "status": "unverified"
@@ -204280,6 +205327,15 @@
       },
       "nyanja": {
         "text": "phokoso",
+        "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "uproot",
+    "translations": {
+      "lozi": {
+        "text": "ku",
         "status": "unverified"
       }
     }
@@ -204901,6 +205957,10 @@
       "nyanja": {
         "text": "katapila",
         "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
+        "status": "unverified"
       }
     }
   },
@@ -205518,6 +206578,10 @@
       },
       "luvale": {
         "text": "japalata",
+        "status": "unverified"
+      },
+      "tonga": {
+        "text": "mwami",
         "status": "unverified"
       }
     }
@@ -206818,6 +207882,10 @@
         "text": "wujiki",
         "status": "unverified"
       },
+      "luvale": {
+        "text": "ngwavyo",
+        "status": "unverified"
+      },
       "nyanja": {
         "text": "unamwali",
         "status": "unverified"
@@ -207041,6 +208109,10 @@
     "translations": {
       "bemba": {
         "text": "mu",
+        "status": "unverified"
+      },
+      "lozi": {
+        "text": "ya",
         "status": "unverified"
       },
       "luvale": {
@@ -207861,6 +208933,10 @@
         "text": "we",
         "status": "unverified"
       },
+      "lozi": {
+        "text": "mi",
+        "status": "unverified"
+      },
       "luvale": {
         "text": "mutu",
         "status": "unverified"
@@ -208287,8 +209363,16 @@
   {
     "english": "wanting",
     "translations": {
+      "lozi": {
+        "text": "ku",
+        "status": "unverified"
+      },
       "luvale": {
         "text": "nge",
+        "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
         "status": "unverified"
       }
     }
@@ -208310,6 +209394,10 @@
       },
       "luvale": {
         "text": "nge",
+        "status": "unverified"
+      },
+      "nyanja": {
+        "text": "ndi",
         "status": "unverified"
       }
     }
@@ -208609,6 +209697,10 @@
       },
       "kaonde": {
         "text": "kechi",
+        "status": "unverified"
+      },
+      "lozi": {
+        "text": "mwa",
         "status": "unverified"
       },
       "lunda": {
@@ -208991,6 +210083,10 @@
   {
     "english": "watchers",
     "translations": {
+      "bemba": {
+        "text": "na",
+        "status": "unverified"
+      },
       "lozi": {
         "text": "mutu",
         "status": "unverified"
@@ -209578,6 +210674,10 @@
       },
       "nyanja": {
         "text": "ya",
+        "status": "unverified"
+      },
+      "tonga": {
+        "text": "kuti",
         "status": "unverified"
       }
     }
@@ -212413,6 +213513,10 @@
   {
     "english": "wizards",
     "translations": {
+      "bemba": {
+        "text": "mipashi",
+        "status": "unverified"
+      },
       "luvale": {
         "text": "vakutahisa",
         "status": "unverified"
@@ -213620,6 +214724,10 @@
   {
     "english": "worships",
     "translations": {
+      "bemba": {
+        "text": "na",
+        "status": "unverified"
+      },
       "kaonde": {
         "text": "wa",
         "status": "unverified"
@@ -213696,6 +214804,10 @@
   {
     "english": "worthless",
     "translations": {
+      "kaonde": {
+        "text": "amba",
+        "status": "unverified"
+      },
       "lozi": {
         "text": "tuso",
         "status": "unverified"
@@ -213793,6 +214905,10 @@
   {
     "english": "wounding",
     "translations": {
+      "lozi": {
+        "text": "li",
+        "status": "unverified"
+      },
       "nyanja": {
         "text": "munthu",
         "status": "unverified"
@@ -214873,6 +215989,10 @@
   {
     "english": "yields",
     "translations": {
+      "bemba": {
+        "text": "na",
+        "status": "unverified"
+      },
       "kaonde": {
         "text": "kechi",
         "status": "unverified"

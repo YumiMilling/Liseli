@@ -1,5 +1,6 @@
 import { Link, useLocation } from 'react-router-dom'
 import { useAuth } from '@/context/AuthContext'
+import { useState, useEffect } from 'react'
 
 const NAV_ITEMS = [
   { path: '/', label: 'Home', icon: HomeIcon },
@@ -12,41 +13,70 @@ const NAV_ITEMS = [
 export function Layout({ children }: { children: React.ReactNode }) {
   const location = useLocation()
   const { contributor } = useAuth()
+  const [dark, setDark] = useState(() => {
+    if (typeof window !== 'undefined') {
+      return localStorage.getItem('liseli-theme') !== 'light'
+    }
+    return true
+  })
+
+  useEffect(() => {
+    document.documentElement.classList.toggle('dark', dark)
+    document.documentElement.classList.toggle('light', !dark)
+    localStorage.setItem('liseli-theme', dark ? 'dark' : 'light')
+  }, [dark])
 
   return (
-    <div className="min-h-screen bg-slate-900 text-white flex flex-col">
+    <div className={`min-h-screen flex flex-col ${dark ? 'bg-slate-900 text-white' : 'bg-gray-50 text-gray-900'}`}>
       {/* Top bar */}
-      <header className="bg-slate-800 border-b border-slate-700 px-4 py-3 flex items-center justify-between">
+      <header className={`border-b px-4 py-3 flex items-center justify-between ${dark ? 'bg-slate-800 border-slate-700' : 'bg-white border-gray-200'}`}>
         <Link to="/" className="flex items-center gap-2">
           <span className="text-brand-400 font-bold text-xl">Liseli</span>
-          <span className="text-slate-500 text-xs hidden sm:inline">Zambia's Open Language Project</span>
+          <span className={`text-xs hidden sm:inline ${dark ? 'text-slate-500' : 'text-gray-400'}`}>Zambia's Open Language Project</span>
         </Link>
-        {contributor ? (
-          <Link
-            to="/profile"
-            className="flex items-center gap-2 text-sm text-slate-300 hover:text-white"
+        <div className="flex items-center gap-3">
+          <button
+            onClick={() => setDark(!dark)}
+            className={`w-8 h-8 rounded-lg flex items-center justify-center transition-colors ${dark ? 'bg-slate-700 hover:bg-slate-600 text-slate-300' : 'bg-gray-100 hover:bg-gray-200 text-gray-600'}`}
+            title={dark ? 'Switch to light theme' : 'Switch to dark theme'}
           >
-            <span className="bg-brand-600 w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold">
-              {contributor.handle[0].toUpperCase()}
-            </span>
-            <span className="hidden sm:inline">{contributor.handle}</span>
-            <span className="text-brand-400 font-medium">{contributor.points} pts</span>
-          </Link>
-        ) : (
-          <Link
-            to="/profile"
-            className="text-sm bg-brand-600 hover:bg-brand-700 px-3 py-1.5 rounded-lg transition-colors"
-          >
-            Join
-          </Link>
-        )}
+            {dark ? (
+              <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
+              </svg>
+            ) : (
+              <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
+              </svg>
+            )}
+          </button>
+          {contributor ? (
+            <Link
+              to="/profile"
+              className={`flex items-center gap-2 text-sm ${dark ? 'text-slate-300 hover:text-white' : 'text-gray-600 hover:text-gray-900'}`}
+            >
+              <span className="bg-brand-600 w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold text-white">
+                {contributor.handle[0].toUpperCase()}
+              </span>
+              <span className="hidden sm:inline">{contributor.handle}</span>
+              <span className="text-brand-400 font-medium">{contributor.points} pts</span>
+            </Link>
+          ) : (
+            <Link
+              to="/profile"
+              className="text-sm bg-brand-600 hover:bg-brand-700 text-white px-3 py-1.5 rounded-lg transition-colors"
+            >
+              Join
+            </Link>
+          )}
+        </div>
       </header>
 
       {/* Main content */}
       <main className="flex-1 overflow-y-auto pb-20">{children}</main>
 
       {/* Bottom navigation */}
-      <nav className="fixed bottom-0 left-0 right-0 bg-slate-800 border-t border-slate-700 px-2 py-1 flex justify-around safe-bottom">
+      <nav className={`fixed bottom-0 left-0 right-0 border-t px-2 py-1 flex justify-around safe-bottom ${dark ? 'bg-slate-800 border-slate-700' : 'bg-white border-gray-200'}`}>
         {NAV_ITEMS.map(({ path, label, icon: Icon }) => {
           const active = location.pathname === path
           return (
