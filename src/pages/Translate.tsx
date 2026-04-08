@@ -5,9 +5,9 @@ import { TIERS, LANGUAGES } from '@/lib/constants'
 import type { Tier, ZamLanguage } from '@/types'
 
 export function Translate() {
-  const [tier, setTier] = useState<Tier | undefined>()
+  const [tier, setTier] = useState<Tier | undefined>('word')
   const [language, setLanguage] = useState<ZamLanguage>('bemba')
-  const { sentences, loading, submitTranslation, refetch } = useTranslations({ tier })
+  const { sentences, loading, submitTranslation, refetch } = useTranslations({ tier, excludeSentences: true })
   const [index, setIndex] = useState(0)
   const [text, setText] = useState('')
   const [phase, setPhase] = useState<'input' | 'submitted' | 'done'>('input')
@@ -99,9 +99,9 @@ export function Translate() {
         <div className="flex items-center justify-between mb-3">
           <LanguageSelector selected={language} onChange={(l) => l && setLanguage(l)} />
           <div className="flex items-center gap-3">
-            {/* Tier pills */}
+            {/* Tier pills — words and phrases only */}
             <div className="flex gap-1">
-              {TIERS.map(t => (
+              {TIERS.filter(t => t.id !== 'sentence').map(t => (
                 <button
                   key={t.id}
                   onClick={() => setTier(tier === t.id ? undefined : t.id)}

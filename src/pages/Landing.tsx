@@ -11,17 +11,17 @@ export function Landing() {
       {/* Hero */}
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-bold mb-3 leading-tight">
-          Our languages deserve
+          Your language matters.
           <br />
-          <span className="text-brand-400">a digital future.</span>
+          <span className="text-brand-400">Help us prove it.</span>
         </h1>
         <p className="text-slate-400 text-lg max-w-md mx-auto mb-4">
-          Technology that doesn't speak your language excludes you.
-          Liseli is building the open dataset to change that — for all 7 Zambian languages.
+          Technology doesn't speak Bemba, Nyanja, Tonga, or any Zambian language.
+          We're changing that — one translation at a time.
         </p>
         <p className="text-slate-500 text-sm max-w-sm mx-auto">
-          When a mother can describe symptoms in Lozi, a farmer can get advice in Bemba,
-          and a child can learn to read in Kaonde — that's what this data makes possible.
+          Translate a word. Validate a phrase. Every contribution
+          brings our languages closer to the digital world.
         </p>
       </div>
 
@@ -80,23 +80,23 @@ export function Landing() {
         <div className="space-y-4">
           <Step
             n={1}
-            title="Digital exclusion is real"
-            desc="Technology that only works in English excludes millions of Zambians. A farmer can't get crop advice. A patient can't describe symptoms. A child can't learn to read."
+            title="Your knowledge is valuable"
+            desc="You speak a language that technology doesn't understand. That makes you the expert — no AI, no professor, no company can do what you can."
           />
           <Step
             n={2}
-            title="Languages without data disappear"
-            desc="If our languages don't exist digitally, they lose relevance. Making them part of technology is an act of preservation."
+            title="Small contributions, big impact"
+            desc="Translate one word. Confirm one phrase. It takes seconds, but every verified translation teaches technology to understand another piece of your language."
           />
           <Step
             n={3}
-            title="Only we can do this"
-            desc="No tech company will build this — the market is too small. Only Zambian speakers have the knowledge to get the translations right."
+            title="See your language grow"
+            desc="Watch the coverage bars fill up. See how your province compares. Every contribution is counted and credited — your name, your language, your impact."
           />
           <Step
             n={4}
-            title="The data is open, forever"
-            desc="Everything built here is CC BY-SA — owned by the community, free for anyone to use. Nobody locks up what the crowd built."
+            title="It stays open, forever"
+            desc="Everything built here belongs to Zambia. No company owns it, nobody locks it up. Your contribution is a permanent gift to your language."
           />
         </div>
       </div>

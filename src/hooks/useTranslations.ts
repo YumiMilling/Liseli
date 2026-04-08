@@ -7,6 +7,7 @@ interface UseTranslationsOptions {
   domain?: Domain
   tier?: Tier
   status?: Translation['status']
+  excludeSentences?: boolean
 }
 
 export function useTranslations(options: UseTranslationsOptions = {}) {
@@ -16,9 +17,12 @@ export function useTranslations(options: UseTranslationsOptions = {}) {
   const fetchSentences = useCallback(async () => {
     setLoading(true)
     const data = await getSentences({ tier: options.tier, domain: options.domain })
-    setSentences(data)
+    const filtered = options.excludeSentences
+      ? data.filter(s => s.tier !== 'sentence')
+      : data
+    setSentences(filtered)
     setLoading(false)
-  }, [options.tier, options.domain])
+  }, [options.tier, options.domain, options.excludeSentences])
 
   useEffect(() => {
     fetchSentences()

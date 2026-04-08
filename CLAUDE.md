@@ -232,22 +232,102 @@ Modern open-data project. National language infrastructure — not a startup, no
 
 ---
 
-## Day-One Users
+## User Personas
 
-### Primary: University Students
-- **Who:** Language/linguistics students at UNZA, CBU, Mulungushi, Chalimbana
-- **Why them:** Have linguistic knowledge, phone/data access, academic motivation, social networks
-- **Hook:** "Contribute to your thesis. Build your language's AI dataset. Get credited."
-- **Activation:** Partner with language departments, offer as coursework/extra credit, campus ambassadors
+### 1. Mwila — The Linguistics Student (21, UNZA, Lusaka)
+- **Languages:** Bemba (mother tongue), Nyanja (town), English (academic)
+- **Device:** Mid-range Android, always on WhatsApp, intermittent WiFi at campus
+- **Motivation:** Needs thesis material, wants her name on something published, peer validation
+- **Behaviour:** Does 10-20 translations in one sitting between classes, shares progress with classmates
+- **What she needs from Liseli:** Quick sign-up (Google), visible contribution count, shareable stats card, her name credited on the dataset
+- **Risk:** Loses interest after the novelty wears off — needs streaks or academic incentive to retain
+- **Sign-up trigger:** Lecturer mentions it in class, or classmate shares WhatsApp achievement card
+- **Trust level:** Starts as contributor, can become trusted translator quickly with volume
 
-### Secondary: MoE Teachers
-- **Who:** Teachers using the 2025 local language curriculum (Grades 1-4)
-- **Why them:** Already working with the content, understand the languages deeply, motivated by professional relevance
-- **Hook:** "The translations you verify become teaching tools. Help build AI that teaches in your language."
+### 2. Mr. Banda — The Posted Teacher (34, Grade 2, Southern Province)
+- **Languages:** Nyanja (home), learning Tonga (for students), English (professional)
+- **Device:** Older Android, buys data bundles weekly, uses phone mostly for WhatsApp and calling
+- **Motivation:** Needs to teach in Tonga but doesn't speak it well — the cross-language feature is genuinely useful for lesson prep
+- **Behaviour:** Uses the app as a reference tool first, contributes translations when he feels confident
+- **What he needs from Liseli:** Cross-language dictionary, offline access, simple UI with big text, validation of Tonga entries so he knows they're correct
+- **Risk:** Won't contribute if the flow is complex or data-heavy — he's paying per MB
+- **Sign-up trigger:** Shared by another teacher on a WhatsApp group, or recommended at a CPD workshop
+- **Trust level:** Reliable validator for Nyanja, cautious contributor for Tonga
+
+### 3. Chanda — The Diaspora Developer (28, Cape Town)
+- **Languages:** Bemba (childhood), English (daily), Nyanja (some)
+- **Device:** iPhone, fast internet, uses GitHub
+- **Motivation:** Misses home, wants to contribute to Zambia without moving back, understands the tech value
+- **Behaviour:** Contributes in bursts — 50 translations on a Sunday afternoon. Also looks at the codebase, might submit PRs.
+- **What he needs from Liseli:** Open source credibility (GitHub, AGPL), clean API, visible data quality metrics, a way to contribute code not just translations
+- **Risk:** Will leave if the project looks amateur or the data is full of junk
+- **Sign-up trigger:** Finds the GitHub repo through African NLP communities (Masakhane, etc.)
+- **Trust level:** High for Bemba, can review code and data quality
+
+### 4. Ba Mutale — The Retired Teacher (55, Kasama)
+- **Languages:** Deep Bemba (including rural dialects), English (limited)
+- **Device:** Basic smartphone, struggles with small text, son helps him with apps
+- **Motivation:** Worried that young people are losing Bemba, wants to preserve it
+- **Behaviour:** Would validate 5-10 entries per day if the flow is simple. His contributions are gold — dialect knowledge no student has.
+- **What he needs from Liseli:** Large text, minimal options per screen, Bemba UI labels where possible, voice input eventually
+- **Risk:** Will abandon the app if he can't figure out sign-up or navigation alone
+- **Sign-up trigger:** Son or grandchild sets it up for him
+- **Trust level:** Should be "Language Elder" fast — his validations carry more weight than a student's
+
+### 5. Bwalya — The NGO Officer (38, UNICEF, Lusaka)
+- **Languages:** Bemba, Nyanja, English (professional)
+- **Device:** Good Android, office laptop, strong internet
+- **Motivation:** Works on "digital inclusion" but it's all reports and workshops — wants to DO something real
+- **Behaviour:** Champions Liseli internally, connects it to funding. Contributes moderately but her real value is institutional credibility and network.
+- **What she needs from Liseli:** Impact metrics she can put in a report ("Liseli has X translations by Y contributors"), professional presentation, data export for research
+- **Risk:** Wants to "partner" and slow things down with institutional process
+- **Sign-up trigger:** Sees it at a digital inclusion conference or through ZAMAI network
+- **Trust level:** Moderate contributor, high value as ambassador and connector
+
+### 6. Mumba — The Frustrated Civil Servant (42, MoE, Ndola)
+- **Languages:** Bemba, Nyanja, some Lamba
+- **Device:** Android, government data plan
+- **Motivation:** Knows the education system is failing at local language instruction. Sees Liseli as what the ministry should have built. Quiet contribution — doesn't want visibility from employer.
+- **Behaviour:** Validates MoE-sourced content for accuracy, contributes during lunch breaks
+- **What he needs from Liseli:** Anonymity option (handle not real name), ability to validate specific domains (education), see that the data is actually being used
+- **Risk:** May push for government involvement which could politicize the project
+- **Sign-up trigger:** Hears about it through education WhatsApp groups
+- **Trust level:** High validator for education content specifically
+
+### 7. Tembo — The Language Champion (30, Monze)
+- **Languages:** Tonga (fierce pride), English, some Nyanja
+- **Device:** Android, decent data
+- **Motivation:** Identity. Tonga is underrepresented everywhere — in government, media, technology. Liseli's coverage chart showing Tonga behind Bemba lights a fire in him.
+- **Behaviour:** Recruits every Tonga speaker he knows. Posts about it on Facebook. Competitive — checks the leaderboard daily. Will do 100 translations to push Tonga past Bemba.
+- **What he needs from Liseli:** Provincial/language leaderboards, visible competition ("Tonga vs Bemba"), community pride metrics, ability to recruit and track his network's contributions
+- **Risk:** Quality suffers when he's chasing quantity. May submit rushed translations to boost numbers.
+- **Sign-up trigger:** Sees a post about it on Zambian Facebook/WhatsApp, notices Tonga is low
+- **Trust level:** High volume but needs cross-validation — flag if accuracy drops while speed increases
+
+### 8. The Troll
+- **Who:** Bad actor — bored teenager, political saboteur, or spam bot
+- **Behaviour:** Submits "asdf", offensive content, deliberately wrong translations, or automated garbage
+- **Design against:**
+  - Rate limiting (max translations per hour)
+  - Cross-validation (3 independent votes needed)
+  - Anomaly detection (flag contributors whose validations consistently disagree with consensus)
+  - New accounts can only validate high-confidence entries, not translate freely
+  - Report button on every translation
+  - Shadow ban (they see their contributions but nobody else does)
+  - IP/device fingerprinting for repeat offenders
+
+### Sign-up Flow (for all personas)
+- **Barrier:** As low as possible
+- **Options:** Phone number (SMS OTP) or Google sign-in — these cover 95% of Zambian smartphone users
+- **Profile creation:** Handle (not real name required), languages spoken, province — three fields, one screen
+- **Browse first:** Anyone can explore the data without signing up. Sign-up prompt appears only when they try to contribute.
+- **Progressive profile:** Start minimal, earn badges and trust level through contributions
 
 ### Growth Path
-1. **Seed:** 50-100 university contributors, validate mechanics and data quality
+1. **Seed:** 50-100 university contributors (Mwila × 50), validate mechanics and data quality
 2. **WhatsApp word-of-mouth:** Shareable achievement cards, "I contributed 50 Tonga translations" images
-3. **Provincial pride:** "Eastern Province leads! Northern Province closing the gap!" — friendly competition
-4. **General public:** Once the app works and has visible traction, open to everyone
-5. **Diaspora:** Zambians abroad miss their languages — emotional hook for contributions
+3. **Provincial pride:** "Eastern Province leads! Northern Province closing the gap!" — Tembo recruits his whole town
+4. **Institutional adoption:** Bwalya brings UNICEF/MoE interest, adds credibility
+5. **General public:** Once the app works and has visible traction, open to everyone
+6. **Diaspora:** Chanda tells the Masakhane Slack channel, developer community picks it up
+7. **Elders:** Ba Mutale's son sets it up for him, his contributions become the gold standard

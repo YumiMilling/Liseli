@@ -53,5 +53,5 @@ export const MILESTONES = [
   { count: 10, label: 'First 10 translations' },
   { count: 1, label: 'First verified translation', type: 'verified' as const },
   { count: 100, label: '100 translations' },
-  { count: 7, label: 'Contributed to all 7 languages', type: 'languages' as const },
+  { count: 7, label: 'Contributed across all languages', type: 'languages' as const },
 ] as const

@@ -4,9 +4,9 @@
 
 **Zambia's Open Language Project**
 
-Like the Human Genome Project mapped every human gene, Liseli is mapping every word, phrase, and sentence in Zambia's 7 official languages — so AI can finally speak them.
+**Liseli** ("light" in Lozi) is Zambia's open language project. We're building the dataset that will teach technology to understand Zambian languages — **Bemba, Nyanja, Tonga, Lozi, Kaonde, Lunda, Luvale**, and more to come.
 
-**Liseli** ("light" in Lozi) is a national open-data project to build the training data needed for AI that speaks **Bemba, Nyanja, Tonga, Lozi, Kaonde, Lunda, and Luvale.**
+If you speak a Zambian language, you can contribute. Translate a word, validate a phrase — every contribution counts.
 
 ---
 

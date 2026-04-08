@@ -37,7 +37,7 @@ export function CrossLanguage() {
     <div className="max-w-2xl mx-auto px-4 py-6">
       <h2 className="text-xl font-bold mb-1">Cross-Language</h2>
       <p className="text-slate-400 text-sm mb-5">
-        Compare any two Zambian languages side by side.
+        Compare any two Zambian languages side by side — because understanding each other is what One Zambia means.
       </p>
 
       {/* Language pair selector */}

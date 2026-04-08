@@ -158,7 +158,7 @@ export function Browse() {
             <div className="flex justify-between items-center">
               <div>
                 <p className="font-semibold text-white">Storybooks Zambia</p>
-                <p className="text-xs text-slate-400">40 stories, all 7 languages + English, CC-BY</p>
+                <p className="text-xs text-slate-400">40 stories across Zambian languages + English, CC-BY</p>
               </div>
               <span className="text-slate-400">→</span>
             </div>
@@ -171,7 +171,7 @@ export function Browse() {
             <div className="flex justify-between items-center">
               <div>
                 <p className="font-semibold text-white">Bible</p>
-                <p className="text-xs text-slate-400">66 books, ~31K verses, 7 languages aligned</p>
+                <p className="text-xs text-slate-400">66 books, ~31K verses, aligned across languages</p>
               </div>
               <span className="text-slate-400">→</span>
             </div>
@@ -184,7 +184,7 @@ export function Browse() {
             <div className="flex justify-between items-center">
               <div>
                 <p className="font-semibold text-white">Dictionary</p>
-                <p className="text-xs text-slate-400">14K+ English words with translations in 7 languages (draft, unverified)</p>
+                <p className="text-xs text-slate-400">12K+ English words with translations across languages (draft, unverified)</p>
               </div>
               <span className="text-slate-400">→</span>
             </div>
@@ -333,7 +333,7 @@ export function Browse() {
       <div className="max-w-3xl mx-auto px-4 py-6">
         <Breadcrumb />
         <h2 className="text-lg font-bold mb-1">Bible — {bible.length} books</h2>
-        <p className="text-xs text-slate-400 mb-4">{bible.reduce((s, b) => s + b.verse_count, 0).toLocaleString()} verses, aligned across 7 languages + English</p>
+        <p className="text-xs text-slate-400 mb-4">{bible.reduce((s, b) => s + b.verse_count, 0).toLocaleString()} verses, aligned across languages + English</p>
         <BookList books={ot} title="Old Testament" />
         <BookList books={nt} title="New Testament" />
       </div>
