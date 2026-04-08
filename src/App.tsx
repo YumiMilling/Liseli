@@ -6,6 +6,8 @@ import { Translate } from '@/pages/Translate'
 import { Validate } from '@/pages/Validate'
 import { Discuss } from '@/pages/Discuss'
 import { Leaderboard } from '@/pages/Leaderboard'
+import { Browse } from '@/pages/Browse'
+import { CrossLanguage } from '@/pages/CrossLanguage'
 import { Profile } from '@/pages/Profile'
 
 export default function App() {
@@ -19,6 +21,8 @@ export default function App() {
             <Route path="/validate" element={<Validate />} />
             <Route path="/discuss" element={<Discuss />} />
             <Route path="/leaderboard" element={<Leaderboard />} />
+            <Route path="/browse" element={<Browse />} />
+            <Route path="/cross" element={<CrossLanguage />} />
             <Route path="/profile" element={<Profile />} />
           </Routes>
         </Layout>

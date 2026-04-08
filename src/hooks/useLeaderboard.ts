@@ -1,33 +1,18 @@
-import { useState, useEffect, useCallback } from 'react'
-import { supabase } from '@/lib/supabase'
+import { useState, useEffect } from 'react'
+import { getCoverage, getStats } from '@/lib/localData'
 import type { LeaderboardEntry, LanguageCoverage } from '@/types'
 
 export function useLeaderboard() {
   const [entries, setEntries] = useState<LeaderboardEntry[]>([])
   const [loading, setLoading] = useState(true)
 
-  const fetch = useCallback(async () => {
-    setLoading(true)
-    const { data } = await supabase
-      .from('contributors')
-      .select('*')
-      .order('points', { ascending: false })
-      .limit(50)
-
-    const mapped: LeaderboardEntry[] = (data ?? []).map((c, i) => ({
-      rank: i + 1,
-      contributor: c,
-      points: c.points,
-    }))
-    setEntries(mapped)
+  useEffect(() => {
+    // Local mode: no real contributors yet, show placeholder
+    setEntries([])
     setLoading(false)
   }, [])
 
-  useEffect(() => {
-    fetch()
-  }, [fetch])
-
-  return { entries, loading, refetch: fetch }
+  return { entries, loading, refetch: () => {} }
 }
 
 export function useLanguageCoverage() {
@@ -35,15 +20,26 @@ export function useLanguageCoverage() {
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
-    async function fetch() {
-      const { data } = await supabase
-        .from('language_coverage')
-        .select('*')
-      setCoverage(data ?? [])
+    getCoverage().then(data => {
+      setCoverage(data)
       setLoading(false)
-    }
-    fetch()
+    })
   }, [])
 
   return { coverage, loading }
+}
+
+export function useStats() {
+  const [stats, setStats] = useState<{
+    total_sentences: number
+    total_translations: number
+    total_corpus?: number
+    tiers: Record<string, number>
+  } | null>(null)
+
+  useEffect(() => {
+    getStats().then(setStats)
+  }, [])
+
+  return stats
 }

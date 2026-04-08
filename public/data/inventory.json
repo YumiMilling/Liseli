@@ -1,0 +1,340 @@
+{
+  "bemba": {
+    "language": "bemba",
+    "sources": [
+      {
+        "name": "Storybooks Zambia",
+        "type": "parallel",
+        "count": 416,
+        "quality": "verified"
+      },
+      {
+        "name": "Dictionary (statistical)",
+        "type": "parallel",
+        "count": 531,
+        "quality": "unverified"
+      },
+      {
+        "name": "MoE Glossary",
+        "type": "parallel",
+        "count": 1,
+        "quality": "verified"
+      },
+      {
+        "name": "bible",
+        "type": "monolingual",
+        "count": 32437,
+        "words": 612158
+      },
+      {
+        "name": "moe",
+        "type": "monolingual",
+        "count": 7251,
+        "words": 134068
+      },
+      {
+        "name": "storybook",
+        "type": "monolingual",
+        "count": 416,
+        "words": 8791
+      }
+    ],
+    "total_parallel": 948,
+    "total_corpus": 40104,
+    "total_words": 755018
+  },
+  "nyanja": {
+    "language": "nyanja",
+    "sources": [
+      {
+        "name": "Storybooks Zambia",
+        "type": "parallel",
+        "count": 414,
+        "quality": "verified"
+      },
+      {
+        "name": "Bible (parallel)",
+        "type": "parallel",
+        "count": 30491,
+        "quality": "verified"
+      },
+      {
+        "name": "Dictionary (statistical)",
+        "type": "parallel",
+        "count": 11641,
+        "quality": "unverified"
+      },
+      {
+        "name": "dmatekenya MT",
+        "type": "parallel",
+        "count": 13624,
+        "quality": "verified"
+      },
+      {
+        "name": "Tatoeba",
+        "type": "parallel",
+        "count": 23,
+        "quality": "verified"
+      },
+      {
+        "name": "Wikimedia",
+        "type": "parallel",
+        "count": 1018,
+        "quality": "verified"
+      },
+      {
+        "name": "MoE Glossary",
+        "type": "parallel",
+        "count": 54,
+        "quality": "verified"
+      },
+      {
+        "name": "bible",
+        "type": "monolingual",
+        "count": 30399,
+        "words": 666034
+      },
+      {
+        "name": "dmatekenya",
+        "type": "monolingual",
+        "count": 13482,
+        "words": 351795
+      },
+      {
+        "name": "masakhane-ner",
+        "type": "monolingual",
+        "count": 8816,
+        "words": 290701
+      },
+      {
+        "name": "zambezivoice",
+        "type": "monolingual",
+        "count": 8724,
+        "words": 138808
+      },
+      {
+        "name": "other-pdf",
+        "type": "monolingual",
+        "count": 7684,
+        "words": 50663
+      },
+      {
+        "name": "moe",
+        "type": "monolingual",
+        "count": 6376,
+        "words": 114301
+      },
+      {
+        "name": "usaid",
+        "type": "monolingual",
+        "count": 2131,
+        "words": 25724
+      },
+      {
+        "name": "jw.org",
+        "type": "monolingual",
+        "count": 1070,
+        "words": 11359
+      },
+      {
+        "name": "storybook",
+        "type": "monolingual",
+        "count": 414,
+        "words": 8695
+      }
+    ],
+    "total_parallel": 57265,
+    "total_corpus": 79096,
+    "total_words": 1658083
+  },
+  "tonga": {
+    "language": "tonga",
+    "sources": [
+      {
+        "name": "Storybooks Zambia",
+        "type": "parallel",
+        "count": 414,
+        "quality": "verified"
+      },
+      {
+        "name": "Dictionary (statistical)",
+        "type": "parallel",
+        "count": 470,
+        "quality": "unverified"
+      },
+      {
+        "name": "bible",
+        "type": "monolingual",
+        "count": 32201,
+        "words": 606985
+      },
+      {
+        "name": "moe",
+        "type": "monolingual",
+        "count": 7282,
+        "words": 130145
+      },
+      {
+        "name": "storybook",
+        "type": "monolingual",
+        "count": 414,
+        "words": 8664
+      }
+    ],
+    "total_parallel": 884,
+    "total_corpus": 39897,
+    "total_words": 745795
+  },
+  "lozi": {
+    "language": "lozi",
+    "sources": [
+      {
+        "name": "Storybooks Zambia",
+        "type": "parallel",
+        "count": 414,
+        "quality": "verified"
+      },
+      {
+        "name": "Dictionary (statistical)",
+        "type": "parallel",
+        "count": 552,
+        "quality": "unverified"
+      },
+      {
+        "name": "bible",
+        "type": "monolingual",
+        "count": 30690,
+        "words": 590786
+      },
+      {
+        "name": "moe",
+        "type": "monolingual",
+        "count": 12827,
+        "words": 204930
+      },
+      {
+        "name": "storybook",
+        "type": "monolingual",
+        "count": 414,
+        "words": 8809
+      }
+    ],
+    "total_parallel": 966,
+    "total_corpus": 43931,
+    "total_words": 804526
+  },
+  "kaonde": {
+    "language": "kaonde",
+    "sources": [
+      {
+        "name": "Storybooks Zambia",
+        "type": "parallel",
+        "count": 414,
+        "quality": "verified"
+      },
+      {
+        "name": "Dictionary (statistical)",
+        "type": "parallel",
+        "count": 527,
+        "quality": "unverified"
+      },
+      {
+        "name": "moe",
+        "type": "monolingual",
+        "count": 9881,
+        "words": 178303
+      },
+      {
+        "name": "bible",
+        "type": "monolingual",
+        "count": 7933,
+        "words": 158876
+      },
+      {
+        "name": "storybook",
+        "type": "monolingual",
+        "count": 414,
+        "words": 9605
+      }
+    ],
+    "total_parallel": 941,
+    "total_corpus": 18228,
+    "total_words": 346785
+  },
+  "lunda": {
+    "language": "lunda",
+    "sources": [
+      {
+        "name": "Storybooks Zambia",
+        "type": "parallel",
+        "count": 414,
+        "quality": "verified"
+      },
+      {
+        "name": "Dictionary (statistical)",
+        "type": "parallel",
+        "count": 522,
+        "quality": "unverified"
+      },
+      {
+        "name": "bible",
+        "type": "monolingual",
+        "count": 30560,
+        "words": 549541
+      },
+      {
+        "name": "moe",
+        "type": "monolingual",
+        "count": 7005,
+        "words": 132364
+      },
+      {
+        "name": "storybook",
+        "type": "monolingual",
+        "count": 414,
+        "words": 8659
+      }
+    ],
+    "total_parallel": 936,
+    "total_corpus": 37979,
+    "total_words": 690565
+  },
+  "luvale": {
+    "language": "luvale",
+    "sources": [
+      {
+        "name": "Storybooks Zambia",
+        "type": "parallel",
+        "count": 414,
+        "quality": "verified"
+      },
+      {
+        "name": "Dictionary (statistical)",
+        "type": "parallel",
+        "count": 499,
+        "quality": "unverified"
+      },
+      {
+        "name": "bible",
+        "type": "monolingual",
+        "count": 30711,
+        "words": 667325
+      },
+      {
+        "name": "moe",
+        "type": "monolingual",
+        "count": 8410,
+        "words": 153545
+      },
+      {
+        "name": "storybook",
+        "type": "monolingual",
+        "count": 414,
+        "words": 9225
+      }
+    ],
+    "total_parallel": 913,
+    "total_corpus": 39535,
+    "total_words": 830097
+  }
+}

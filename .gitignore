@@ -4,3 +4,27 @@ dist
 .env.local
 *.local
 tsconfig.tsbuildinfo
+
+# Data files (large, downloaded/generated)
+data/moe-zambian-languages/
+data/moe-extracted-text/
+data/storybooks-zambia/
+data/storybooks-bilingual/
+data/opus-corpora/
+data/nyanja-sources/
+data/nyanja-zambian/
+data/govt-local-lang/
+data/bibles/*.txt
+data/bibles/*.zip
+data/bibles/*.py
+data/bibles/*.log
+data/*.db-wal
+data/*.db-shm
+data/*_backup_*
+
+# Database is too large for git — rebuild with scripts/
+data/*.db
+data/bibles/
+
+# Claude config
+.claude/

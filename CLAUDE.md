@@ -160,3 +160,94 @@ Ministry of Education curriculum materials (Grades 1-4, all 7 languages) — gov
 - App: open source (AGPL)
 - Translations: community-owned (CC BY-SA)
 - Nobody locks up what the crowd built
+
+---
+
+## Brand Identity
+
+### Name
+**Liseli** = "light" in Lozi. Illuminating Zambian languages for the AI era.
+
+### Positioning
+Modern open-data project. National language infrastructure — not a startup, not a dated wiki. Think of it as Zambia's equivalent of Common Voice (Mozilla) or OpenStreetMap, but for language.
+
+**Tagline:** "Zambia's Open Language Project"
+
+**Trust statement:** Prominent ownership declaration on every page. CC BY-SA and AGPL are pride badges, not legal fine print. "This data belongs to Zambia. Nobody locks up what the crowd built."
+
+### Visual Identity
+
+**Aesthetic:** Dark UI, modern and premium. The polish of Duolingo + the clarity of Linear + the community feel of GitHub. This is a serious national project, not a toy.
+
+- **Primary color:** Emerald green (`#059669`) — Zambian flag colour
+- **Dark background:** Slate 900 (`#0f172a`) — premium, modern, easy on eyes
+- **Typography:** Inter — clean sans-serif, readable at all sizes
+- **Micro-animations:** Progress bars filling, numbers ticking up, cards swiping, coverage percentages animating
+- **Zambia map:** Data visualization showing provinces lit by contribution density — not decorative clipart, but a live dashboard showing where contributions come from
+- **CC BY-SA badge:** Styled and prominent, a mark of pride not a footnote
+- **Open source:** Featured as a selling point — "Built by Zambians, owned by Zambians, open to all"
+
+### What the UI Should NOT Be
+- Not a spreadsheet of translations (academic/boring)
+- Not a dated wiki interface (Wikipedia circa 2008)
+- Not cluttered with options (mobile-first, one action at a time)
+- Not English-heavy (UI should feel bilingual, language names in endonyms)
+
+---
+
+## Sponsor Strategy
+
+### Two Audiences, One Project
+
+**To contributors:** "You're building something historic. The first dataset of its kind. Your language, preserved and empowered."
+
+**To sponsors:** "Fund the infrastructure for Zambian language AI. Measurable impact, brand association with national digital inclusion."
+
+### Why Sponsors Would Care
+
+| Sector | Interest | Use Case |
+|--------|----------|----------|
+| **Telcos** (Airtel, MTN, Zamtel) | Voice AI, customer service in local languages | Chatbots that speak Bemba, IVR systems in Tonga |
+| **Government** (Smart Zambia, MoE) | Digital inclusion, e-government | Government services accessible in all 7 languages |
+| **Banks** (Zanaco, FNB, Stanbic) | Financial inclusion, mobile banking | Banking chatbots in local languages |
+| **Research/NGOs** (UNICEF, USAID, British Council) | Language preservation, education | AI-powered learning tools |
+
+### Value Proposition for Sponsors
+- Logo placement on app and dataset
+- Early API access to translation models
+- PR: "Powering Zambian language AI"
+- Named dataset releases ("The Airtel Zambian Language Corpus v1")
+- Impact metrics: translations funded, languages covered, contributors supported
+
+### Sponsor Tiers
+
+| Tier | Contribution | Recognition |
+|------|-------------|-------------|
+| **Community Partner** | In-kind (airtime, prizes, hosting) | Logo on sponsors page, social media mentions |
+| **Training Sponsor** | Fund model training compute | Logo on app, named model release, API preview |
+| **Founding Sponsor** | Major funding, multi-year commitment | Co-branding, advisory role, permanent recognition |
+
+### Non-Negotiable Rule
+**Never compromise community ownership for sponsorship.** Data stays CC BY-SA. Code stays AGPL. No exclusive access deals. No data lock-in. Sponsors fund the project; the crowd owns the output.
+
+---
+
+## Day-One Users
+
+### Primary: University Students
+- **Who:** Language/linguistics students at UNZA, CBU, Mulungushi, Chalimbana
+- **Why them:** Have linguistic knowledge, phone/data access, academic motivation, social networks
+- **Hook:** "Contribute to your thesis. Build your language's AI dataset. Get credited."
+- **Activation:** Partner with language departments, offer as coursework/extra credit, campus ambassadors
+
+### Secondary: MoE Teachers
+- **Who:** Teachers using the 2025 local language curriculum (Grades 1-4)
+- **Why them:** Already working with the content, understand the languages deeply, motivated by professional relevance
+- **Hook:** "The translations you verify become teaching tools. Help build AI that teaches in your language."
+
+### Growth Path
+1. **Seed:** 50-100 university contributors, validate mechanics and data quality
+2. **WhatsApp word-of-mouth:** Shareable achievement cards, "I contributed 50 Tonga translations" images
+3. **Provincial pride:** "Eastern Province leads! Northern Province closing the gap!" — friendly competition
+4. **General public:** Once the app works and has visible traction, open to everyone
+5. **Diaspora:** Zambians abroad miss their languages — emotional hook for contributions

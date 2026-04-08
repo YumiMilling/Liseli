@@ -1,9 +1,10 @@
 import { Link } from 'react-router-dom'
-import { useLanguageCoverage } from '@/hooks/useLeaderboard'
+import { useLanguageCoverage, useStats } from '@/hooks/useLeaderboard'
 import { LanguageCoverageGrid } from '@/components/LanguageCoverage'
 
 export function Landing() {
   const { coverage, loading } = useLanguageCoverage()
+  const stats = useStats()
 
   return (
     <div className="max-w-2xl mx-auto px-4 py-8">
@@ -20,11 +21,36 @@ export function Landing() {
         </p>
       </div>
 
+      {/* Stats */}
+      {stats && (
+        <div className="grid grid-cols-3 gap-3 mb-6">
+          <div className="bg-slate-800 rounded-xl p-3 border border-slate-700 text-center">
+            <div className="text-xl font-bold text-brand-400">{(stats.total_corpus || 0).toLocaleString()}</div>
+            <div className="text-xs text-slate-400">Corpus lines</div>
+          </div>
+          <div className="bg-slate-800 rounded-xl p-3 border border-slate-700 text-center">
+            <div className="text-xl font-bold text-brand-400">{stats.total_translations.toLocaleString()}</div>
+            <div className="text-xs text-slate-400">Parallel pairs</div>
+          </div>
+          <div className="bg-slate-800 rounded-xl p-3 border border-slate-700 text-center">
+            <div className="text-xl font-bold text-brand-400">7</div>
+            <div className="text-xs text-slate-400">Languages</div>
+          </div>
+        </div>
+      )}
+
       {/* Quick actions */}
       <div className="grid grid-cols-3 gap-3 mb-10">
         <Link
-          to="/translate"
+          to="/browse"
           className="bg-brand-600 hover:bg-brand-700 rounded-xl p-4 text-center transition-colors"
+        >
+          <div className="text-2xl mb-1">{'\u{1F4CA}'}</div>
+          <div className="text-sm font-medium">Browse</div>
+        </Link>
+        <Link
+          to="/translate"
+          className="bg-slate-800 hover:bg-slate-700 rounded-xl p-4 text-center border border-slate-700 transition-colors"
         >
           <div className="text-2xl mb-1">+</div>
           <div className="text-sm font-medium">Translate</div>
@@ -35,13 +61,6 @@ export function Landing() {
         >
           <div className="text-2xl mb-1">&#10003;</div>
           <div className="text-sm font-medium">Validate</div>
-        </Link>
-        <Link
-          to="/discuss"
-          className="bg-slate-800 hover:bg-slate-700 rounded-xl p-4 text-center border border-slate-700 transition-colors"
-        >
-          <div className="text-2xl mb-1">&#8230;</div>
-          <div className="text-sm font-medium">Discuss</div>
         </Link>
       </div>
 

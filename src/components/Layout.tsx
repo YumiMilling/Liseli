@@ -3,10 +3,10 @@ import { useAuth } from '@/context/AuthContext'
 
 const NAV_ITEMS = [
   { path: '/', label: 'Home', icon: HomeIcon },
+  { path: '/browse', label: 'Browse', icon: BrowseIcon },
   { path: '/translate', label: 'Translate', icon: TranslateIcon },
   { path: '/validate', label: 'Validate', icon: ValidateIcon },
-  { path: '/discuss', label: 'Discuss', icon: DiscussIcon },
-  { path: '/leaderboard', label: 'Leaders', icon: LeaderboardIcon },
+  { path: '/cross', label: 'Cross', icon: CrossIcon },
 ]
 
 export function Layout({ children }: { children: React.ReactNode }) {
@@ -97,6 +97,22 @@ function DiscussIcon({ className }: { className?: string }) {
   return (
     <svg className={className} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
       <path strokeLinecap="round" strokeLinejoin="round" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
+    </svg>
+  )
+}
+
+function CrossIcon({ className }: { className?: string }) {
+  return (
+    <svg className={className} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+      <path strokeLinecap="round" strokeLinejoin="round" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
+    </svg>
+  )
+}
+
+function BrowseIcon({ className }: { className?: string }) {
+  return (
+    <svg className={className} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+      <path strokeLinecap="round" strokeLinejoin="round" d="M4 7v10c0 2 1 3 3 3h10c2 0 3-1 3-3V7c0-2-1-3-3-3H7C5 4 4 5 4 7zm0 5h16M9 4v16" />
     </svg>
   )
 }

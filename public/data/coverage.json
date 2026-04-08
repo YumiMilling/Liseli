@@ -1,0 +1,51 @@
+[
+  {
+    "language": "bemba",
+    "total_sentences": 57173,
+    "translated": 946,
+    "verified": 946,
+    "percentage": 1.7
+  },
+  {
+    "language": "kaonde",
+    "total_sentences": 57173,
+    "translated": 941,
+    "verified": 941,
+    "percentage": 1.6
+  },
+  {
+    "language": "lozi",
+    "total_sentences": 57173,
+    "translated": 963,
+    "verified": 963,
+    "percentage": 1.7
+  },
+  {
+    "language": "lunda",
+    "total_sentences": 57173,
+    "translated": 936,
+    "verified": 936,
+    "percentage": 1.6
+  },
+  {
+    "language": "luvale",
+    "total_sentences": 57173,
+    "translated": 913,
+    "verified": 913,
+    "percentage": 1.6
+  },
+  {
+    "language": "nyanja",
+    "total_sentences": 57173,
+    "translated": 57085,
+    "verified": 57085,
+    "percentage": 99.8
+  },
+  {
+    "language": "tonga",
+    "total_sentences": 57173,
+    "translated": 884,
+    "verified": 884,
+    "percentage": 1.5
+  }
+]

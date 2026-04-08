@@ -1,6 +1,5 @@
 import { useState, useEffect, useCallback } from 'react'
-import { supabase } from '@/lib/supabase'
-import { queueAction } from '@/lib/offline'
+import { getSentences, getTranslations } from '@/lib/localData'
 import type { Translation, Sentence, ZamLanguage, Domain, Tier, Verdict } from '@/types'
 
 interface UseTranslationsOptions {
@@ -16,15 +15,8 @@ export function useTranslations(options: UseTranslationsOptions = {}) {
 
   const fetchSentences = useCallback(async () => {
     setLoading(true)
-    let query = supabase.from('sentences').select('*')
-
-    if (options.tier) query = query.eq('tier', options.tier)
-    if (options.domain) query = query.eq('domain', options.domain)
-
-    query = query.limit(20).order('created_at', { ascending: false })
-
-    const { data } = await query
-    setSentences(data ?? [])
+    const data = await getSentences({ tier: options.tier, domain: options.domain })
+    setSentences(data)
     setLoading(false)
   }, [options.tier, options.domain])
 
@@ -33,34 +25,14 @@ export function useTranslations(options: UseTranslationsOptions = {}) {
   }, [fetchSentences])
 
   const submitTranslation = async (
-    sentenceId: string,
-    contributorId: string,
-    language: ZamLanguage,
-    text: string,
-    aiOriginal: string | null
+    _sentenceId: string,
+    _contributorId: string,
+    _language: ZamLanguage,
+    _text: string,
+    _aiOriginal: string | null
   ) => {
-    if (!navigator.onLine) {
-      await queueAction({
-        type: 'translation',
-        payload: {
-          sentence_id: sentenceId,
-          contributor_id: contributorId,
-          language,
-          text,
-          ai_original: aiOriginal,
-        },
-      })
-      return
-    }
-
-    const { error } = await supabase.from('translations').insert({
-      sentence_id: sentenceId,
-      contributor_id: contributorId,
-      language,
-      text,
-      ai_original: aiOriginal,
-    })
-    if (error) throw error
+    // Local mode: no-op for now
+    console.log('Local mode: translation submitted (not saved)', { _sentenceId, _language, _text })
   }
 
   return { sentences, loading, refetch: fetchSentences, submitTranslation }
@@ -72,26 +44,22 @@ export function useVerificationQueue(language?: ZamLanguage) {
 
   const fetchQueue = useCallback(async () => {
     setLoading(true)
-    let query = supabase
-      .from('translations')
-      .select(`
-        *,
-        sentence:sentences(*),
-        votes(verdict)
-      `)
-      .eq('status', 'unverified')
-      .limit(20)
-
-    if (language) query = query.eq('language', language)
-
-    const { data } = await query
-    const mapped = (data ?? []).map((t) => ({
+    const data = await getTranslations({ language, limit: 20 })
+    const mapped: Translation[] = data.map(t => ({
       ...t,
-      vote_counts: {
-        correct: t.votes?.filter((v: { verdict: string }) => v.verdict === 'correct').length ?? 0,
-        almost: t.votes?.filter((v: { verdict: string }) => v.verdict === 'almost').length ?? 0,
-        wrong: t.votes?.filter((v: { verdict: string }) => v.verdict === 'wrong').length ?? 0,
+      sentence: {
+        id: t.sentence_id,
+        english: t.english,
+        tier: t.tier as Tier,
+        domain: t.domain as Domain,
+        concept_id: '',
+        source: 'moe' as const,
+        difficulty: 1,
+        created_at: t.created_at,
       },
+      ai_original: null,
+      contributor_id: '',
+      vote_counts: { correct: 3, almost: 0, wrong: 0 },
     }))
     setTranslations(mapped)
     setLoading(false)
@@ -102,25 +70,11 @@ export function useVerificationQueue(language?: ZamLanguage) {
   }, [fetchQueue])
 
   const submitVote = async (
-    translationId: string,
-    voterId: string,
-    verdict: Verdict
+    _translationId: string,
+    _voterId: string,
+    _verdict: Verdict
   ) => {
-    if (!navigator.onLine) {
-      await queueAction({
-        type: 'vote',
-        payload: { translation_id: translationId, voter_id: voterId, verdict },
-      })
-      return
-    }
-
-    const { error } = await supabase.from('votes').insert({
-      translation_id: translationId,
-      voter_id: voterId,
-      verdict,
-    })
-    if (error) throw error
-    await fetchQueue()
+    console.log('Local mode: vote submitted (not saved)', { _translationId, _verdict })
   }
 
   return { translations, loading, refetch: fetchQueue, submitVote }

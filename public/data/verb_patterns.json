@@ -1,0 +1,518 @@
+[
+  {
+    "english": "He bought a very high bicycle.",
+    "translations": {
+      "bemba": "Aashitile incinga iitali saana.",
+      "kaonde": "Wapotele nkinga yalepa bingi.",
+      "lozi": "Nalekile njinga yetelele hahulu.",
+      "lunda": "Walandili inkinga yayilehi nankashi.",
+      "luvale": "Alanjile khinga yayisuku chikuma.",
+      "nyanja": "Anagula njinga yaitali kwambili.",
+      "tonga": "Wakaula ncinga ndamfwu."
+    }
+  },
+  {
+    "english": "He is calling.",
+    "translations": {
+      "bemba": "Aleita.",
+      "kaonde": "Nsongwalume ubena kwita.",
+      "lozi": "Wa biza.",
+      "lunda": "Nakutambika.",
+      "luvale": "Ali nakusanyika.",
+      "nyanja": "Aitana.",
+      "tonga": "Ulaita."
+    }
+  },
+  {
+    "english": "He made a very long bed.",
+    "translations": {
+      "bemba": "Aapangile ubusanshi ubutali saana.",
+      "kaonde": "Kabiji walengele mwanya walepa bingi.",
+      "lozi": "Napangile mumbeta omutelele hahulu.",
+      "lunda": "Kadidi kindi keding’a kakalehi.",
+      "luvale": "Asongele kahela kakasuku chikuma.",
+      "nyanja": "Anapanga bedi lalitali kwambili.",
+      "tonga": "Wakabamba bulo bulamfwu."
+    }
+  },
+  {
+    "english": "He made a very long hoe handle.",
+    "translations": {
+      "bemba": "Aapangile umupini wa lukasu uutali saana.",
+      "kaonde": "Walengele mupinyi walukasu walepa bingi.",
+      "lozi": "Napangile mufinyani wa muhuma omutelele hahulu.",
+      "lunda": "Wapangili muhinyi wetemwa waulehi nankashi.",
+      "luvale": "Asongele muhinyi walitemo wausuku chikuma.",
+      "nyanja": "Anapanga mpini wa khasu wautali.",
+      "tonga": "Waka panga mwiini wajamba mulamfwu."
+    }
+  },
+  {
+    "english": "He made very high door frames.",
+    "translations": {
+      "bemba": "Aapangile umwinshi uutali saana.",
+      "kaonde": "Walengele mafulemu akinzhilo alepa bingi.",
+      "lozi": "Napangile minyako yemitelele hahulu.",
+      "lunda": "Wapangilen’ga yenzelu yayilehi nankashi.",
+      "luvale": "Asongele vipamba vyavikolo vyavisuku chikuma.",
+      "nyanja": "Anapanga mafelemu a zitseko atali kwambili.",
+      "tonga": "Wakayaka milyango milamfwu kapati."
+    }
+  },
+  {
+    "english": "I am answering.",
+    "translations": {
+      "bemba": "Ndeyasuka.",
+      "kaonde": "Amiwa mbena kukumbula.",
+      "lozi": "Na alaba.",
+      "lunda": "Inakwakula.",
+      "luvale": "Nguli nakukumbulula.",
+      "nyanja": "Ndiyankha.",
+      "tonga": "Ndila vwiila."
+    }
+  },
+  {
+    "english": "I am clapping.",
+    "translations": {
+      "bemba": "Ndetoota.",
+      "kaonde": "Amiwa mbena kupompwela.",
+      "lozi": "Na kambelela.",
+      "lunda": "Inakusakilila.",
+      "luvale": "Nguli nakusakwila.",
+      "nyanja": "Ndiomba m’manja.",
+      "tonga": "Ndila kamba."
+    }
+  },
+  {
+    "english": "I am singing.",
+    "translations": {
+      "bemba": "Ndeimba.",
+      "kaonde": "Amiwa mbena kwimba.",
+      "lozi": "Naopela.",
+      "lunda": "Inakwimba.",
+      "luvale": "Nguli nakwimba.",
+      "nyanja": "Ndiimba.",
+      "tonga": "Ndila imba."
+    }
+  },
+  {
+    "english": "I am the one who lets in the sun.",
+    "translations": {
+      "bemba": "Nine njingisha akasuba mu ŋanda.",
+      "kaonde": "Amiwa yami nswisha mute kutwela mukachi.",
+      "lozi": "Kina ya tisezanga kuli lizazi likene.",
+      "lunda": "Yami nenzunwinan’ga mwaaana.",
+      "luvale": "Yami ngweji kunehesanga musana kwingila.",
+      "nyanja": "Ndine ndimalowetsa dzuwa.",
+      "tonga": "Ndime ndijalwida zuba."
+    }
+  },
+  {
+    "english": "I boil some water.",
+    "translations": {
+      "bemba": "Ndakafya ameenshi.",
+      "kaonde": "Nteeka Meema Aselauka.",
+      "lozi": "Nabilisanga mezi.",
+      "lunda": "Natatishan’ga menji.",
+      "luvale": "Ngweji kuzumisa meya.",
+      "nyanja": "Ndimawilitsa madzi.",
+      "tonga": "Ndajika meenda."
+    }
+  },
+  {
+    "english": "I can dance with it.",
+    "translations": {
+      "bemba": "Kuti nashana nao.",
+      "kaonde": "Nakonsha kwingijisha mubiji kuzha.",
+      "lozi": "Nakona kubina niwona.",
+      "lunda": "Inateli kuhan’gana nawu.",
+      "luvale": "Ngunahase kukina nawo.",
+      "nyanja": "Ndingavine nalo.",
+      "tonga": "Inga ndazyana anguwo."
+    }
+  },
+  {
+    "english": "I can escape with it.",
+    "translations": {
+      "bemba": "Kuti nafyuka nao.",
+      "kaonde": "Nakonsha kwingijisha mubiji kupuluka.",
+      "lozi": "Nakona ku picuka niwona.",
+      "lunda": "Inateli kutemuzhoka nawu.",
+      "luvale": "Ngunahase kuchina nawo.",
+      "nyanja": "Ndingathawe nalo.",
+      "tonga": "Inga ndaloboka anguwo."
+    }
+  },
+  {
+    "english": "I can jump with it.",
+    "translations": {
+      "bemba": "Kuti natoloka nao.",
+      "kaonde": "Nakonsha kwingijisha mubiji kutolauka.",
+      "lozi": "Nakona kutula niwona.",
+      "lunda": "Inateli kukiluka nawu.",
+      "luvale": "Ngunahase kutumbuka nawo.",
+      "nyanja": "Ndingajumphe nalo.",
+      "tonga": "Inga ndasotoka anguwo."
+    }
+  },
+  {
+    "english": "I can kick with it.",
+    "translations": {
+      "bemba": "Kuti napanta nao.",
+      "kaonde": "Nakonsha kwingijisha mubiji kupanta.",
+      "lozi": "Nakona ku laha niwona.",
+      "lunda": "Inateli kwaasa nawu.",
+      "luvale": "Ngunahase kwasa nawo.",
+      "nyanja": "Ndingamenye nalo.",
+      "tonga": "Inga ndafwusa kuulu anguwo."
+    }
+  },
+  {
+    "english": "I can run with it.",
+    "translations": {
+      "bemba": "Kuti nabutuka nao.",
+      "kaonde": "Nakonsha kwingijisha mubiji kunyema.",
+      "lozi": "Nakona kumata niwona.",
+      "lunda": "Inateli kutemuka nawu.",
+      "luvale": "Ngunahase kuthuta nawo.",
+      "nyanja": "Ndingathamange nalo.",
+      "tonga": "Inga ndatijaana anguwo."
+    }
+  },
+  {
+    "english": "I can skip with it.",
+    "translations": {
+      "bemba": "Kuti naciluka nao.",
+      "kaonde": "Nakonsha kwingijisha mubiji kukilauka.",
+      "lozi": "Nakona ku tulaka-tulaka niwona.",
+      "lunda": "Inateli kutomboka nawu.",
+      "luvale": "Ngunahase kutumbwojoka nawo.",
+      "nyanja": "Ndingasewele nalo.",
+      "tonga": "Inga ndasotooka anguwo."
+    }
+  },
+  {
+    "english": "I can swim with it.",
+    "translations": {
+      "bemba": "Kuti naowa nao.",
+      "kaonde": "Nakonsha kwingijisha mubiji kufwenka.",
+      "lozi": "Nakona ku tapa niwona.",
+      "lunda": "Inateli kuwela nawu.",
+      "luvale": "Ngunahase kuhala nawo.",
+      "nyanja": "Ndingasambile nalo.",
+      "tonga": "Inga ndayamba anguwo."
+    }
+  },
+  {
+    "english": "I chop a cabbage.",
+    "translations": {
+      "bemba": "Mputaula kabeci.",
+      "kaonde": "Nchibaula kabiki.",
+      "lozi": "Napumanga kabici.",
+      "lunda": "Naketulan’ga kabegi.",
+      "luvale": "Nanguteta kavichi.",
+      "nyanja": "Ndimaduladula khabici.",
+      "tonga": "Ndatenda kkabicci."
+    }
+  },
+  {
+    "english": "I chop the firewood.",
+    "translations": {
+      "bemba": "Ndateba inkuni.",
+      "kaonde": "Ntentaula Nkunyi.",
+      "lozi": "Napumanga likota zakutumbulisa mulilo.",
+      "lunda": "Natetan’ga nchawa.",
+      "luvale": "Ngweji kuteta jikhunyi.",
+      "nyanja": "Ndimadula nkhuni.",
+      "tonga": "Ndagonka nkuni."
+    }
+  },
+  {
+    "english": "I chop the spinach.",
+    "translations": {
+      "bemba": "Mputula shipinaci.",
+      "kaonde": "Nchibaula bishu bya sipinachi.",
+      "lozi": "Napumanga sipinaci.",
+      "lunda": "Natetan’ga mafu.",
+      "luvale": "Nanguteta mafwo.",
+      "nyanja": "Ndimaduladula ndiwo za sipinachi.",
+      "tonga": "Ndatenda sipinacci."
+    }
+  },
+  {
+    "english": "I cut the butternut.",
+    "translations": {
+      "bemba": "Mputula utupushi.",
+      "kaonde": "Nchibaula myungu.",
+      "lozi": "Na pumanga mbatanati.",
+      "lunda": "Natetan’ga bata.",
+      "luvale": "Nanguvatula lichipa.",
+      "nyanja": "Ndimaceka maungu.",
+      "tonga": "Ndatenda zyitende."
+    }
+  },
+  {
+    "english": "I grate the carrots.",
+    "translations": {
+      "bemba": "Nseesa kalota.",
+      "kaonde": "Nsonga makalota.",
+      "lozi": "Na pumanga ma kaloti.",
+      "lunda": "Nason’gan’ga ma kaloti.",
+      "luvale": "Nanguchika jikaloti.",
+      "nyanja": "Ndimapala ma kaloti.",
+      "tonga": "Ndatenda makkalutu."
+    }
+  },
+  {
+    "english": "I like to read.",
+    "translations": {
+      "bemba": "Nalitemwa ukubelenga.",
+      "kaonde": "Natemwa kutanga.",
+      "lozi": "Nalata kubala.",
+      "lunda": "Naken’ga kutan’ga.",
+      "luvale": "Ngwazanga kutanga.",
+      "nyanja": "Ndikonda kuwelenga.",
+      "tonga": "Ndayandisya Kubala."
+    }
+  },
+  {
+    "english": "I peel the potatoes.",
+    "translations": {
+      "bemba": "Mpala Imfyumbu.",
+      "kaonde": "Nsonga ntamba ya mapoteto.",
+      "lozi": "Nafalanga makwili.",
+      "lunda": "Nason’gan’ga intamba.",
+      "luvale": "Nangusonga jithamba.",
+      "nyanja": "Ndimashuwa mbatatisi.",
+      "tonga": "Ndayupa magwili."
+    }
+  },
+  {
+    "english": "I see a rainbow.",
+    "translations": {
+      "bemba": "Namona umukolamfula.",
+      "kaonde": "Namona kakongolo.",
+      "lozi": "Ni bona nambwamutalati.",
+      "lunda": "Namoni Kansulun’gunda.",
+      "luvale": "Ngunamono khongolo.",
+      "nyanja": "Ndili kuona utawaleza.",
+      "tonga": "Ndabona vwilicoongo."
+    }
+  },
+  {
+    "english": "I stir the pot.",
+    "translations": {
+      "bemba": "Ndakumba mu mpooto.",
+      "kaonde": "Nkumbaula mu mpoto.",
+      "lozi": "Na kundunganga mwa mupika.",
+      "lunda": "Nafunga’ga Mumba",
+      "luvale": "Ngweji kusunganga mundeho.",
+      "nyanja": "Ndimabvundula m’poto.",
+      "tonga": "Ndakopa mumpoto."
+    }
+  },
+  {
+    "english": "I sweep the floor.",
+    "translations": {
+      "bemba": "Ndapyanga.",
+      "kaonde": "Mpyanga Munzubo.",
+      "lozi": "Na fiyelanga fafasi.",
+      "lunda": "Nakomban’ga mwitala.",
+      "luvale": "Ngweji kukombanga hamavu.",
+      "nyanja": "Ndimapsyela munyumba.",
+      "tonga": "Ndakukula ansi muŋanda."
+    }
+  },
+  {
+    "english": "I wake up and make fire.",
+    "translations": {
+      "bemba": "Ndabuuka no kukosha umulilo.",
+      "kaonde": "Mbuka nakubanza mujilo.",
+      "lozi": "Nazuhanga niku tumbula mulilo.",
+      "lunda": "Nahindukan’ga nakubutula kesi.",
+      "luvale": "Ngwahinduka nakuwika kahya.",
+      "nyanja": "Ndimadzuka ndi kusonkha moto.",
+      "tonga": "Ndilabuka ndamana ndakunka mulilo."
+    }
+  },
+  {
+    "english": "I wash myself, I don’t need any help.",
+    "translations": {
+      "bemba": "Ndaisamba, nshifwaya wakungafwilisha.",
+      "kaonde": "Neovwa amiwa mwine, kechi nkebapo bukwasho ne.",
+      "lozi": "Naitapisanga na muñi, ani tokwi tuso.",
+      "lunda": "Nadiweleshan’ga ami aweni, hinaken’gan’ga lwakwashiku.",
+      "luvale": "Ngweji kulisanyisa yami yavene, kangwechi kutonda wakungukafwakoko.",
+      "nyanja": "Ndimasamba ndekha masiku onse, sindifunanso thandizo iliyonse.",
+      "tonga": "Ndilasamba endike, nseyandi lugwasyo luli loonse."
+    }
+  },
+  {
+    "english": "I wash the beans.",
+    "translations": {
+      "bemba": "Nsamfya cilemba.",
+      "kaonde": "Ngovwa nkunde.",
+      "lozi": "Natapisanga manawa.",
+      "lunda": "Nakosololan’ga makundi.",
+      "luvale": "Nangukosa makunde.",
+      "nyanja": "Ndimatsuka kayela.",
+      "tonga": "Ndasanzya nyabo."
+    }
+  },
+  {
+    "english": "I wash the dishes.",
+    "translations": {
+      "bemba": "Ndasuka imbale.",
+      "kaonde": "Ngovwa Masanyi.",
+      "lozi": "Natapisanga mikeke.",
+      "lunda": "Nakosan’ga yen’ga.",
+      "luvale": "Ngweji kukosanga malonga.",
+      "nyanja": "Ndimatsuka mbale.",
+      "tonga": "Ndasanzya mitiba."
+    }
+  },
+  {
+    "english": "It is cloudy.",
+    "translations": {
+      "bemba": "Kuli amakumbi.",
+      "kaonde": "Kuji kikumbi.",
+      "lozi": "Kunani malu.",
+      "lunda": "Kudi mavu.",
+      "luvale": "Kuli mavwi.",
+      "nyanja": "Kuli mitambo.",
+      "tonga": "Kuli makumbi."
+    }
+  },
+  {
+    "english": "It is cold.",
+    "translations": {
+      "bemba": "Nakutalala.",
+      "kaonde": "Kwatalala.",
+      "lozi": "Kwa bata.",
+      "lunda": "Kunatuti.",
+      "luvale": "Kunatutu.",
+      "nyanja": "Ndikodzidzila.",
+      "tonga": "Kulatontola."
+    }
+  },
+  {
+    "english": "It is dry.",
+    "translations": {
+      "bemba": "Taileloka.",
+      "kaonde": "Kwauma.",
+      "lozi": "Kuomile.",
+      "lunda": "Kunomi.",
+      "luvale": "Kunomu.",
+      "nyanja": "Ndikouma.",
+      "tonga": "Nkuyumu."
+    }
+  },
+  {
+    "english": "It is raining.",
+    "translations": {
+      "bemba": "Imfula ileeloka.",
+      "kaonde": "Mvula ibena kunoka.",
+      "lozi": "Pula yanela.",
+      "lunda": "Yinakunoka.",
+      "luvale": "Vula ili nakunokha.",
+      "nyanja": "Mvula ilokwa.",
+      "tonga": "Imvwula ilawa."
+    }
+  },
+  {
+    "english": "It is windy.",
+    "translations": {
+      "bemba": "Umwela uleepuupa.",
+      "kaonde": "Kuji mwela.",
+      "lozi": "Kunani moya.",
+      "lunda": "Kudi impepela.",
+      "luvale": "Kuli peho.",
+      "nyanja": "Kuli Mphepho yokuntha.",
+      "tonga": "Kuli muwo."
+    }
+  },
+  {
+    "english": "She is listening.",
+    "translations": {
+      "bemba": "Aleekutika.",
+      "kaonde": "Amiwa mbena kuteleka.",
+      "lozi": "Wa teeleza.",
+      "lunda": "Nakutiyilila.",
+      "luvale": "Ali nakwivwilila.",
+      "nyanja": "Amvetsela.",
+      "tonga": "Ulaswiilila."
+    }
+  },
+  {
+    "english": "She is stretching.",
+    "translations": {
+      "bemba": "Aleeyolola.",
+      "kaonde": "Nsongwakazhi ubena kwiolola.",
+      "lozi": "Wa ikotolola.",
+      "lunda": "Nakudolola.",
+      "luvale": "Ali nakulyolola.",
+      "nyanja": "Atambasula manja.",
+      "tonga": "Ula lyoolola."
+    }
+  },
+  {
+    "english": "She is waving.",
+    "translations": {
+      "bemba": "Aleebaibisha.",
+      "kaonde": "Amiwa mbena kusokona.",
+      "lozi": "Wa lumelisa ka kunanula lizoho.",
+      "lunda": "Nakubayibisha.",
+      "luvale": "Ali nakunyengesa livoko.",
+      "nyanja": "Abaibisa.",
+      "tonga": "Ula bbaibbisya."
+    }
+  },
+  {
+    "english": "They crept home very quietly.",
+    "translations": {
+      "bemba": "Baile ku ŋanda umutalalila.",
+      "kaonde": "Bakalabiletu kishinshi nekutwela munzubo.",
+      "lozi": "Bananalela kwa ndu kusina kupanga lilata.",
+      "lunda": "Abalakatili kwitala lufuchi-lufuchi.",
+      "luvale": "Vatambukile chindende chindende muuholela nakuya kwimbo.",
+      "nyanja": "Anabwelela kunyumba mwakacete-cete.",
+      "tonga": "Mukaumu-umu bakasobelela kuya kuŋanda yabo."
+    }
+  },
+  {
+    "english": "They hid in the bush until night.",
+    "translations": {
+      "bemba": "Baabeleme mu mpanga mpaka bwaila.",
+      "kaonde": "Bafyamine mungye kufikatu ne bufuku.",
+      "lozi": "Baipata mwa mushitu kufitela busihu.",
+      "lunda": "Aswamini mumpata kushika niwufuku.",
+      "luvale": "Vaswamine mumusenge kuheta nakuufuku.",
+      "nyanja": "Adabisala kuthengo mpaka usiku.",
+      "tonga": "Bakaliyubide musyokwe limwi kwasiya."
+    }
+  },
+  {
+    "english": "They took the cows away.",
+    "translations": {
+      "bemba": "Baasendele iŋombe no kuya nasho.",
+      "kaonde": "Bebatambwile bañombe bonsetu.",
+      "lozi": "Babaamuha likomo ni kulishimba.",
+      "lunda": "Asendeli ang’ombi nakuya nawu.",
+      "luvale": "Vambachile vangombe nakuya navo.",
+      "nyanja": "Anatenga ng’ombezo kupita nazo.",
+      "tonga": "Basikalumamba bakazibinga ŋombe akuzyitola."
+    }
+  },
+  {
+    "english": "We waited for food donated by others.",
+    "translations": {
+      "bemba": "Twaleeloleela ifyakulya ifyakupeelwa ukufuma ku bantu bambi.",
+      "kaonde": "Twapembelelanga byakuja bitupanga bantu.",
+      "lozi": "Nelulibelelanga lico ze filwe kuzwelela kubabañwi.",
+      "lunda": "Twadin’ga nakuhembela kutuholesha yakuda kudi antu acheng’i.",
+      "luvale": "Twavandaminyinenga kulya chakutukafwa kuvakwetu.",
+      "nyanja": "Tinayembekezela zakudya zopelekedwa ndi ena.",
+      "tonga": "Twakali kulindila zyakulya zyacivwole-vwole kuzwa kubantu bambi."
+    }
+  }
+]

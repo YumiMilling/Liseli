@@ -1,0 +1,692 @@
+[
+  {
+    "id": "ec3e8ebf-f7d5-49b9-a216-2dc475611ca0",
+    "filename": "LITERATURE-IN-ENGLISH-SYLABUS-O-LEVEL-FORM-1-4.pdf",
+    "source_type": "literature",
+    "language": null,
+    "level": "Form 1",
+    "term": null,
+    "file_path": "data\\moe-zambian-languages\\LITERATURE-IN-ENGLISH-SYLABUS-O-LEVEL-FORM-1-4.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "968d86d1-45d5-4046-914e-a3222f997abb",
+    "filename": "ZAMBIAN-LANGUAGES-ORDINARY-LEVEL-SYLLABUS-FORM-1-4-FINAL.pdf",
+    "source_type": "teaching_module",
+    "language": null,
+    "level": "Form 1",
+    "term": null,
+    "file_path": "data\\moe-zambian-languages\\ZAMBIAN-LANGUAGES-ORDINARY-LEVEL-SYLLABUS-FORM-1-4-FINAL.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "35d741cd-09e7-4200-89d4-c4145f6ee2c4",
+    "filename": "FORM-1-LITERATURE-IN-ENGLISH-TEACHING-MODULE-FOR-TERM-2-1-1.pdf",
+    "source_type": "literature",
+    "language": null,
+    "level": "Form 1",
+    "term": "Term 2",
+    "file_path": "data\\moe-zambian-languages\\FORM-1-LITERATURE-IN-ENGLISH-TEACHING-MODULE-FOR-TERM-2-1-1.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "78b6273f-8c6e-40ac-a3bb-72b60d54790c",
+    "filename": "FORM-1-LITERATURE-IN-ENGLISH-TEACHING-MOULE-FOR-TERM-3-1-1.pdf",
+    "source_type": "literature",
+    "language": null,
+    "level": "Form 1",
+    "term": "Term 3",
+    "file_path": "data\\moe-zambian-languages\\FORM-1-LITERATURE-IN-ENGLISH-TEACHING-MOULE-FOR-TERM-3-1-1.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "2075f5a3-2d22-4cd6-9afe-8ce257be867c",
+    "filename": "ICIBEMBA-TEACHING-MODULE-GELEDI-1-TERM-1.pdf",
+    "source_type": "teaching_module",
+    "language": "bemba",
+    "level": null,
+    "term": "Term 1",
+    "file_path": "data\\moe-zambian-languages\\ICIBEMBA-TEACHING-MODULE-GELEDI-1-TERM-1.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "6ccccdc1-3d54-4e65-b151-c87ca58c498d",
+    "filename": "ICIBEMBA-ECE-TEACHING-MODULE-TERM-2.pdf",
+    "source_type": "teaching_module",
+    "language": "bemba",
+    "level": "ECE",
+    "term": "Term 2",
+    "file_path": "data\\moe-zambian-languages\\ICIBEMBA-ECE-TEACHING-MODULE-TERM-2.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "8e682277-3345-43ef-8dc5-a8d6be0724b6",
+    "filename": "ICIBEMBA-ECE-TEACHING-MODULE-TERM-3.pdf",
+    "source_type": "teaching_module",
+    "language": "bemba",
+    "level": "ECE",
+    "term": "Term 3",
+    "file_path": "data\\moe-zambian-languages\\ICIBEMBA-ECE-TEACHING-MODULE-TERM-3.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "99576d34-74dd-4a47-8a03-bc4b91d64210",
+    "filename": "LITERATURE-IN-BEMBA-TEACHING-MODULE-FORM-1-TERM-1.pdf",
+    "source_type": "literature",
+    "language": "bemba",
+    "level": "Form 1",
+    "term": "Term 1",
+    "file_path": "data\\moe-zambian-languages\\LITERATURE-IN-BEMBA-TEACHING-MODULE-FORM-1-TERM-1.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "77f2c62a-bedb-4aba-90a4-a08a63031cb4",
+    "filename": "ICIBEMBA-TEACHING-MODULE-FORM-1-TERM-2-1.pdf",
+    "source_type": "teaching_module",
+    "language": "bemba",
+    "level": "Form 1",
+    "term": "Term 2",
+    "file_path": "data\\moe-zambian-languages\\ICIBEMBA-TEACHING-MODULE-FORM-1-TERM-2-1.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "f4e92f1d-3d4f-412f-9e80-f89cb13e8059",
+    "filename": "LIT-IN-ICIBEMBA-FORM-1-MODULE-TERM-2.pdf",
+    "source_type": "literature",
+    "language": "bemba",
+    "level": "Form 1",
+    "term": "Term 2",
+    "file_path": "data\\moe-zambian-languages\\LIT-IN-ICIBEMBA-FORM-1-MODULE-TERM-2.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "e4e22ef6-a401-4968-8b92-5e6882b0e3cc",
+    "filename": "ICIBEMBA-TEACHING-MODULE-FORM-1-TERM-3-1.pdf",
+    "source_type": "teaching_module",
+    "language": "bemba",
+    "level": "Form 1",
+    "term": "Term 3",
+    "file_path": "data\\moe-zambian-languages\\ICIBEMBA-TEACHING-MODULE-FORM-1-TERM-3-1.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "0f84889f-d0ff-403a-bda9-c503734fd7ed",
+    "filename": "LIT-IN-ICIBEMBA-FORM-1-MODULE-TERM-3.pdf",
+    "source_type": "literature",
+    "language": "bemba",
+    "level": "Form 1",
+    "term": "Term 3",
+    "file_path": "data\\moe-zambian-languages\\LIT-IN-ICIBEMBA-FORM-1-MODULE-TERM-3.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "71f2dfc0-47c8-4fec-b235-9c4937fe49d4",
+    "filename": "ICIBEMBA-GRADE-1-TEACHING-MODULE-TERM-2.pdf",
+    "source_type": "teaching_module",
+    "language": "bemba",
+    "level": "Grade 1",
+    "term": "Term 2",
+    "file_path": "data\\moe-zambian-languages\\ICIBEMBA-GRADE-1-TEACHING-MODULE-TERM-2.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "5c558957-be57-498f-85ea-127a0a98d923",
+    "filename": "ICIBEMBA-GRADE-1-TEACHING-MODULE-TERM-3.pdf",
+    "source_type": "teaching_module",
+    "language": "bemba",
+    "level": "Grade 1",
+    "term": "Term 3",
+    "file_path": "data\\moe-zambian-languages\\ICIBEMBA-GRADE-1-TEACHING-MODULE-TERM-3.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "0d018cfb-d780-444a-9197-8af520b3bb2a",
+    "filename": "KIKAONDE-ECE-TEACHING-MODULE-TERM-2-LEVEL-1.pdf",
+    "source_type": "teaching_module",
+    "language": "kaonde",
+    "level": "ECE",
+    "term": "Term 2",
+    "file_path": "data\\moe-zambian-languages\\KIKAONDE-ECE-TEACHING-MODULE-TERM-2-LEVEL-1.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "fd6eff17-ffaa-44a1-a187-8082a97d721e",
+    "filename": "KIKAONDE-ECE-TEACHING-MODULE-TERM-3-proofreading.pdf",
+    "source_type": "teaching_module",
+    "language": "kaonde",
+    "level": "ECE",
+    "term": "Term 3",
+    "file_path": "data\\moe-zambian-languages\\KIKAONDE-ECE-TEACHING-MODULE-TERM-3-proofreading.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "a7609a0a-84d6-4f79-87ee-a2bc4f1fb772",
+    "filename": "KIKAONDE-TEACHING-MODULE-FORM-1-TERM-1.pdf",
+    "source_type": "teaching_module",
+    "language": "kaonde",
+    "level": "Form 1",
+    "term": "Term 1",
+    "file_path": "data\\moe-zambian-languages\\KIKAONDE-TEACHING-MODULE-FORM-1-TERM-1.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "b0f97007-b9f8-4578-bf7d-f2cb3264022d",
+    "filename": "LITERATURE-IN-KIKAONDE-TEACHING-MODULE-FORM-1-TERM-1.pdf",
+    "source_type": "literature",
+    "language": "kaonde",
+    "level": "Form 1",
+    "term": "Term 1",
+    "file_path": "data\\moe-zambian-languages\\LITERATURE-IN-KIKAONDE-TEACHING-MODULE-FORM-1-TERM-1.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "4708dc3c-15ff-4a39-a774-8f0d24ccee89",
+    "filename": "KIKAONDE-TEACHING-MODULE-FORM-1-TERM-2.pdf",
+    "source_type": "teaching_module",
+    "language": "kaonde",
+    "level": "Form 1",
+    "term": "Term 2",
+    "file_path": "data\\moe-zambian-languages\\KIKAONDE-TEACHING-MODULE-FORM-1-TERM-2.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "d88e1d98-8c3f-42ee-8cdd-bd0da2382630",
+    "filename": "LIT-IN-KIKAONDE-TEACHING-MODULE-FORM-1-TERM-2.pdf",
+    "source_type": "literature",
+    "language": "kaonde",
+    "level": "Form 1",
+    "term": "Term 2",
+    "file_path": "data\\moe-zambian-languages\\LIT-IN-KIKAONDE-TEACHING-MODULE-FORM-1-TERM-2.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "d16ea986-b1ab-4950-901d-e3735e3516ac",
+    "filename": "KIKAONDE-TEACHING-MODULE-FORM-1-TERM-3-2025.pdf",
+    "source_type": "teaching_module",
+    "language": "kaonde",
+    "level": "Form 1",
+    "term": "Term 3",
+    "file_path": "data\\moe-zambian-languages\\KIKAONDE-TEACHING-MODULE-FORM-1-TERM-3-2025.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "d4831dde-1d34-437a-b473-61915e41d1e6",
+    "filename": "LIT-IN-KIKAONDE-TEACHING-MODULE-FORM-1-TERM-3.pdf",
+    "source_type": "literature",
+    "language": "kaonde",
+    "level": "Form 1",
+    "term": "Term 3",
+    "file_path": "data\\moe-zambian-languages\\LIT-IN-KIKAONDE-TEACHING-MODULE-FORM-1-TERM-3.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "3344043b-f0b3-4857-90b9-78d6becb90d0",
+    "filename": "KIKAONDE-TEACHING-MODULE-GRADE-1.pdf",
+    "source_type": "teaching_module",
+    "language": "kaonde",
+    "level": "Grade 1",
+    "term": null,
+    "file_path": "data\\moe-zambian-languages\\KIKAONDE-TEACHING-MODULE-GRADE-1.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "cbc58c72-a9c6-4365-9dde-caf837bf1e03",
+    "filename": "KIKAONDE-GRADE-1-TEACHING-MODULE-TERM-2.pdf",
+    "source_type": "teaching_module",
+    "language": "kaonde",
+    "level": "Grade 1",
+    "term": "Term 2",
+    "file_path": "data\\moe-zambian-languages\\KIKAONDE-GRADE-1-TEACHING-MODULE-TERM-2.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "bdf53fda-d9a0-4345-97c2-7929d04f5ae3",
+    "filename": "KIKAONDE-GRADE-1-TEACHING-MODULE-TERM-3.pdf",
+    "source_type": "teaching_module",
+    "language": "kaonde",
+    "level": "Grade 1",
+    "term": "Term 3",
+    "file_path": "data\\moe-zambian-languages\\KIKAONDE-GRADE-1-TEACHING-MODULE-TERM-3.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "5cff0eb8-f825-4daa-b33b-a51c2067e860",
+    "filename": "LIT-IN-SILOZI-TEACHING-MODULE-TERM-2.pdf",
+    "source_type": "literature",
+    "language": "lozi",
+    "level": null,
+    "term": "Term 2",
+    "file_path": "data\\moe-zambian-languages\\LIT-IN-SILOZI-TEACHING-MODULE-TERM-2.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "3bbe8e9b-7d91-4f07-8e8e-efad911ae98f",
+    "filename": "LIT-IN-SILOZI-TEACHING-MODULE-TERM-3.pdf",
+    "source_type": "literature",
+    "language": "lozi",
+    "level": null,
+    "term": "Term 3",
+    "file_path": "data\\moe-zambian-languages\\LIT-IN-SILOZI-TEACHING-MODULE-TERM-3.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "3c396c48-1779-4d9c-bcec-8672c6f69d7b",
+    "filename": "SILOZI-LANG-TEACHING-MODULE-FORM-1-TERM-2.pdf",
+    "source_type": "teaching_module",
+    "language": "lozi",
+    "level": "Form 1",
+    "term": "Term 2",
+    "file_path": "data\\moe-zambian-languages\\SILOZI-LANG-TEACHING-MODULE-FORM-1-TERM-2.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "e7e87759-f904-4b42-9e33-450090180980",
+    "filename": "SILOZI-LANG-TEACHING-MODULE-FORM-1-TERM-3.pdf",
+    "source_type": "teaching_module",
+    "language": "lozi",
+    "level": "Form 1",
+    "term": "Term 3",
+    "file_path": "data\\moe-zambian-languages\\SILOZI-LANG-TEACHING-MODULE-FORM-1-TERM-3.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "566dcbcc-963f-4909-ba24-20df14eddbfa",
+    "filename": "SILOZI-TEACHING-MODULE-GRADE-1-TERM-1.pdf",
+    "source_type": "teaching_module",
+    "language": "lozi",
+    "level": "Grade 1",
+    "term": "Term 1",
+    "file_path": "data\\moe-zambian-languages\\SILOZI-TEACHING-MODULE-GRADE-1-TERM-1.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "8e3f39d9-572b-4a56-8013-d9d4c8a52618",
+    "filename": "SILOZI-GRADE-1-TEACHING-MODULE-TERM-2.pdf",
+    "source_type": "teaching_module",
+    "language": "lozi",
+    "level": "Grade 1",
+    "term": "Term 2",
+    "file_path": "data\\moe-zambian-languages\\SILOZI-GRADE-1-TEACHING-MODULE-TERM-2.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "3857014d-1f3d-46f3-9cd3-0da4a294b533",
+    "filename": "SILOZI-GRADE-1-TEACHING-MODULE-TERM-3.pdf",
+    "source_type": "teaching_module",
+    "language": "lozi",
+    "level": "Grade 1",
+    "term": "Term 3",
+    "file_path": "data\\moe-zambian-languages\\SILOZI-GRADE-1-TEACHING-MODULE-TERM-3.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "4f2f47ab-e3df-4e80-980a-0cf810f5c5ac",
+    "filename": "LUNDA-ECE-TEACHING-MODULE-TERM-2.pdf",
+    "source_type": "teaching_module",
+    "language": "lunda",
+    "level": "ECE",
+    "term": "Term 2",
+    "file_path": "data\\moe-zambian-languages\\LUNDA-ECE-TEACHING-MODULE-TERM-2.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "d3754a71-62f0-4eb8-a463-4e7adba27e6d",
+    "filename": "LUNDA-ECE-TEACHING-MODULE-TERM-3.pdf",
+    "source_type": "teaching_module",
+    "language": "lunda",
+    "level": "ECE",
+    "term": "Term 3",
+    "file_path": "data\\moe-zambian-languages\\LUNDA-ECE-TEACHING-MODULE-TERM-3.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "e2dc7ecd-84ac-4377-8d8c-f56a91b94197",
+    "filename": "LITERATURE-IN-LUNDA-TEACHING-MODULE-FORM-1-TERM-1.pdf",
+    "source_type": "literature",
+    "language": "lunda",
+    "level": "Form 1",
+    "term": "Term 1",
+    "file_path": "data\\moe-zambian-languages\\LITERATURE-IN-LUNDA-TEACHING-MODULE-FORM-1-TERM-1.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "cd3fa26f-6e46-4287-aec0-393e8cff683a",
+    "filename": "LUNDA-TEACHING-MODULE-FORM-1-TERM-1.pdf",
+    "source_type": "teaching_module",
+    "language": "lunda",
+    "level": "Form 1",
+    "term": "Term 1",
+    "file_path": "data\\moe-zambian-languages\\LUNDA-TEACHING-MODULE-FORM-1-TERM-1.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "a8ecea21-a174-4680-96b5-a4d9baab7ee3",
+    "filename": "LIT-IN-LUNDA-TEACHING-MODULE-FORM-1-TERM-2.pdf",
+    "source_type": "literature",
+    "language": "lunda",
+    "level": "Form 1",
+    "term": "Term 2",
+    "file_path": "data\\moe-zambian-languages\\LIT-IN-LUNDA-TEACHING-MODULE-FORM-1-TERM-2.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "bd4c216a-0160-4cf0-b29b-def337a59352",
+    "filename": "LUNDA-TEACHING-MODULE-FORM-1-TERM-2.pdf",
+    "source_type": "teaching_module",
+    "language": "lunda",
+    "level": "Form 1",
+    "term": "Term 2",
+    "file_path": "data\\moe-zambian-languages\\LUNDA-TEACHING-MODULE-FORM-1-TERM-2.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "fce63907-06a8-4f51-b789-0e986c8bde0e",
+    "filename": "LUNDA-LANGUAGE-FORM-1-TEACHING-MODULE-TERM-3-1.pdf",
+    "source_type": "teaching_module",
+    "language": "lunda",
+    "level": "Form 1",
+    "term": "Term 3",
+    "file_path": "data\\moe-zambian-languages\\LUNDA-LANGUAGE-FORM-1-TEACHING-MODULE-TERM-3-1.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "8db7cf43-292c-4bc7-9916-78e0f79c6f03",
+    "filename": "LUNDA-LANGUAGE-FORM-1-TEACHING-MODULE-TERM-3.pdf",
+    "source_type": "teaching_module",
+    "language": "lunda",
+    "level": "Form 1",
+    "term": "Term 3",
+    "file_path": "data\\moe-zambian-languages\\LUNDA-LANGUAGE-FORM-1-TEACHING-MODULE-TERM-3.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "b0b09215-e5c7-41eb-848a-1801c1d6153d",
+    "filename": "LUNDA-TEACHING-MODULE-GRADE-1-TERM-1.pdf",
+    "source_type": "teaching_module",
+    "language": "lunda",
+    "level": "Grade 1",
+    "term": "Term 1",
+    "file_path": "data\\moe-zambian-languages\\LUNDA-TEACHING-MODULE-GRADE-1-TERM-1.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "b376f611-8d4b-4311-9ef4-7c1fb7656306",
+    "filename": "LUNDA-GRADE-1-TEACHING-MODULE-TERM-2.pdf",
+    "source_type": "teaching_module",
+    "language": "lunda",
+    "level": "Grade 1",
+    "term": "Term 2",
+    "file_path": "data\\moe-zambian-languages\\LUNDA-GRADE-1-TEACHING-MODULE-TERM-2.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "390fd469-00fb-4d2d-b6d3-87e52c9b4515",
+    "filename": "LUNDA-GRADE-1-TEACHING-MODULE-TERM-3.pdf",
+    "source_type": "teaching_module",
+    "language": "lunda",
+    "level": "Grade 1",
+    "term": "Term 3",
+    "file_path": "data\\moe-zambian-languages\\LUNDA-GRADE-1-TEACHING-MODULE-TERM-3.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "600ccf82-64ae-484d-b6a3-cb2e7883fdd2",
+    "filename": "LITERATURE-IN-LUVALE-TEACHING-MODULE-FROM-1-TERM-1.pdf",
+    "source_type": "literature",
+    "language": "luvale",
+    "level": null,
+    "term": "Term 1",
+    "file_path": "data\\moe-zambian-languages\\LITERATURE-IN-LUVALE-TEACHING-MODULE-FROM-1-TERM-1.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "8dee21fc-ea7a-4eb5-8e53-dbc9bc877d38",
+    "filename": "LUVALE-ECE-LEVEL-1-TEACHING-MODULE-TERM-1.pdf",
+    "source_type": "teaching_module",
+    "language": "luvale",
+    "level": "ECE",
+    "term": "Term 1",
+    "file_path": "data\\moe-zambian-languages\\LUVALE-ECE-LEVEL-1-TEACHING-MODULE-TERM-1.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "198fcb08-1b0d-44a5-926f-85c2e8deacfe",
+    "filename": "LUVALE-ECE-TEACHING-MODULE-TERM-2.pdf",
+    "source_type": "teaching_module",
+    "language": "luvale",
+    "level": "ECE",
+    "term": "Term 2",
+    "file_path": "data\\moe-zambian-languages\\LUVALE-ECE-TEACHING-MODULE-TERM-2.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "37134e0c-a2bf-46d9-9d36-5f0216f61c74",
+    "filename": "LUVALE-ECE-TEACHING-MODULE-TERM-3.pdf",
+    "source_type": "teaching_module",
+    "language": "luvale",
+    "level": "ECE",
+    "term": "Term 3",
+    "file_path": "data\\moe-zambian-languages\\LUVALE-ECE-TEACHING-MODULE-TERM-3.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "0d97a1f0-0e19-4417-ab30-96893c40be60",
+    "filename": "LUVALE-TEACHING-MODULE-FORM-1-TERM-1.pdf",
+    "source_type": "teaching_module",
+    "language": "luvale",
+    "level": "Form 1",
+    "term": "Term 1",
+    "file_path": "data\\moe-zambian-languages\\LUVALE-TEACHING-MODULE-FORM-1-TERM-1.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "e9398890-099b-436a-9e08-8e255ee488c2",
+    "filename": "LIT-IN-LUVALE-TEACHING-MODULE-FORM-1-TERM-2.pdf",
+    "source_type": "literature",
+    "language": "luvale",
+    "level": "Form 1",
+    "term": "Term 2",
+    "file_path": "data\\moe-zambian-languages\\LIT-IN-LUVALE-TEACHING-MODULE-FORM-1-TERM-2.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "8fa36669-006c-42db-a9cf-7a494ff0faba",
+    "filename": "LUVALE-TEACHING-MODULE-FORM-1-TERM-2.pdf",
+    "source_type": "teaching_module",
+    "language": "luvale",
+    "level": "Form 1",
+    "term": "Term 2",
+    "file_path": "data\\moe-zambian-languages\\LUVALE-TEACHING-MODULE-FORM-1-TERM-2.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "ed21247d-d0b0-49a9-9414-5807a8599043",
+    "filename": "LIT-IN-LUVALE-TEACHING-MODULE-FORM-1-TERM-3.pdf",
+    "source_type": "literature",
+    "language": "luvale",
+    "level": "Form 1",
+    "term": "Term 3",
+    "file_path": "data\\moe-zambian-languages\\LIT-IN-LUVALE-TEACHING-MODULE-FORM-1-TERM-3.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "64a53022-4b20-4975-a00f-b01db272b483",
+    "filename": "LUVALE-TEACHING-MODULE-FORM-1-TERM-3.pdf",
+    "source_type": "teaching_module",
+    "language": "luvale",
+    "level": "Form 1",
+    "term": "Term 3",
+    "file_path": "data\\moe-zambian-languages\\LUVALE-TEACHING-MODULE-FORM-1-TERM-3.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "5cb3c868-0929-481f-86af-7c6460e6867f",
+    "filename": "LUVALE-TEACHING-MODULE-GRADE-1-TEMU-1.pdf",
+    "source_type": "teaching_module",
+    "language": "luvale",
+    "level": "Grade 1",
+    "term": null,
+    "file_path": "data\\moe-zambian-languages\\LUVALE-TEACHING-MODULE-GRADE-1-TEMU-1.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "5773054b-52a3-4419-bbd1-44b1f16c586c",
+    "filename": "LUVALE-GRADE-1-TEACHING-MODULE-TERM-2.pdf",
+    "source_type": "teaching_module",
+    "language": "luvale",
+    "level": "Grade 1",
+    "term": "Term 2",
+    "file_path": "data\\moe-zambian-languages\\LUVALE-GRADE-1-TEACHING-MODULE-TERM-2.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "2f70c744-3308-46e3-8696-d958ab0b4c1a",
+    "filename": "LUVALE-GRADE-1-TEACHING-MODULE-TERM-3.pdf",
+    "source_type": "teaching_module",
+    "language": "luvale",
+    "level": "Grade 1",
+    "term": "Term 3",
+    "file_path": "data\\moe-zambian-languages\\LUVALE-GRADE-1-TEACHING-MODULE-TERM-3.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "92666020-45cb-4ce1-adee-4d4f7a4c4513",
+    "filename": "CINYANJA-ECE-TEACHING-MODULE-TERM-2-LEVEL-1.pdf",
+    "source_type": "teaching_module",
+    "language": "nyanja",
+    "level": "ECE",
+    "term": "Term 2",
+    "file_path": "data\\moe-zambian-languages\\CINYANJA-ECE-TEACHING-MODULE-TERM-2-LEVEL-1.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "79e7ac73-67e3-4f5e-9707-22741458cf57",
+    "filename": "CINYANJA-ECE-TEACHING-MODULE-TERM-3-LEVEL-1.pdf",
+    "source_type": "teaching_module",
+    "language": "nyanja",
+    "level": "ECE",
+    "term": "Term 3",
+    "file_path": "data\\moe-zambian-languages\\CINYANJA-ECE-TEACHING-MODULE-TERM-3-LEVEL-1.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "e3a97f44-5466-4d44-95e7-f37a1fb76497",
+    "filename": "LITERATURE-IN-CINYANJA-TEACHING-MODULE-FORM-1-TERM-1.pdf",
+    "source_type": "literature",
+    "language": "nyanja",
+    "level": "Form 1",
+    "term": "Term 1",
+    "file_path": "data\\moe-zambian-languages\\LITERATURE-IN-CINYANJA-TEACHING-MODULE-FORM-1-TERM-1.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "6bbcdad3-b50d-47dc-acd3-240ed060a0de",
+    "filename": "CINYANJA-LANGUAGE-TEACHING-MODULE-FORM-1-TERM-2.pdf",
+    "source_type": "teaching_module",
+    "language": "nyanja",
+    "level": "Form 1",
+    "term": "Term 2",
+    "file_path": "data\\moe-zambian-languages\\CINYANJA-LANGUAGE-TEACHING-MODULE-FORM-1-TERM-2.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "0adc6a7c-ffb2-487a-9637-d735bf34289e",
+    "filename": "CINYANJA-LANGUAGE-TEACHING-MODULE-FORM-1-TERM-3.pdf",
+    "source_type": "teaching_module",
+    "language": "nyanja",
+    "level": "Form 1",
+    "term": "Term 3",
+    "file_path": "data\\moe-zambian-languages\\CINYANJA-LANGUAGE-TEACHING-MODULE-FORM-1-TERM-3.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "c9bb6991-59e8-4f03-8272-e474089fa1c4",
+    "filename": "CINYANJA-GRADE-1-TEACHING-MODLE-TERM-2.pdf",
+    "source_type": "teaching_module",
+    "language": "nyanja",
+    "level": "Grade 1",
+    "term": "Term 2",
+    "file_path": "data\\moe-zambian-languages\\CINYANJA-GRADE-1-TEACHING-MODLE-TERM-2.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "1a36e061-ae6e-4b41-a9eb-7c154e68edda",
+    "filename": "CINYANJA-GRADE-1-TEACHING-MODULE-TERM-3.pdf",
+    "source_type": "teaching_module",
+    "language": "nyanja",
+    "level": "Grade 1",
+    "term": "Term 3",
+    "file_path": "data\\moe-zambian-languages\\CINYANJA-GRADE-1-TEACHING-MODULE-TERM-3.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "41961b38-8a5a-48d0-b17f-0c9e24299e43",
+    "filename": "CHITONGA-ECE-TEACHING-MODULE-TERM-2.pdf",
+    "source_type": "teaching_module",
+    "language": "tonga",
+    "level": "ECE",
+    "term": "Term 2",
+    "file_path": "data\\moe-zambian-languages\\CHITONGA-ECE-TEACHING-MODULE-TERM-2.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "3f1b5879-4228-4d4c-9854-1c2a31acdfbc",
+    "filename": "CHITONGA-ECE-TEACHING-MODULE-TERM-3.pdf",
+    "source_type": "teaching_module",
+    "language": "tonga",
+    "level": "ECE",
+    "term": "Term 3",
+    "file_path": "data\\moe-zambian-languages\\CHITONGA-ECE-TEACHING-MODULE-TERM-3.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "c9c23cdd-d988-4812-8a19-af0b5de8860e",
+    "filename": "LITERATURE-IN-CHITONGA-TEACHING-MODULE-FORM-1-TERM-1.pdf",
+    "source_type": "literature",
+    "language": "tonga",
+    "level": "Form 1",
+    "term": "Term 1",
+    "file_path": "data\\moe-zambian-languages\\LITERATURE-IN-CHITONGA-TEACHING-MODULE-FORM-1-TERM-1.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "ab0a124d-7051-4b0f-8141-6985f6602991",
+    "filename": "CHITONGA-FORM-1-TERM-2-TEACHING-MODULE-2025-VERSION.pdf",
+    "source_type": "teaching_module",
+    "language": "tonga",
+    "level": "Form 1",
+    "term": "Term 2",
+    "file_path": "data\\moe-zambian-languages\\CHITONGA-FORM-1-TERM-2-TEACHING-MODULE-2025-VERSION.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "3ce1df68-8662-43d8-8516-a11e4ed09568",
+    "filename": "CHITONGA-FORM-1-TEACHING-MODULE-TERM-3.pdf",
+    "source_type": "teaching_module",
+    "language": "tonga",
+    "level": "Form 1",
+    "term": "Term 3",
+    "file_path": "data\\moe-zambian-languages\\CHITONGA-FORM-1-TEACHING-MODULE-TERM-3.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "934900b4-9135-4692-89d6-5cc90b18107d",
+    "filename": "CHITONGA-GRADE-1-EACHING-MODULE-TERM-2.pdf",
+    "source_type": "teaching_module",
+    "language": "tonga",
+    "level": "Grade 1",
+    "term": "Term 2",
+    "file_path": "data\\moe-zambian-languages\\CHITONGA-GRADE-1-EACHING-MODULE-TERM-2.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  },
+  {
+    "id": "3a839591-bc41-4721-82e7-a1cf88f10af1",
+    "filename": "CHITONGA-GRADE-1-TEACHING-MODULE-TERM-3.pdf",
+    "source_type": "teaching_module",
+    "language": "tonga",
+    "level": "Grade 1",
+    "term": "Term 3",
+    "file_path": "data\\moe-zambian-languages\\CHITONGA-GRADE-1-TEACHING-MODULE-TERM-3.pdf",
+    "created_at": "2026-04-07 15:14:54"
+  }
+]
