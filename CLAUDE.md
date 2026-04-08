@@ -160,3 +160,98 @@ Ministry of Education curriculum materials (Grades 1-4, all 7 languages) — gov
 - App: open source (AGPL)
 - Translations: community-owned (CC BY-SA)
 - Nobody locks up what the crowd built
+
+---
+
+## Brand Identity
+
+### Name
+"Liseli" = light in Lozi. Light illuminates what's hidden — Zambian languages are invisible to AI. Liseli makes them visible.
+
+### Positioning
+A **modern open-data project** — national infrastructure for Zambian language AI. Not a startup. Not a dated wiki. Think of it as Zambia's community-built language dataset — sleek, modern, and proudly open.
+
+### Tagline
+**"Liseli — Zambia's Open Language Project"**
+
+### Trust Statement (must be prominent, not buried in legal pages)
+> **Who owns this data?** You do. Everyone does. Every translation contributed to Liseli is released under Creative Commons (CC BY-SA). No company, government, or individual can lock it up. The dataset belongs to Zambia. The app code is open source (AGPL). Anyone can inspect it, improve it, or fork it.
+
+### Visual Identity
+- **Dark UI** — modern, premium feel, saves battery on mobile
+- **Emerald green accent (#059669)** — Zambian flag colour, used for CTAs, highlights, progress
+- **Clean sans-serif typography** (Inter or similar)
+- **Micro-animations** — progress bars filling, numbers ticking up, cards swiping, completion feedback
+- **Zambia map** — stylized, minimal, used as data visualization (provinces lit by contribution density), not clipart
+- **CC BY-SA badge** — styled as a pride badge (like GitHub's "open source" badge), visible on every page
+- **Open source as a feature** — not an afterthought, not fine print
+
+### The Vibe
+Duolingo's polish + Linear's clarity + GitHub's community feel. Open source doesn't have to look like a government website. It should look like the best app on your phone — one that happens to be built by the community, for the community.
+
+---
+
+## Sponsor Strategy
+
+### Two Audiences, One Project
+- **To contributors:** "This is yours. You're building something no AI company will build for you."
+- **To sponsors:** "Fund the infrastructure that makes Zambian-language AI possible."
+
+### Why Sponsors Would Care
+- **Telcos (Airtel, MTN):** Need Zambian-language voice AI for customer service. This dataset enables it.
+- **Government (ZICTA, MoE):** National digital inclusion mandate. Cheapest path to Zambian-language AI for public services.
+- **Banks/Fintechs:** Zambian-language chatbots for financial services — massive underserved market.
+- **Research/NGOs:** Language preservation, digital inclusion — aligns with existing mandates.
+
+### Value Proposition
+Sponsors don't buy the data — it stays open. They fund model training and get:
+- Logo on the platform (seen by every contributor)
+- Early API access to trained models
+- Recognition as a founder of Zambian language AI
+- PR: "We're helping build AI that speaks your language"
+
+### Sponsor Tiers
+- **Community Partner** — airtime prizes, monthly draw funding
+- **Training Sponsor** — fund GPU compute for model fine-tuning
+- **Founding Sponsor** — named recognition, advisory role, early model access
+
+### Rule
+Never compromise community ownership for sponsorship. Data stays CC BY-SA. Code stays AGPL. No exceptions.
+
+---
+
+## Day-One Users
+
+### Primary: University Students
+Language/linguistics departments at UNZA, CBU, Mulungushi. They have:
+- Linguistic knowledge (understand grammar, orthography)
+- Reliable phone and data access
+- Academic motivation (research value, departmental pride)
+- Social networks to spread it (WhatsApp groups, campus word-of-mouth)
+
+### Secondary: MoE Teachers
+Teachers already working with local language curriculum materials (Grades 1-4). They know the standardised orthography and care about language education.
+
+### Growth Path
+Seed with 50-100 university contributors → validate mechanics → WhatsApp word-of-mouth → provincial pride drives adoption → general public
+
+---
+
+## UX Direction: One-at-a-Time, Not a Feed
+
+### The Problem with Current UI
+The translate page shows a scrollable list of translation cards. This feels like a task list — users see a wall of work, not one bite-sized action. It discourages casual "just 2 minutes" sessions.
+
+### Target UX: Swipeable Card Flow
+- **Translate mode:** ONE card fills the screen. English source + AI attempt + input field. Submit → satisfying animation → auto-advance to next. Not a feed. Not a list.
+- **Validate mode:** ONE translation at a time. See English, see translation, vote → next card. Like swiping through stories.
+- **"Just one more" nudge:** After each submission: "Nice! 3 more in this topic?" Extends sessions naturally.
+- **Session summary:** After a batch (5-10 items or user stops): "You translated 5 words in Health. Bemba health is now 34% complete." End on impact.
+- **Progress bar at top:** "3 of 10" or a fill bar for the current session — bounded progress, not endless scroll.
+- **Skip button:** Not every sentence is one you can translate. Skip without penalty, move to next.
+
+### Why This Matters
+- Reduces cognitive load (one decision at a time)
+- Creates flow state (no scrolling, no choosing)
+- Makes "just 2 minutes on a matatu" sessions viable
+- Each submission feels like a completion, not a partial dent in a list
