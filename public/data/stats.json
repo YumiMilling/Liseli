@@ -1,11 +1,6 @@
 {
-  "total_sentences": 57173,
-  "total_translations": 62853,
-  "total_corpus": 329844,
-  "languages": 7,
-  "tiers": {
-    "phrase": 1028,
-    "sentence": 44220,
-    "word": 11925
-  }
+  "total_sentences": 57802,
+  "total_translations": 225541,
+  "total_corpus": 298770,
+  "languages": 7
 }

@@ -11,13 +11,17 @@ export function Landing() {
       {/* Hero */}
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-bold mb-3 leading-tight">
-          Only Zambians can build
+          Our languages deserve
           <br />
-          <span className="text-brand-400">Zambia's AI.</span>
+          <span className="text-brand-400">a digital future.</span>
         </h1>
-        <p className="text-slate-400 text-lg max-w-md mx-auto">
-          Translate words, phrases, and sentences into Zambian languages.
-          Together we build the dataset for AI that speaks our languages.
+        <p className="text-slate-400 text-lg max-w-md mx-auto mb-4">
+          Technology that doesn't speak your language excludes you.
+          Liseli is building the open dataset to change that — for all 7 Zambian languages.
+        </p>
+        <p className="text-slate-500 text-sm max-w-sm mx-auto">
+          When a mother can describe symptoms in Lozi, a farmer can get advice in Bemba,
+          and a child can learn to read in Kaonde — that's what this data makes possible.
         </p>
       </div>
 
@@ -70,14 +74,41 @@ export function Landing() {
         <LanguageCoverageGrid coverage={coverage} loading={loading} />
       </div>
 
-      {/* How it works */}
+      {/* Why it matters */}
       <div className="bg-slate-800 rounded-xl p-6 border border-slate-700">
-        <h2 className="text-lg font-semibold mb-4">How It Works</h2>
+        <h2 className="text-lg font-semibold mb-4">Why This Matters</h2>
+        <div className="space-y-4">
+          <Step
+            n={1}
+            title="Digital exclusion is real"
+            desc="Technology that only works in English excludes millions of Zambians. A farmer can't get crop advice. A patient can't describe symptoms. A child can't learn to read."
+          />
+          <Step
+            n={2}
+            title="Languages without data disappear"
+            desc="If our languages don't exist digitally, they lose relevance. Making them part of technology is an act of preservation."
+          />
+          <Step
+            n={3}
+            title="Only we can do this"
+            desc="No tech company will build this — the market is too small. Only Zambian speakers have the knowledge to get the translations right."
+          />
+          <Step
+            n={4}
+            title="The data is open, forever"
+            desc="Everything built here is CC BY-SA — owned by the community, free for anyone to use. Nobody locks up what the crowd built."
+          />
+        </div>
+      </div>
+
+      {/* How to contribute */}
+      <div className="mt-8 bg-slate-800 rounded-xl p-6 border border-slate-700">
+        <h2 className="text-lg font-semibold mb-4">How to Contribute</h2>
         <div className="space-y-4">
           <Step
             n={1}
             title="Translate"
-            desc="See an English word, phrase, or sentence. The AI takes a guess — you correct it, improve it, or replace it entirely."
+            desc="See an English word or sentence. Translate it into your language — you're the expert."
           />
           <Step
             n={2}
@@ -87,12 +118,7 @@ export function Landing() {
           <Step
             n={3}
             title="Discuss"
-            desc="When votes are split, a discussion opens. Debate dialect differences, agree on the best translation."
-          />
-          <Step
-            n={4}
-            title="Build AI"
-            desc="Every verified translation becomes training data for AI models that speak Zambian languages."
+            desc="When opinions differ, a discussion opens. Dialect differences are documented, not erased."
           />
         </div>
       </div>
@@ -125,15 +151,21 @@ export function Landing() {
         </div>
       </div>
 
-      {/* Footer CTA */}
+      {/* Footer */}
       <div className="text-center mt-10 mb-4">
         <Link
-          to="/translate"
+          to="/browse"
           className="inline-block bg-brand-600 hover:bg-brand-700 px-8 py-3 rounded-xl font-semibold text-lg transition-colors"
         >
-          Start Contributing
+          Explore the Data
         </Link>
-        <p className="text-slate-500 text-sm mt-3">No account required to browse. Sign up to contribute.</p>
+        <p className="text-slate-500 text-sm mt-3">
+          Open data. Open source. Owned by Zambia.
+        </p>
+        <div className="mt-4 inline-flex items-center gap-3 text-xs text-slate-500">
+          <span className="font-mono bg-slate-800 px-2 py-1 rounded border border-slate-700">CC BY-SA</span>
+          <span className="font-mono bg-slate-800 px-2 py-1 rounded border border-slate-700">AGPL-3.0</span>
+        </div>
       </div>
     </div>
   )

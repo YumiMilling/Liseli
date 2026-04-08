@@ -19,6 +19,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
       <header className="bg-slate-800 border-b border-slate-700 px-4 py-3 flex items-center justify-between">
         <Link to="/" className="flex items-center gap-2">
           <span className="text-brand-400 font-bold text-xl">Liseli</span>
+          <span className="text-slate-500 text-xs hidden sm:inline">Zambia's Open Language Project</span>
         </Link>
         {contributor ? (
           <Link

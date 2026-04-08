@@ -1,51 +1,65 @@
 [
   {
     "language": "bemba",
-    "total_sentences": 57173,
-    "translated": 946,
-    "verified": 946,
-    "percentage": 1.7
-  },
-  {
-    "language": "kaonde",
-    "total_sentences": 57173,
-    "translated": 941,
-    "verified": 941,
-    "percentage": 1.6
-  },
-  {
-    "language": "lozi",
-    "total_sentences": 57173,
-    "translated": 963,
-    "verified": 963,
-    "percentage": 1.7
-  },
-  {
-    "language": "lunda",
-    "total_sentences": 57173,
-    "translated": 936,
-    "verified": 936,
-    "percentage": 1.6
-  },
-  {
-    "language": "luvale",
-    "total_sentences": 57173,
-    "translated": 913,
-    "verified": 913,
-    "percentage": 1.6
+    "total_sentences": 57802,
+    "translated": 31785,
+    "verified": 31785,
+    "corpus_lines": 40104,
+    "corpus_words": 755018,
+    "percentage": 0
   },
   {
     "language": "nyanja",
-    "total_sentences": 57173,
-    "translated": 57085,
-    "verified": 57085,
-    "percentage": 99.8
+    "total_sentences": 57802,
+    "translated": 57733,
+    "verified": 57733,
+    "corpus_lines": 79096,
+    "corpus_words": 1658083,
+    "percentage": 0
   },
   {
     "language": "tonga",
-    "total_sentences": 57173,
-    "translated": 884,
-    "verified": 884,
-    "percentage": 1.5
+    "total_sentences": 57802,
+    "translated": 31751,
+    "verified": 31751,
+    "corpus_lines": 39897,
+    "corpus_words": 745795,
+    "percentage": 0
+  },
+  {
+    "language": "lozi",
+    "total_sentences": 57802,
+    "translated": 31803,
+    "verified": 31803,
+    "corpus_lines": 43931,
+    "corpus_words": 804526,
+    "percentage": 0
+  },
+  {
+    "language": "kaonde",
+    "total_sentences": 57802,
+    "translated": 8888,
+    "verified": 8888,
+    "corpus_lines": 18228,
+    "corpus_words": 346785,
+    "percentage": 0
+  },
+  {
+    "language": "lunda",
+    "total_sentences": 57802,
+    "translated": 31804,
+    "verified": 31804,
+    "corpus_lines": 37979,
+    "corpus_words": 690565,
+    "percentage": 0
+  },
+  {
+    "language": "luvale",
+    "total_sentences": 57802,
+    "translated": 31777,
+    "verified": 31777,
+    "corpus_lines": 39535,
+    "corpus_words": 830097,
+    "percentage": 0
   }
 ]
