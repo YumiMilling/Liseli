@@ -255,3 +255,38 @@ The translate page shows a scrollable list of translation cards. This feels like
 - Creates flow state (no scrolling, no choosing)
 - Makes "just 2 minutes on a matatu" sessions viable
 - Each submission feels like a completion, not a partial dent in a list
+
+---
+
+## Existing Datasets for Zambian Languages (Research, April 2025)
+
+### Coverage Summary
+
+| Language | In MT Models? | Parallel Text | Speech Data | Bible Text |
+|----------|--------------|---------------|-------------|------------|
+| **Bemba** | NLLB, FLORES | BIG-C (92K), AfriQA (1.3K), AfroLingu-MT | 210h+ | Yes |
+| **Nyanja** | NLLB, FLORES | MasakhaNER (8.9K NER), AfroLingu-MT | 35h | Yes |
+| **Tonga** | No | None | 82h (Zambezi Voice) | Yes |
+| **Lozi** | No | None | 21h (Zambezi Voice) | Yes |
+| **Kaonde** | No | None | Planned | Yes |
+| **Lunda** | No | None | 20h unlabelled | Yes |
+| **Luvale** | No | None | Planned | Yes |
+
+### Key Resources
+- **eBible.org / Scripture Earth** — Bible text for all 7 languages, verse-aligned (~31K verses each). Only text resource covering ALL languages.
+- **BIG-C** (UNZA, ACL 2023) — 92K Bemba utterances with English translations. CC BY-NC-ND 4.0.
+- **Zambezi Voice** (UNZA Speech Lab, INTERSPEECH 2023) — Speech for Bemba (26h), Nyanja (25h), Tonga (22h), Lozi (6h). MIT license.
+- **BembaSpeech** — 14.4K utterances, ~24.5h read speech. Public.
+- **AfriQA** (Masakhane) — 1,319 Bemba QA pairs. CC BY 4.0.
+- **MasakhaNER 2.0** (Masakhane) — ~8,900 Nyanja NER-tagged sentences. CC BY-NC 4.0.
+- **AfroLingu-MT** (UBC-NLP) — MT data for Bemba and Nyanja.
+- **NLLB/FLORES** (Meta) — Only Bemba and Nyanja. Can generate seed translations for those two.
+- **JW300** — 50-100K pairs per language for most Zambian languages. **Legally risky** (JW.org prohibits text mining).
+- **UbuntuGuard** (arXiv 2601.12696) — Nyanja adversarial safety benchmark. Data not yet released.
+
+### What This Means for Liseli
+- Bible translations are the only resource covering all 7 languages — critical seed data
+- Bemba is best-resourced, Nyanja second, the rest are nearly invisible
+- Kaonde, Lunda, Luvale have essentially zero digital text outside Bible
+- Community contribution (Liseli) is the only viable path for 5 of 7 languages
+- Validates the entire project thesis
