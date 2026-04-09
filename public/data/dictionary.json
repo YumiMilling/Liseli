@@ -9,6 +9,216 @@
     }
   },
   {
+    "english": "(1)   shutting in and so",
+    "translations": {
+      "nyanja": {
+        "text": "Mstsekero",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "(1)   to break something off from above, as maize or  millet from",
+    "translations": {
+      "nyanja": {
+        "text": "Kolola",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "(1)   to secceed, to do right, to be able to (do something), to manage",
+    "translations": {
+      "nyanja": {
+        "text": "Khoza",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "(1)   to sprinkle, to drizzle",
+    "translations": {
+      "nyanja": {
+        "text": "Waza",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "(1)   to take away medicine protecting house or garden",
+    "translations": {
+      "nyanja": {
+        "text": "Windula",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "(1)  son-in-law",
+    "translations": {
+      "nyanja": {
+        "text": "Mkamwini",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "(1)  term of great respect, third person plural, for Iwo",
+    "translations": {
+      "nyanja": {
+        "text": "Wawa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "(1)  to catch (ball)",
+    "translations": {
+      "nyanja": {
+        "text": "Yakha",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "(1)  to protect with medicine",
+    "translations": {
+      "nyanja": {
+        "text": "Winda",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "(1)  to tie, to bind, fasten, build",
+    "translations": {
+      "nyanja": {
+        "text": "Manga",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "(1) Pit latrine",
+    "translations": {
+      "nyanja": {
+        "text": "Chimbudzi",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "(1) to be beautiful (often used for the beauty of a person,   more intense",
+    "translations": {
+      "nyanja": {
+        "text": "Kongola",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "(1) to lay flat, make level, as levelling grass when walking",
+    "translations": {
+      "nyanja": {
+        "text": "Wanda",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "(adv) very, really, truly (Malawi)",
+    "translations": {
+      "nyanja": {
+        "text": "Zedi",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "(lit.) the year before, the year before last, a long time ago",
+    "translations": {
+      "nyanja": {
+        "text": "Macedzana",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "(Ns) axe, as Nkhwangwa",
+    "translations": {
+      "nyanja": {
+        "text": "Kapompho",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "=  he has become born again",
+    "translations": {
+      "nyanja": {
+        "text": "Anatembenuka",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "= eternal",
+    "translations": {
+      "nyanja": {
+        "text": "Wamuyaya",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "= to pay attention to",
+    "translations": {
+      "nyanja": {
+        "text": "Uzivelala",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a bad omen, i.e seeing a black cat crossing the road in front of you, you",
+    "translations": {
+      "nyanja": {
+        "text": "Mpingu",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a bearded person. ndemanga",
+    "translations": {
+      "nyanja": {
+        "text": "madebvu",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "A bicycle?",
     "translations": {
       "nyanja": {
@@ -18,11 +228,81 @@
     }
   },
   {
+    "english": "a big meal; banquet; a feast",
+    "translations": {
+      "nyanja": {
+        "text": "Mphwando",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a bit cut or broken off something",
+    "translations": {
+      "nyanja": {
+        "text": "Chidutswa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a club or a stroke",
+    "translations": {
+      "nyanja": {
+        "text": "Mkhunkhu",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "A computer?",
     "translations": {
       "nyanja": {
         "text": "Kompyuta?",
         "status": "verified"
+      }
+    }
+  },
+  {
+    "english": "a crow",
+    "translations": {
+      "nyanja": {
+        "text": "Khungubwi",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a cucumber",
+    "translations": {
+      "nyanja": {
+        "text": "Mnkhaka",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a fez",
+    "translations": {
+      "nyanja": {
+        "text": "Mzuli",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a friut similar to pomegranate",
+    "translations": {
+      "nyanja": {
+        "text": "Makangaza",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -61,6 +341,16 @@
     }
   },
   {
+    "english": "a large grasshopper",
+    "translations": {
+      "nyanja": {
+        "text": "Sokonombwe",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "a large water body",
     "translations": {
       "bemba": {
@@ -71,12 +361,182 @@
     }
   },
   {
+    "english": "a large-bladed knife",
+    "translations": {
+      "nyanja": {
+        "text": "Chikwanje",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a Leophard",
+    "translations": {
+      "nyanja": {
+        "text": "Kangombwa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a lid",
+    "translations": {
+      "nyanja": {
+        "text": "Mvundikiro",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a lie. - Bodza = its a lie!",
+    "translations": {
+      "nyanja": {
+        "text": "Bodza",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a Lintel",
+    "translations": {
+      "nyanja": {
+        "text": "Khotamiro",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a little extra gift you give to customer who has bought goods from",
+    "translations": {
+      "nyanja": {
+        "text": "Basela",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a mother`s elder brother; maternal uncle; head of the family",
+    "translations": {
+      "nyanja": {
+        "text": "Mtsibweni",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a noose",
+    "translations": {
+      "nyanja": {
+        "text": "Nkhwekwe",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a noose, a trap (for catching birds or rabbits), a snare -",
+    "translations": {
+      "nyanja": {
+        "text": "Khwekhwe",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a palm-fan",
+    "translations": {
+      "nyanja": {
+        "text": "Ngwalangwa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a path, road (wide) as an Elephant path, or a path near a village wid-",
+    "translations": {
+      "nyanja": {
+        "text": "Khwalala",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "A person",
     "translations": {
       "nyanja": {
         "text": "munthu",
         "status": "unverified",
         "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "a person who is not able to children; a woman who is",
+    "translations": {
+      "nyanja": {
+        "text": "Chhimbwira",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a person who steals, a bandit, a thief",
+    "translations": {
+      "nyanja": {
+        "text": "Chifwamba",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a phial, a bottle",
+    "translations": {
+      "nyanja": {
+        "text": "Nsupa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a place where they dig ore or clay (the clay itself used in the making of",
+    "translations": {
+      "nyanja": {
+        "text": "Mtapo",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a pond",
+    "translations": {
+      "nyanja": {
+        "text": "Chithaphwi",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a potter`s stone, used for polishing clay floors of the house",
+    "translations": {
+      "nyanja": {
+        "text": "Nkhulungo",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -95,6 +555,26 @@
       "nyanja": {
         "text": "Firiji?",
         "status": "verified"
+      }
+    }
+  },
+  {
+    "english": "a rim; edgeof basket or bicycle",
+    "translations": {
+      "nyanja": {
+        "text": "Mkombero",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a scab",
+    "translations": {
+      "nyanja": {
+        "text": "Nkhanambo",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -119,6 +599,66 @@
     }
   },
   {
+    "english": "A short form of iai",
+    "translations": {
+      "nyanja": {
+        "text": "Ai",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a sickness caused by a woman putting too much salt in ndiwo during her",
+    "translations": {
+      "nyanja": {
+        "text": "Tsempho",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a species of a large owl associated with witchcraft",
+    "translations": {
+      "nyanja": {
+        "text": "Mancici",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a species of Euphoria, a milky juice that causes blindness if it touches",
+    "translations": {
+      "nyanja": {
+        "text": "Nkhadze",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a strip of meat, as used in drying up biltong; a long narrow piece of",
+    "translations": {
+      "nyanja": {
+        "text": "Mzongo",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a switch",
+    "translations": {
+      "nyanja": {
+        "text": "Mkwapulo",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "A television?",
     "translations": {
       "nyanja": {
@@ -128,11 +668,71 @@
     }
   },
   {
+    "english": "a turkey",
+    "translations": {
+      "nyanja": {
+        "text": "Nkhukudembo",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a vein; artery; also a tendon",
+    "translations": {
+      "nyanja": {
+        "text": "Mstempha",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a very liquid fermented mealie meal or flour porridge mixed with water",
+    "translations": {
+      "nyanja": {
+        "text": "Mteteka",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "A watch?",
     "translations": {
       "nyanja": {
         "text": "Wotchi",
         "status": "verified"
+      }
+    }
+  },
+  {
+    "english": "a white man; used to refer to any white person irrespective of origin",
+    "translations": {
+      "nyanja": {
+        "text": "Mzungu",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a worm",
+    "translations": {
+      "nyanja": {
+        "text": "Nyongolotsi",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "a young man [also - Mulumbwana]",
+    "translations": {
+      "nyanja": {
+        "text": "Mlumbwana",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -2634,6 +3234,16 @@
       "kaonde": {
         "text": "byonkabyo",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "active voice",
+    "translations": {
+      "nyanja": {
+        "text": "Tembenuza",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -7886,6 +8496,36 @@
       "nyanja": {
         "text": "amizi",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "an old person",
+    "translations": {
+      "nyanja": {
+        "text": "Nkhalamba",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "an open shelter where men sit or rest; or to discuss matters or work to-",
+    "translations": {
+      "nyanja": {
+        "text": "Mphala",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "an Ostrich",
+    "translations": {
+      "nyanja": {
+        "text": "Nthiwatiwa",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -13879,6 +14519,16 @@
     }
   },
   {
+    "english": "at the crossroads",
+    "translations": {
+      "nyanja": {
+        "text": "Mphambano",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "atachotsedwa",
     "translations": {
       "nyanja": {
@@ -16006,6 +16656,16 @@
     }
   },
   {
+    "english": "backwards",
+    "translations": {
+      "nyanja": {
+        "text": "Chambuyo",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "bacon",
     "translations": {
       "nyanja": {
@@ -16567,6 +17227,16 @@
     }
   },
   {
+    "english": "bands of plaited grass worn around head by women after  the death of",
+    "translations": {
+      "nyanja": {
+        "text": "Zitambo",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "banished",
     "translations": {
       "bemba": {
@@ -16960,6 +17630,16 @@
       "nyanja": {
         "text": "khungwa",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "bark-cloth",
+    "translations": {
+      "nyanja": {
+        "text": "Nkhwende",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -17871,6 +18551,16 @@
       "nyanja": {
         "text": "sagonana",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "beads for head; head-bands",
+    "translations": {
+      "nyanja": {
+        "text": "Nsangamutu",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -21946,6 +22636,16 @@
     }
   },
   {
+    "english": "blunt arrows",
+    "translations": {
+      "nyanja": {
+        "text": "Nyankhwa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "bluntly",
     "translations": {
       "nyanja": {
@@ -23683,6 +24383,16 @@
     }
   },
   {
+    "english": "brass-wire as leglets or armlets. Token exchanged between two families a",
+    "translations": {
+      "nyanja": {
+        "text": "Nsambo",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "brave",
     "translations": {
       "bemba": {
@@ -25143,6 +25853,16 @@
     }
   },
   {
+    "english": "bullet",
+    "translations": {
+      "nyanja": {
+        "text": "Mpholopolo",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "bullied",
     "translations": {
       "nyanja": {
@@ -25597,6 +26317,16 @@
       "nyanja": {
         "text": "bwanji",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "burnt grass, particles from bush fire",
+    "translations": {
+      "nyanja": {
+        "text": "Nkhungulupsya",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -27848,6 +28578,16 @@
     }
   },
   {
+    "english": "carriage of loads",
+    "translations": {
+      "nyanja": {
+        "text": "Mtengatenga",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "carried",
     "translations": {
       "bemba": {
@@ -27933,6 +28673,16 @@
       "nyanja": {
         "text": "ngolo",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "carve wood/Ivory embroider",
+    "translations": {
+      "nyanja": {
+        "text": "Zukuta",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -28158,6 +28908,16 @@
     }
   },
   {
+    "english": "cat, but sometimes used to refer to a wild cat (a domestic cat is locally",
+    "translations": {
+      "nyanja": {
+        "text": "Mphaka",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "catch",
     "translations": {
       "lunda": {
@@ -28233,6 +28993,16 @@
       "luvale": {
         "text": "vangombe",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "cattle or dog tick",
+    "translations": {
+      "nyanja": {
+        "text": "Nsakapuka",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -29109,6 +29879,16 @@
       "nyanja": {
         "text": "yoghurt",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "Chameleon",
+    "translations": {
+      "nyanja": {
+        "text": "Birimankhwe",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -32600,6 +33380,16 @@
       "nyanja": {
         "text": "fuko",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "clan name such as Phiri, Banda, Mbewe,Sakala Mvula",
+    "translations": {
+      "nyanja": {
+        "text": "Chiwongo",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -40235,6 +41025,16 @@
     }
   },
   {
+    "english": "crumbs",
+    "translations": {
+      "nyanja": {
+        "text": "Nyenyeswa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "crumps",
     "translations": {
       "nyanja": {
@@ -40452,6 +41252,16 @@
       "nyanja": {
         "text": "mkhaka",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "cucumbers",
+    "translations": {
+      "nyanja": {
+        "text": "Mankhaka",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -44156,6 +44966,16 @@
       "lozi": {
         "text": "mulimu",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "Demonstrative stem, for something easily identified or already men-",
+    "translations": {
+      "nyanja": {
+        "text": "Ja",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -48403,6 +49223,16 @@
     }
   },
   {
+    "english": "domestic animals, cattle",
+    "translations": {
+      "nyanja": {
+        "text": "Zifuyo",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "dominance",
     "translations": {
       "nyanja": {
@@ -49485,6 +50315,16 @@
     }
   },
   {
+    "english": "dried vegetable leaves used as ‘ndiwo’ when green  ‘ndiwo’ is not",
+    "translations": {
+      "nyanja": {
+        "text": "Mfutso",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "drier",
     "translations": {
       "nyanja": {
@@ -50405,6 +51245,16 @@
       "nyanja": {
         "text": "sun",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "e.g.  ina,   ena. nadzikambe chameleon",
+    "translations": {
+      "nyanja": {
+        "text": "other",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -56006,6 +56856,16 @@
     }
   },
   {
+    "english": "eruptions, swelling which come of themselves, on any part of the body",
+    "translations": {
+      "nyanja": {
+        "text": "Mabuka",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "esar",
     "translations": {
       "bemba": {
@@ -58382,6 +59242,16 @@
     }
   },
   {
+    "english": "expect",
+    "translations": {
+      "nyanja": {
+        "text": "Yembekeza",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "expectancy",
     "translations": {
       "nyanja": {
@@ -59112,6 +59982,16 @@
       "nyanja": {
         "text": "njala",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "extreme desire",
+    "translations": {
+      "nyanja": {
+        "text": "Chilakolako",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -66067,6 +66947,16 @@
     }
   },
   {
+    "english": "fresh, green",
+    "translations": {
+      "nyanja": {
+        "text": "Wisi",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "fret",
     "translations": {
       "bemba": {
@@ -66329,6 +67219,16 @@
         "text": "ku maliketi",
         "status": "unverified",
         "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "front,usually with locatives pa, ku, mu.: Patsogolo, kutsogolo, m`tsogolo",
+    "translations": {
+      "nyanja": {
+        "text": "Tsogoza",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -69809,6 +70709,21 @@
     }
   },
   {
+    "english": "girl",
+    "translations": {
+      "nyanja": {
+        "text": "Msungwana",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      },
+      "tonga": {
+        "text": "musimbi",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
     "english": "girl and boy",
     "translations": {
       "nyanja": {
@@ -70092,6 +71007,16 @@
       "bemba": {
         "text": "lyonse",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "gleaningsof maize",
+    "translations": {
+      "nyanja": {
+        "text": "Nkholokwa",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -71676,6 +72601,16 @@
     }
   },
   {
+    "english": "grand-child, dscendant, posterity, a younger relation who buries the",
+    "translations": {
+      "nyanja": {
+        "text": "Mdzukulu",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "grandchildren",
     "translations": {
       "bemba": {
@@ -71916,6 +72851,16 @@
       "tonga": {
         "text": "civwubwe",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "grass hopper",
+    "translations": {
+      "nyanja": {
+        "text": "Tsokonombwe",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -72999,6 +73944,16 @@
     }
   },
   {
+    "english": "grumble or complain. - to despise, to show despite by moving the head, to",
+    "translations": {
+      "nyanja": {
+        "text": "Nyinyirika",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "grumbled",
     "translations": {
       "lunda": {
@@ -73231,6 +74186,16 @@
       "nyanja": {
         "text": "mfuti",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "gun powder",
+    "translations": {
+      "nyanja": {
+        "text": "Wonga",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -77591,6 +78556,16 @@
     }
   },
   {
+    "english": "heel",
+    "translations": {
+      "nyanja": {
+        "text": "Kadendene",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "heels",
     "translations": {
       "lunda": {
@@ -78322,6 +79297,16 @@
       "nyanja": {
         "text": "abusa",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "here",
+    "translations": {
+      "nyanja": {
+        "text": "Apa",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -80421,6 +81406,16 @@
       "tonga": {
         "text": "ngobyoobyo",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "hoop iron (from around bales) used as grass slasher",
+    "translations": {
+      "nyanja": {
+        "text": "Ngwandali",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -83415,6 +84410,16 @@
     }
   },
   {
+    "english": "ideophone - shivering",
+    "translations": {
+      "nyanja": {
+        "text": "Njenjejenje",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "idle",
     "translations": {
       "lozi": {
@@ -84731,6 +85736,16 @@
     }
   },
   {
+    "english": "in silence",
+    "translations": {
+      "nyanja": {
+        "text": "Kacetecete",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "In the morning",
     "translations": {
       "nyanja": {
@@ -85263,6 +86278,16 @@
       "nyanja": {
         "text": "amwenye",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "indicates something very near, so near that you are inside it, eg this week",
+    "translations": {
+      "nyanja": {
+        "text": "No",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -88178,6 +89203,16 @@
       "tonga": {
         "text": "nkaambo",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "isn't it? Don`t you? (asking for consent)",
+    "translations": {
+      "nyanja": {
+        "text": "Ati",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -93040,6 +94075,16 @@
       "tonga": {
         "text": "cakukkomana",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "joy or happiness",
+    "translations": {
+      "nyanja": {
+        "text": "Chimwemwe",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -98298,6 +99343,16 @@
     }
   },
   {
+    "english": "language",
+    "translations": {
+      "nyanja": {
+        "text": "Chilankhulo",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "language which",
     "translations": {
       "lozi": {
@@ -99659,6 +100714,16 @@
     }
   },
   {
+    "english": "leglets or armlets of copper or Iron",
+    "translations": {
+      "nyanja": {
+        "text": "Nkhwinjiri",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "legs",
     "translations": {
       "kaonde": {
@@ -100835,6 +101900,16 @@
     }
   },
   {
+    "english": "lid of a pot or container",
+    "translations": {
+      "nyanja": {
+        "text": "Chibvundikiro",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "lie",
     "translations": {
       "nyanja": {
@@ -101084,6 +102159,16 @@
     }
   },
   {
+    "english": "lightning (mamvekera=thunder). -ng'anipa",
+    "translations": {
+      "nyanja": {
+        "text": "cing'aning'ani",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "lightnings",
     "translations": {
       "kaonde": {
@@ -101274,6 +102359,16 @@
       "nyanja": {
         "text": "every",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "limbs; joints; strength of the body",
+    "translations": {
+      "nyanja": {
+        "text": "Nkhongono",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -101613,6 +102708,16 @@
       "kaonde": {
         "text": "batwelamo",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "lit. the year before, the year before last, along time ago",
+    "translations": {
+      "nyanja": {
+        "text": "Makedzana",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -106141,6 +107246,16 @@
     }
   },
   {
+    "english": "manner of dressing or clothes",
+    "translations": {
+      "nyanja": {
+        "text": "Kabvalidwe",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "mannerisms",
     "translations": {
       "nyanja": {
@@ -107022,6 +108137,16 @@
       "nyanja": {
         "text": "kumaso",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "mask of wild beast used in the Nyau dance",
+    "translations": {
+      "nyanja": {
+        "text": "Zinyau",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -113259,6 +114384,16 @@
     }
   },
   {
+    "english": "moisture",
+    "translations": {
+      "nyanja": {
+        "text": "Chinyontho",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "Mokabwajji",
     "translations": {
       "nyanja": {
@@ -114938,6 +116073,16 @@
     }
   },
   {
+    "english": "mud wash",
+    "translations": {
+      "nyanja": {
+        "text": "Bemberezi",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "mudslides",
     "translations": {
       "nyanja": {
@@ -115466,6 +116611,16 @@
     }
   },
   {
+    "english": "musical monochord",
+    "translations": {
+      "nyanja": {
+        "text": "Nkanagala",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "musician",
     "translations": {
       "nyanja": {
@@ -115522,6 +116677,16 @@
       "tonga": {
         "text": "tweelede",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "must, should, obligation, to fit",
+    "translations": {
+      "nyanja": {
+        "text": "Yenera",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -118018,6 +119183,16 @@
     }
   },
   {
+    "english": "needle + mbota = thread",
+    "translations": {
+      "nyanja": {
+        "text": "Zingano",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "needy",
     "translations": {
       "lozi": {
@@ -119904,6 +121079,26 @@
     }
   },
   {
+    "english": "noise made when walking in the bush; on dry leaves",
+    "translations": {
+      "nyanja": {
+        "text": "Mtswatswa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "noise of an earthquake, of a crowd or of dancing",
+    "translations": {
+      "nyanja": {
+        "text": "Chibvomezi",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "noises",
     "translations": {
       "nyanja": {
@@ -120081,6 +121276,16 @@
         "text": "Chichewa",
         "status": "unverified",
         "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "not to obey, to pay no heed, misconduct",
+    "translations": {
+      "nyanja": {
+        "text": "Pulupudza",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -121014,6 +122219,16 @@
     }
   },
   {
+    "english": "objections",
+    "translations": {
+      "nyanja": {
+        "text": "Mukangano",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "objective",
     "translations": {
       "nyanja": {
@@ -121578,6 +122793,16 @@
       "nyanja": {
         "text": "kholingo",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "of a garden, soil that has lost its strength,also of salt",
+    "translations": {
+      "nyanja": {
+        "text": "Tsukuluka",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -122603,6 +123828,16 @@
         "text": "zino",
         "status": "unverified",
         "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "one who shoots well",
+    "translations": {
+      "nyanja": {
+        "text": "Nkumbalume",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -125627,6 +126862,16 @@
       "tonga": {
         "text": "amuzyazi",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "pakati = become pregnant",
+    "translations": {
+      "nyanja": {
+        "text": "Tenga",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -129706,6 +130951,16 @@
       "nyanja": {
         "text": "zoyipa",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "perverseness",
+    "translations": {
+      "nyanja": {
+        "text": "Mphulupulu",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -133903,6 +135158,16 @@
       "tonga": {
         "text": "magwili",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "potatoes",
+    "translations": {
+      "nyanja": {
+        "text": "Mbatatase",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -146891,6 +148156,16 @@
     }
   },
   {
+    "english": "rubbish, straw, weeds",
+    "translations": {
+      "nyanja": {
+        "text": "Chinyalala",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "rubble",
     "translations": {
       "bemba": {
@@ -147030,6 +148305,16 @@
       "nyanja": {
         "text": "pamwamba",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "rudeness, insolence",
+    "translations": {
+      "nyanja": {
+        "text": "Chipongwe",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -147431,6 +148716,16 @@
       "nyanja": {
         "text": "dzimbiri",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "rust",
+    "translations": {
+      "nyanja": {
+        "text": "Zimbiri",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -149769,6 +151064,26 @@
     }
   },
   {
+    "english": "scars from stroke of whip",
+    "translations": {
+      "nyanja": {
+        "text": "Nkhwingwirima",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "scars of wounds inflicted by a lash",
+    "translations": {
+      "nyanja": {
+        "text": "Mkwingirima",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "scary",
     "translations": {
       "nyanja": {
@@ -150316,6 +151631,16 @@
       "nyanja": {
         "text": "dothi",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "scrape out (ash form a pipe, eye from its socket)",
+    "translations": {
+      "nyanja": {
+        "text": "Kolowolato",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -151499,6 +152824,16 @@
       "kaonde": {
         "text": "bongozhi",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "selfishness, miserliness",
+    "translations": {
+      "nyanja": {
+        "text": "Umbombo",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -152820,6 +154155,16 @@
     }
   },
   {
+    "english": "shabbiness of clothing",
+    "translations": {
+      "nyanja": {
+        "text": "Usiwa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "shackles",
     "translations": {
       "lozi": {
@@ -153462,6 +154807,16 @@
       "nyanja": {
         "text": "kulatsa",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "sharp pointed grass seeds",
+    "translations": {
+      "nyanja": {
+        "text": "Nsanu",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -155888,6 +157243,16 @@
     }
   },
   {
+    "english": "shout o joy, shrill trill by women",
+    "translations": {
+      "nyanja": {
+        "text": "Nthungulu",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "shouted",
     "translations": {
       "lozi": {
@@ -156546,6 +157911,16 @@
       "tonga": {
         "text": "syutela",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "shutting the lips in anger",
+    "translations": {
+      "nyanja": {
+        "text": "Msuanamo",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -158762,6 +160137,16 @@
     }
   },
   {
+    "english": "sleep-dust in the corner of the eyes",
+    "translations": {
+      "nyanja": {
+        "text": "Manthongo",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "sleeping",
     "translations": {
       "lozi": {
@@ -159142,6 +160527,16 @@
       "nyanja": {
         "text": "cg",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "small basin or pot usually of clay",
+    "translations": {
+      "nyanja": {
+        "text": "Mkeka",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -159755,6 +161150,16 @@
       "tonga": {
         "text": "kuti",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "snoring",
+    "translations": {
+      "nyanja": {
+        "text": "Nkhonono",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -166117,6 +167522,16 @@
     }
   },
   {
+    "english": "stuttering, babbling or stammering",
+    "translations": {
+      "nyanja": {
+        "text": "Chibwebwe",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "subcommittee",
     "translations": {
       "nyanja": {
@@ -167891,6 +169306,16 @@
     }
   },
   {
+    "english": "sweeping, things spread on the ground",
+    "translations": {
+      "nyanja": {
+        "text": "Zinyalalala",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "sweeps",
     "translations": {
       "luvale": {
@@ -168061,6 +169486,16 @@
       "nyanja": {
         "text": "zina",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "swolen glands resulting from wound or sore",
+    "translations": {
+      "nyanja": {
+        "text": "Mwanbere",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -171200,6 +172635,16 @@
     }
   },
   {
+    "english": "thank you, please, excuse me",
+    "translations": {
+      "nyanja": {
+        "text": "Zikomo",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "thanked",
     "translations": {
       "nyanja": {
@@ -171311,6 +172756,36 @@
     }
   },
   {
+    "english": "the dance or ceremony of initiation at puberty. Usually for girls and",
+    "translations": {
+      "nyanja": {
+        "text": "Chinamwail",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "the day before yesterday(can also be refered to as Mazo)",
+    "translations": {
+      "nyanja": {
+        "text": "Dzana",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "the fan palm",
+    "translations": {
+      "nyanja": {
+        "text": "Mgwalangwa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "The first one",
     "translations": {
       "nyanja": {
@@ -171341,6 +172816,16 @@
     }
   },
   {
+    "english": "the Ichneunon-fly",
+    "translations": {
+      "nyanja": {
+        "text": "Mbemberezi",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "The next one",
     "translations": {
       "nyanja": {
@@ -171351,12 +172836,32 @@
     }
   },
   {
+    "english": "the red ant",
+    "translations": {
+      "nyanja": {
+        "text": "Linthumbu",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "The response",
     "translations": {
       "nyanja": {
         "text": "simply bo",
         "status": "unverified",
         "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "the scattering of people from the land;deserted land",
+    "translations": {
+      "nyanja": {
+        "text": "Mpupuluzi",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -171391,12 +172896,42 @@
     }
   },
   {
+    "english": "the Tamarind tree",
+    "translations": {
+      "nyanja": {
+        "text": "Mbwemba",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "The verb to eat",
     "translations": {
       "nyanja": {
         "text": "kudya",
         "status": "unverified",
         "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "the weak or staggering walk of a sick or drunk person",
+    "translations": {
+      "nyanja": {
+        "text": "Dzandidzandzi",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "the west wind, the west",
+    "translations": {
+      "nyanja": {
+        "text": "Zambwe",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -174079,12 +175614,522 @@
     }
   },
   {
+    "english": "to accompany each other",
+    "translations": {
+      "nyanja": {
+        "text": "Kutsagana",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to accompany, guide",
+    "translations": {
+      "nyanja": {
+        "text": "Perekekeza",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to accustom",
+    "translations": {
+      "nyanja": {
+        "text": "Zoloweza",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to afflict, make suffer, annoy. -  Mazunzo = suffering",
+    "translations": {
+      "nyanja": {
+        "text": "Zunza",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to answer",
+    "translations": {
+      "nyanja": {
+        "text": "Yankha",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to arrange in order, to do in order, to speak in order",
+    "translations": {
+      "nyanja": {
+        "text": "Dongosola",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to arrange, relate in order, one thing after another",
+    "translations": {
+      "nyanja": {
+        "text": "Longosola",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to ask for too high a price, to steal. To want to appear",
+    "translations": {
+      "nyanja": {
+        "text": "Chenjeretsa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to babble, to stutter, to rave, to be delirious",
+    "translations": {
+      "nyanja": {
+        "text": "Bwebweta",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to bathe or wash oneself, used as euphemism for monthly period of a",
+    "translations": {
+      "nyanja": {
+        "text": "Samba",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be able",
+    "translations": {
+      "nyanja": {
+        "text": "Kuwanitsa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be accustomed to",
+    "translations": {
+      "nyanja": {
+        "text": "Zoloweera",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be afflicted, to suffer",
+    "translations": {
+      "nyanja": {
+        "text": "Zunzika",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be astonished",
+    "translations": {
+      "nyanja": {
+        "text": "Zizwa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be bad, to be evil, (when one is ugly, one is said to be ‘ipa’ in the",
+    "translations": {
+      "nyanja": {
+        "text": "Ipa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be broken or smashed. - Cha phwanyika = it has been broken",
+    "translations": {
+      "nyanja": {
+        "text": "Phwanyika",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be busy",
+    "translations": {
+      "nyanja": {
+        "text": "Tanganidwa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be confused, entangled, mixed up",
+    "translations": {
+      "nyanja": {
+        "text": "Sokonekera",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be cool, to be cold, to be insipid, without savour, to be calm",
+    "translations": {
+      "nyanja": {
+        "text": "Zizira",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be deep, to go right down",
+    "translations": {
+      "nyanja": {
+        "text": "Zama",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be exhausted, faint",
+    "translations": {
+      "nyanja": {
+        "text": "Ziya",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be extinguished",
+    "translations": {
+      "nyanja": {
+        "text": "Thima",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be first, to begin, to provoke",
+    "translations": {
+      "nyanja": {
+        "text": "Yamba",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be guilty of, be given a case, to provoke",
+    "translations": {
+      "nyanja": {
+        "text": "Palamula",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be hard, firm, strong",
+    "translations": {
+      "nyanja": {
+        "text": "Limba",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be indifferent, inattentive, to sit still when sent anywhere",
+    "translations": {
+      "nyanja": {
+        "text": "Nyalanyaza",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be insane",
+    "translations": {
+      "nyanja": {
+        "text": "Yaluka",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be partly quenched (fire or light), of fire or light dying out",
+    "translations": {
+      "nyanja": {
+        "text": "Zirala",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be poor",
+    "translations": {
+      "nyanja": {
+        "text": "Zingwa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be reconciled, to be of one mind",
+    "translations": {
+      "nyanja": {
+        "text": "Yanjana",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be restless",
+    "translations": {
+      "nyanja": {
+        "text": "Palapata",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be rough with long grass or bush: or hair unshorn",
+    "translations": {
+      "nyanja": {
+        "text": "Wirira",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be sour, to be acidic",
+    "translations": {
+      "nyanja": {
+        "text": "Wawasa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be startled",
+    "translations": {
+      "nyanja": {
+        "text": "Dzidzimuka",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be stuck fast, wedged in",
+    "translations": {
+      "nyanja": {
+        "text": "Tsakamira",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be sweet",
+    "translations": {
+      "nyanja": {
+        "text": "Zuna",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be sweet (sugar-cane, honey).-",
+    "translations": {
+      "nyanja": {
+        "text": "Tsekemera",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be wet with rain (body or ground), anything cooked with too much",
+    "translations": {
+      "nyanja": {
+        "text": "Khatamira",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be white, to be clean, to be pure",
+    "translations": {
+      "nyanja": {
+        "text": "Yera",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to be wild, fierece, to be angry",
+    "translations": {
+      "nyanja": {
+        "text": "Zaza",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to beat (as cloth in washing), to wash clothes, to beat with your fist",
+    "translations": {
+      "nyanja": {
+        "text": "Kantha",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to beat, to shower with blows upon",
+    "translations": {
+      "nyanja": {
+        "text": "Kankhanta",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to bend down the head, to be ashamed. -",
+    "translations": {
+      "nyanja": {
+        "text": "Zolika",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to boil, to bubble",
+    "translations": {
+      "nyanja": {
+        "text": "Wira",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to borrow or to lend to one another",
+    "translations": {
+      "nyanja": {
+        "text": "Bwerekana",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to borrow; to lend",
+    "translations": {
+      "nyanja": {
+        "text": "Kubweleka",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to break into pieces, to divide",
+    "translations": {
+      "nyanja": {
+        "text": "Nyema",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to bring",
+    "translations": {
+      "nyanja": {
+        "text": "Kubweletsa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to burn, be lit",
+    "translations": {
+      "nyanja": {
+        "text": "Yaka",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "To buy",
     "translations": {
       "nyanja": {
         "text": "kugula",
         "status": "unverified",
         "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "to carry off, to remove (in war), to plunder, to carry away everything",
+    "translations": {
+      "nyanja": {
+        "text": "Funkha",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to cause to fall and be scattered",
+    "translations": {
+      "nyanja": {
+        "text": "Yoyola",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -174099,12 +176144,82 @@
     }
   },
   {
+    "english": "to chill, make cold, to be very cold",
+    "translations": {
+      "nyanja": {
+        "text": "Ziziritsa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to chop",
+    "translations": {
+      "nyanja": {
+        "text": "Tsatsastha",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to clean",
+    "translations": {
+      "nyanja": {
+        "text": "Yeretsa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to clothe someone, to provide or give clothing",
+    "translations": {
+      "nyanja": {
+        "text": "Bvaka",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to clothe someone: to provide or to give clothing",
+    "translations": {
+      "nyanja": {
+        "text": "Bveka",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "To come",
     "translations": {
       "nyanja": {
         "text": "kwera",
         "status": "unverified",
         "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "to come back together again",
+    "translations": {
+      "nyanja": {
+        "text": "Bwererana",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to come out, be uprooted",
+    "translations": {
+      "nyanja": {
+        "text": "Zuka",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -174129,6 +176244,66 @@
     }
   },
   {
+    "english": "to cough",
+    "translations": {
+      "nyanja": {
+        "text": "Tsokomola",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to cover or to put a lid on",
+    "translations": {
+      "nyanja": {
+        "text": "Bvundikila",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to creep",
+    "translations": {
+      "nyanja": {
+        "text": "Wenda",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to crowd together, to hustle",
+    "translations": {
+      "nyanja": {
+        "text": "Panikizana",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to cry",
+    "translations": {
+      "nyanja": {
+        "text": "Kukazinga",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to cut meat in long strips",
+    "translations": {
+      "nyanja": {
+        "text": "Zonga",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "To dance",
     "translations": {
       "nyanja": {
@@ -174139,12 +176314,62 @@
     }
   },
   {
+    "english": "to dig or hoe, break up  ground",
+    "translations": {
+      "nyanja": {
+        "text": "Tipula",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to disappear by getting out of sight, to avoid",
+    "translations": {
+      "nyanja": {
+        "text": "Zemba",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to double, to repeat",
+    "translations": {
+      "nyanja": {
+        "text": "Wirikiza",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to doubt",
+    "translations": {
+      "nyanja": {
+        "text": "Kaikakaika",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "To drink",
     "translations": {
       "nyanja": {
         "text": "kumwa",
         "status": "unverified",
         "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "to drive, ride, move (something)",
+    "translations": {
+      "nyanja": {
+        "text": "Yendetsa",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -174164,12 +176389,162 @@
     }
   },
   {
+    "english": "to engrave, to carve, make embroidery",
+    "translations": {
+      "nyanja": {
+        "text": "Zokota",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to expand, to swell, become larger",
+    "translations": {
+      "nyanja": {
+        "text": "Tukumuka",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to fade away, become indistinct",
+    "translations": {
+      "nyanja": {
+        "text": "Zimirira",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to fall and scatter on the ground (as flowers and seeds)",
+    "translations": {
+      "nyanja": {
+        "text": "Yokoka",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to float",
+    "translations": {
+      "nyanja": {
+        "text": "Yandama",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to float, bob up and down in water",
+    "translations": {
+      "nyanja": {
+        "text": "Thumpuka",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to force through into a pot, hole or ring",
+    "translations": {
+      "nyanja": {
+        "text": "Phaphatiza",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to ford, go across",
+    "translations": {
+      "nyanja": {
+        "text": "Yambuka",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to forgive",
+    "translations": {
+      "nyanja": {
+        "text": "Khululukila",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to gather and take away, something that is spilled or spread",
+    "translations": {
+      "nyanja": {
+        "text": "II",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to gather. - V.T =  call a meeting",
+    "translations": {
+      "nyanja": {
+        "text": "Sonkhanitsa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to get up, raise up from stooping",
+    "translations": {
+      "nyanja": {
+        "text": "Weramuka",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to give assent, to consent, to take up the chorus (when singing or tell-",
+    "translations": {
+      "nyanja": {
+        "text": "Bvuma",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to give scandal",
+    "translations": {
+      "nyanja": {
+        "text": "Kumudwitsa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "To go",
     "translations": {
       "nyanja": {
         "text": "kupita",
         "status": "unverified",
         "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "to have diarrhea",
+    "translations": {
+      "nyanja": {
+        "text": "Tulula",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -174194,6 +176569,76 @@
     }
   },
   {
+    "english": "to hoe lightly, hoe down and gather grass and weeds in preparing a gar-",
+    "translations": {
+      "nyanja": {
+        "text": "Sosa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to hold one`s head down, to be ashamed",
+    "translations": {
+      "nyanja": {
+        "text": "Zyolika",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to humble oneself",
+    "translations": {
+      "nyanja": {
+        "text": "Kudzichepetsa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to incite, prompt, urge",
+    "translations": {
+      "nyanja": {
+        "text": "Sonkhezera",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to itch",
+    "translations": {
+      "nyanja": {
+        "text": "Yabwa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to itch, to tickle",
+    "translations": {
+      "nyanja": {
+        "text": "Nyerenyetsa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to judge",
+    "translations": {
+      "nyanja": {
+        "text": "Weruza",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "To jump",
     "translations": {
       "nyanja": {
@@ -174204,12 +176649,52 @@
     }
   },
   {
+    "english": "to kindle, to light",
+    "translations": {
+      "nyanja": {
+        "text": "Atsa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to kindle, to light a fire, a candle, a lamp",
+    "translations": {
+      "nyanja": {
+        "text": "Yatsa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to lap, as an animal when drinking, or when drinking from your hand",
+    "translations": {
+      "nyanja": {
+        "text": "Khapwira",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "To laugh",
     "translations": {
       "nyanja": {
         "text": "kuseka",
         "status": "unverified",
         "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "to leave (e.g work or school) and go",
+    "translations": {
+      "nyanja": {
+        "text": "Weruka",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -174234,12 +176719,172 @@
     }
   },
   {
+    "english": "to lie heaped together, or a person with her back to the fire",
+    "translations": {
+      "nyanja": {
+        "text": "Tundumala",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to limp",
+    "translations": {
+      "nyanja": {
+        "text": "Tsimphina",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to linger, delay, be late (used in confiter?)",
+    "translations": {
+      "nyanja": {
+        "text": "Zengereza",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to loosen",
+    "translations": {
+      "nyanja": {
+        "text": "Kanganula",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "To make",
     "translations": {
       "nyanja": {
         "text": "kubanga",
         "status": "unverified",
         "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "to make a thing known all around",
+    "translations": {
+      "nyanja": {
+        "text": "Wanditsa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to make like, to compare, to signify",
+    "translations": {
+      "nyanja": {
+        "text": "Yerekeza",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to mark, to stamp",
+    "translations": {
+      "nyanja": {
+        "text": "Zinidikiza",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to mean, to signify",
+    "translations": {
+      "nyanja": {
+        "text": "Tandthauza",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to meet or to congregate as a group",
+    "translations": {
+      "nyanja": {
+        "text": "Kusonkhana",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to melt ( wax: lead: sugar), become watery",
+    "translations": {
+      "nyanja": {
+        "text": "Sungaunuka",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to melt fat, tomake oil (from ground-nuts, Castor-beans)",
+    "translations": {
+      "nyanja": {
+        "text": "Yenga",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to mock at, use filthy language",
+    "translations": {
+      "nyanja": {
+        "text": "Tafula",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to open the mouth, to gape, to yawn",
+    "translations": {
+      "nyanja": {
+        "text": "Yasama",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to outwit",
+    "translations": {
+      "nyanja": {
+        "text": "Chenjerera",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to paddle, row (a boat), to pedal(bicycle) chova",
+    "translations": {
+      "nyanja": {
+        "text": "Palasa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to parboil fresh vegetables and then dry them in the sun to preserve",
+    "translations": {
+      "nyanja": {
+        "text": "Futsa",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -174254,12 +176899,172 @@
     }
   },
   {
+    "english": "to peel fruit, to pare",
+    "translations": {
+      "nyanja": {
+        "text": "Wenga",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to pierce, put a post into its hole or of a root taking hold",
+    "translations": {
+      "nyanja": {
+        "text": "Zika",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to pinion (by binding the arms), to hem, hem in, corner something",
+    "translations": {
+      "nyanja": {
+        "text": "Khwidzira",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to plane, to smooth, scrape",
+    "translations": {
+      "nyanja": {
+        "text": "Pala",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "to play",
     "translations": {
       "bemba": {
         "text": "ukuteya",
         "status": "unverified",
         "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "to pound (used of the first pounding of maize), to break into small",
+    "translations": {
+      "nyanja": {
+        "text": "Konola",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to pound broken maize, the first pounding is ‘Okonola’",
+    "translations": {
+      "nyanja": {
+        "text": "Tibula",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to pray",
+    "translations": {
+      "nyanja": {
+        "text": "Kupemphera",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to press, squeeze, wring out. - chopfinyira = a squeezer",
+    "translations": {
+      "nyanja": {
+        "text": "Pfinya",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to proclaim, make known",
+    "translations": {
+      "nyanja": {
+        "text": "Lalika",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to propitiate the spirits of the dead (prayer or offering at the grave)",
+    "translations": {
+      "nyanja": {
+        "text": "Kusula",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to pull up with the roots, to pull off (a peg, a nail)",
+    "translations": {
+      "nyanja": {
+        "text": "Zula",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to put in, fill up (a bag)",
+    "translations": {
+      "nyanja": {
+        "text": "Pakiza",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to put under your arm, to carry under your arm, to cross strings of beads",
+    "translations": {
+      "nyanja": {
+        "text": "Kwapatira",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to put upright, to stand upright",
+    "translations": {
+      "nyanja": {
+        "text": "Imika",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to quarrel",
+    "translations": {
+      "nyanja": {
+        "text": "Yambana",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to quench, extinguish (a fire, a light)",
+    "translations": {
+      "nyanja": {
+        "text": "Zimitsa",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -174274,12 +177079,62 @@
     }
   },
   {
+    "english": "to read, to count",
+    "translations": {
+      "nyanja": {
+        "text": "Werenga",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to recognize, understand, realise",
+    "translations": {
+      "nyanja": {
+        "text": "Zindikira",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to remain, to stay,to sit. Also used as an equivalent of ‘li’ = to be, and",
+    "translations": {
+      "nyanja": {
+        "text": "Khala",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to rinse",
+    "translations": {
+      "nyanja": {
+        "text": "Kutsukuluza",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "To run",
     "translations": {
       "nyanja": {
         "text": "kutamanga",
         "status": "unverified",
         "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "to run",
+    "translations": {
+      "nyanja": {
+        "text": "Thamanga",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -174294,12 +177149,72 @@
     }
   },
   {
+    "english": "to run away",
+    "translations": {
+      "nyanja": {
+        "text": "Kuthwawa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "To say sorry",
     "translations": {
       "nyanja": {
         "text": "pepa",
         "status": "unverified",
         "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "to separate from, to take leave of",
+    "translations": {
+      "nyanja": {
+        "text": "Tsazaikana",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to settle (as water), to be calm of mind, to be quiet of heart, gracious",
+    "translations": {
+      "nyanja": {
+        "text": "Dekha",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to shiver or shake with fear or cold",
+    "translations": {
+      "nyanja": {
+        "text": "Njenjemera",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to shout",
+    "translations": {
+      "nyanja": {
+        "text": "Pfuula",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to shrink, to shrivel up, to dry, to wither (leaves, skin)",
+    "translations": {
+      "nyanja": {
+        "text": "Khwinyata",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -174319,6 +177234,26 @@
     }
   },
   {
+    "english": "to singe, scorch",
+    "translations": {
+      "nyanja": {
+        "text": "Waula",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to skirt, to go around by the side of",
+    "translations": {
+      "nyanja": {
+        "text": "Lambalala",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "To sleep",
     "translations": {
       "nyanja": {
@@ -174329,12 +177264,302 @@
     }
   },
   {
+    "english": "to slip out(e.g. a hoe or an axe from its handle or tooth from its",
+    "translations": {
+      "nyanja": {
+        "text": "Guluka",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to smooth by hand with clay, usually using a flat small stone",
+    "translations": {
+      "nyanja": {
+        "text": "Zira",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to sneeze",
+    "translations": {
+      "nyanja": {
+        "text": "Yetsemula",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to sound",
+    "translations": {
+      "nyanja": {
+        "text": "Omba",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to speak by allusions, figurative speech",
+    "translations": {
+      "nyanja": {
+        "text": "Phiphiritsa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to speak, talk",
+    "translations": {
+      "nyanja": {
+        "text": "Yankhula",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to spend the day visiting relatives. Form of greeting from about mid-",
+    "translations": {
+      "nyanja": {
+        "text": "Coma",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to sprain, twist",
+    "translations": {
+      "nyanja": {
+        "text": "Zungunyula",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to spread in the sun to dry",
+    "translations": {
+      "nyanja": {
+        "text": "Yanika",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to spread out (flour); turn overr with hand",
+    "translations": {
+      "nyanja": {
+        "text": "Mwalamwaza",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to spread, arrange",
+    "translations": {
+      "nyanja": {
+        "text": "Yala",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to spread, stretch out, to relax",
+    "translations": {
+      "nyanja": {
+        "text": "Tambasula",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to spy, to look around",
+    "translations": {
+      "nyanja": {
+        "text": "Zonda",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to squabble, make excuse for refusing to so something",
+    "translations": {
+      "nyanja": {
+        "text": "Wiringula",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to squeeze, to twist, to press in order to get out pus (in a wound or",
+    "translations": {
+      "nyanja": {
+        "text": "Finya",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to stand, to stand upright, to stand by, to minister to",
+    "translations": {
+      "nyanja": {
+        "text": "Imilila",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to start (with). - Kuyambira  ... Kufikira = from ... till",
+    "translations": {
+      "nyanja": {
+        "text": "Yambira",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to start off early in the morning",
+    "translations": {
+      "nyanja": {
+        "text": "Celela",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to stay in place, to be firmly established, to have settled down, to",
+    "translations": {
+      "nyanja": {
+        "text": "Khazikika",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "To steal",
     "translations": {
       "nyanja": {
         "text": "kuba",
         "status": "unverified",
         "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "To steal",
+    "translations": {
+      "nyanja": {
+        "text": "Ba",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to stoop, to bend down",
+    "translations": {
+      "nyanja": {
+        "text": "Werama",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to stop moving, to stand still, to wait, to be in the early months of",
+    "translations": {
+      "nyanja": {
+        "text": "Ima",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to stretch out",
+    "translations": {
+      "nyanja": {
+        "text": "Tambalala",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to strip off, pull off, get off, be carried off (leaves, men)",
+    "translations": {
+      "nyanja": {
+        "text": "Pulula",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to suck ( breast), suckle",
+    "translations": {
+      "nyanja": {
+        "text": "Yamwa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to surround, go around",
+    "translations": {
+      "nyanja": {
+        "text": "Zungulira",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to take skin off, to loose the skin",
+    "translations": {
+      "nyanja": {
+        "text": "Myuka",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to tend, keep, look after people or cattle",
+    "translations": {
+      "nyanja": {
+        "text": "Weta",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to thank, to praise",
+    "translations": {
+      "nyanja": {
+        "text": "Yamika",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -174359,12 +177584,192 @@
     }
   },
   {
+    "english": "to tie, bind round",
+    "translations": {
+      "nyanja": {
+        "text": "Zenga",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to tremble or shake with fear",
+    "translations": {
+      "nyanja": {
+        "text": "Nthunthumira",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to trust, to believe, to hope ,to expect, to hope for,  faith",
+    "translations": {
+      "nyanja": {
+        "text": "Khulupilila",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to try, to guess, to measure, to test. -  Mayeso = test, trial, exams",
+    "translations": {
+      "nyanja": {
+        "text": "Yesa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to turn (a complete turn) turn around, to change",
+    "translations": {
+      "nyanja": {
+        "text": "Tembenuka",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to turn over",
+    "translations": {
+      "nyanja": {
+        "text": "Winduka",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to twine around",
+    "translations": {
+      "nyanja": {
+        "text": "Pombedza",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to twist around or off",
+    "translations": {
+      "nyanja": {
+        "text": "Pombonyola",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to twist off, tear off (a branch, joint neck of fowl]",
+    "translations": {
+      "nyanja": {
+        "text": "Phokonyola",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to uncoil (piece of string or snake)",
+    "translations": {
+      "nyanja": {
+        "text": "Pambasuka",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to uncover",
+    "translations": {
+      "nyanja": {
+        "text": "Vundukula",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to uncover or to take lid off",
+    "translations": {
+      "nyanja": {
+        "text": "Bvundukula",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to unfold, unwind, unravel",
+    "translations": {
+      "nyanja": {
+        "text": "Tombosola",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to untwist, unwind, disentangle",
+    "translations": {
+      "nyanja": {
+        "text": "Pombosola",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "To urinate",
     "translations": {
       "nyanja": {
         "text": "kukoza",
         "status": "unverified",
         "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "to utter the sound of nthungululu",
+    "translations": {
+      "nyanja": {
+        "text": "Luluta",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to visit",
+    "translations": {
+      "nyanja": {
+        "text": "Yendera",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to visit. - Cezela usiku = to spend the whole night (doing something",
+    "translations": {
+      "nyanja": {
+        "text": "Cezela",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to wait, to wait for",
+    "translations": {
+      "nyanja": {
+        "text": "Dikira",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -174379,12 +177784,72 @@
     }
   },
   {
+    "english": "to walk, move, travel",
+    "translations": {
+      "nyanja": {
+        "text": "Yenda",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "To want",
     "translations": {
       "nyanja": {
         "text": "kufuna",
         "status": "unverified",
         "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "to warm oneself",
+    "translations": {
+      "nyanja": {
+        "text": "Wotha",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to wash clothes",
+    "translations": {
+      "nyanja": {
+        "text": "Chapa",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to wave, to turn to one side",
+    "translations": {
+      "nyanja": {
+        "text": "Weyula",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to wheel round",
+    "translations": {
+      "nyanja": {
+        "text": "Zweta",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to whilr around",
+    "translations": {
+      "nyanja": {
+        "text": "Zunguza",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -174399,12 +177864,42 @@
     }
   },
   {
+    "english": "to wrap around, twine around",
+    "translations": {
+      "nyanja": {
+        "text": "Zerenga",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "To write",
     "translations": {
       "nyanja": {
         "text": "kulemba",
         "status": "unverified",
         "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "to yawn",
+    "translations": {
+      "nyanja": {
+        "text": "Asamula",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
+    "english": "to yawn",
+    "translations": {
+      "nyanja": {
+        "text": "Yasamula",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -174858,6 +178353,16 @@
     }
   },
   {
+    "english": "tomato",
+    "translations": {
+      "nyanja": {
+        "text": "Pwetekere",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "tomatoes",
     "translations": {
       "nyanja": {
@@ -174999,6 +178504,21 @@
       "nyanja": {
         "text": "lililme",
         "status": "unverified"
+      },
+      "bemba": {
+        "text": "ululimi",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "tongue",
+    "translations": {
+      "nyanja": {
+        "text": "Lilime",
+        "status": "verified",
+        "source": "fenza_dictionary"
       },
       "bemba": {
         "text": "ululimi",
@@ -177116,6 +180636,16 @@
     }
   },
   {
+    "english": "true, truly, really",
+    "translations": {
+      "nyanja": {
+        "text": "Enieni",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "truly",
     "translations": {
       "luvale": {
@@ -177234,6 +180764,16 @@
       "tonga": {
         "text": "kuzwa",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "trust, belief or faith",
+    "translations": {
+      "nyanja": {
+        "text": "Chikhulupililo",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -177816,6 +181356,16 @@
       "tonga": {
         "text": "mulawo",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "tutor;advocate;the go-between responsible for marriage agreements",
+    "translations": {
+      "nyanja": {
+        "text": "Nkhoswe",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -185123,6 +188673,16 @@
     }
   },
   {
+    "english": "weak or staggering walk of a sick or drunk person",
+    "translations": {
+      "nyanja": {
+        "text": "Nzandinzandi",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "weaken",
     "translations": {
       "nyanja": {
@@ -186043,6 +189603,16 @@
     }
   },
   {
+    "english": "what is given for reconcilliation, also an offerring to a visitor as lonjera",
+    "translations": {
+      "nyanja": {
+        "text": "Malonje",
+        "status": "verified",
+        "source": "fenza_dictionary"
+      }
+    }
+  },
+  {
     "english": "what is your name",
     "translations": {
       "nyanja": {
@@ -186069,6 +189639,16 @@
         "text": "umueni",
         "status": "unverified",
         "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "what?   What kind?   What sort?",
+    "translations": {
+      "nyanja": {
+        "text": "Ani",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -186580,6 +190160,16 @@
       "lozi": {
         "text": "kaufela",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "wholeness; roundness; perfectness; a ball of tobacco",
+    "translations": {
+      "nyanja": {
+        "text": "Mphumphu",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
@@ -189412,6 +193002,16 @@
       "tonga": {
         "text": "nsingo",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "wrinkles on eithr clothes or face",
+    "translations": {
+      "nyanja": {
+        "text": "Makwinya",
+        "status": "verified",
+        "source": "fenza_dictionary"
       }
     }
   },
