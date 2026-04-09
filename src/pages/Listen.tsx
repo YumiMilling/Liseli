@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react'
+import type { ZamLanguage } from '@/types'
 
 interface Segment {
   id: string
