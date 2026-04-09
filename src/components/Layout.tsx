@@ -6,8 +6,8 @@ const NAV_ITEMS = [
   { path: '/', label: 'Home', icon: HomeIcon },
   { path: '/browse', label: 'Browse', icon: BrowseIcon },
   { path: '/translate', label: 'Translate', icon: TranslateIcon },
+  { path: '/speak', label: 'Speak', icon: SpeakIcon },
   { path: '/listen', label: 'Listen', icon: ListenIcon },
-  { path: '/cross', label: 'Cross', icon: CrossIcon },
 ]
 
 export function Layout({ children }: { children: React.ReactNode }) {
@@ -128,6 +128,15 @@ function DiscussIcon({ className }: { className?: string }) {
   return (
     <svg className={className} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
       <path strokeLinecap="round" strokeLinejoin="round" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
+    </svg>
+  )
+}
+
+function SpeakIcon({ className }: { className?: string }) {
+  return (
+    <svg className={className} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+      <path strokeLinecap="round" strokeLinejoin="round" d="M12 14c1.66 0 3-1.34 3-3V5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 1.66 1.34 3 3 3z" />
+      <path strokeLinecap="round" strokeLinejoin="round" d="M17 11c0 2.76-2.24 5-5 5s-5-2.24-5-5M12 19v2m-3-2h6" />
     </svg>
   )
 }

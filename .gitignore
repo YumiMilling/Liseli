@@ -43,3 +43,5 @@ data/youtube-segments/
 # Claude config
 .claude/
 supabase/.temp/
+data/ubuntu-talks-audio/
+scripts/__pycache__/
