@@ -35,5 +35,11 @@ public/data/cross_language.json
 # Migration temp files
 data/migration/
 
+# Audio files (too large for git)
+data/whisper-test/
+data/whisper-transcripts/*.wav
+data/youtube-segments/
+
 # Claude config
 .claude/
+supabase/.temp/

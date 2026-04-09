@@ -6,7 +6,7 @@ const NAV_ITEMS = [
   { path: '/', label: 'Home', icon: HomeIcon },
   { path: '/browse', label: 'Browse', icon: BrowseIcon },
   { path: '/translate', label: 'Translate', icon: TranslateIcon },
-  { path: '/validate', label: 'Validate', icon: ValidateIcon },
+  { path: '/listen', label: 'Listen', icon: ListenIcon },
   { path: '/cross', label: 'Cross', icon: CrossIcon },
 ]
 
@@ -128,6 +128,14 @@ function DiscussIcon({ className }: { className?: string }) {
   return (
     <svg className={className} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
       <path strokeLinecap="round" strokeLinejoin="round" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
+    </svg>
+  )
+}
+
+function ListenIcon({ className }: { className?: string }) {
+  return (
+    <svg className={className} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+      <path strokeLinecap="round" strokeLinejoin="round" d="M15.536 8.464a5 5 0 010 7.072M18.364 5.636a9 9 0 010 12.728M12 18.75a.75.75 0 01-.75-.75v-4.5a.75.75 0 011.5 0V18a.75.75 0 01-.75.75zM12 8.25a2.25 2.25 0 100-4.5 2.25 2.25 0 000 4.5z" />
     </svg>
   )
 }
