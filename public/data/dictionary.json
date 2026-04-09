@@ -17668,6 +17668,16 @@
     }
   },
   {
+    "english": "bathing",
+    "translations": {
+      "nyanja": {
+        "text": "kusamba",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
     "english": "bathroom",
     "translations": {
       "nyanja": {
@@ -19854,6 +19864,16 @@
     }
   },
   {
+    "english": "beside",
+    "translations": {
+      "tonga": {
+        "text": "kumabbazu",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
     "english": "besieged",
     "translations": {
       "luvale": {
@@ -20228,6 +20248,16 @@
       "tonga": {
         "text": "kubusena",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "between",
+    "translations": {
+      "tonga": {
+        "text": "akati",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -29021,6 +29051,16 @@
     }
   },
   {
+    "english": "chair/seat",
+    "translations": {
+      "nyanja": {
+        "text": "mpando",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
     "english": "chaka",
     "translations": {
       "nyanja": {
@@ -30011,6 +30051,11 @@
       "luvale": {
         "text": "halikili",
         "status": "unverified"
+      },
+      "bemba": {
+        "text": "isaya",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -31174,6 +31219,16 @@
       "nyanja": {
         "text": "mpweya",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "chin",
+    "translations": {
+      "bemba": {
+        "text": "chilamba",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -34263,6 +34318,21 @@
       "nyanja": {
         "text": "Bwererani.",
         "status": "verified"
+      }
+    }
+  },
+  {
+    "english": "come here",
+    "translations": {
+      "nyanja": {
+        "text": "bwerani kuno",
+        "status": "unverified",
+        "source": "transcript"
+      },
+      "tonga": {
+        "text": "boola kuno",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -39347,6 +39417,16 @@
       "nyanja": {
         "text": "Kupanga Zatsopano ndi kuonjezela pa zakale",
         "status": "verified"
+      }
+    }
+  },
+  {
+    "english": "cream/lotion",
+    "translations": {
+      "nyanja": {
+        "text": "mafuta",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -50519,6 +50599,11 @@
       "nyanja": {
         "text": "khutu",
         "status": "unverified"
+      },
+      "bemba": {
+        "text": "ukutwe",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -50671,6 +50756,11 @@
       },
       "nyanja": {
         "text": "makutu",
+        "status": "unverified",
+        "source": "transcript"
+      },
+      "bemba": {
+        "text": "amatwe",
         "status": "unverified",
         "source": "transcript"
       }
@@ -57083,6 +57173,16 @@
     }
   },
   {
+    "english": "every day I go to school",
+    "translations": {
+      "bemba": {
+        "text": "chilyonse ndaya ku sukulu",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
     "english": "everybody",
     "translations": {
       "nyanja": {
@@ -59195,6 +59295,26 @@
       "kaonde": {
         "text": "jiso",
         "status": "unverified"
+      },
+      "nyanja": {
+        "text": "liso",
+        "status": "unverified",
+        "source": "transcript"
+      },
+      "bemba": {
+        "text": "linso",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "eyelash",
+    "translations": {
+      "bemba": {
+        "text": "lukopyo",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -62918,6 +63038,16 @@
       "nyanja": {
         "text": "zisanu",
         "status": "unverified"
+      },
+      "bemba": {
+        "text": "fisano",
+        "status": "unverified",
+        "source": "transcript"
+      },
+      "tonga": {
+        "text": "osanwe",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -65647,6 +65777,16 @@
       "nyanja": {
         "text": "zinai",
         "status": "unverified"
+      },
+      "bemba": {
+        "text": "fine",
+        "status": "unverified",
+        "source": "transcript"
+      },
+      "tonga": {
+        "text": "one",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -66071,6 +66211,11 @@
       "nyanja": {
         "text": "lachisanu",
         "status": "unverified"
+      },
+      "bemba": {
+        "text": "parichisano",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -66123,6 +66268,11 @@
       "luvale": {
         "text": "masepa",
         "status": "unverified"
+      },
+      "bemba": {
+        "text": "abanandi",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -66279,6 +66429,16 @@
       "tonga": {
         "text": "bacula",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "from the market",
+    "translations": {
+      "nyanja": {
+        "text": "ku maliketi",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -69861,6 +70021,16 @@
     }
   },
   {
+    "english": "give me one kg",
+    "translations": {
+      "nyanja": {
+        "text": "nipaseni one kg",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
     "english": "giver",
     "translations": {
       "bemba": {
@@ -70353,6 +70523,31 @@
       },
       "nyanja": {
         "text": "kupita",
+        "status": "unverified",
+        "source": "transcript"
+      },
+      "bemba": {
+        "text": "enda",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "go and bathe",
+    "translations": {
+      "nyanja": {
+        "text": "kasambe",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "go straight",
+    "translations": {
+      "bemba": {
+        "text": "muye pantanshi",
         "status": "unverified",
         "source": "transcript"
       }
@@ -71002,10 +71197,75 @@
     }
   },
   {
+    "english": "good afternoon",
+    "translations": {
+      "nyanja": {
+        "text": "mwachoma bwanji",
+        "status": "unverified",
+        "source": "transcript"
+      },
+      "bemba": {
+        "text": "chungulonkwe",
+        "status": "unverified",
+        "source": "transcript"
+      },
+      "tonga": {
+        "text": "mwachita buti",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "good evening",
+    "translations": {
+      "bemba": {
+        "text": "chungulonkwe",
+        "status": "unverified",
+        "source": "transcript"
+      },
+      "tonga": {
+        "text": "mwasiya buti",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "good morning",
+    "translations": {
+      "nyanja": {
+        "text": "mwauka bwanji",
+        "status": "unverified",
+        "source": "transcript"
+      },
+      "bemba": {
+        "text": "mwashibukeni",
+        "status": "unverified",
+        "source": "transcript"
+      },
+      "tonga": {
+        "text": "mwabuka buti",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
     "english": "Good night",
     "translations": {
       "tonga": {
         "text": "Or Negavottu",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "goodbye",
+    "translations": {
+      "bemba": {
+        "text": "shalinipo",
         "status": "unverified",
         "source": "transcript"
       }
@@ -76305,6 +76565,16 @@
     }
   },
   {
+    "english": "have a nice day",
+    "translations": {
+      "bemba": {
+        "text": "mutushe bwino",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
     "english": "havilah",
     "translations": {
       "bemba": {
@@ -76793,6 +77063,11 @@
       "kaonde": {
         "text": "mitwe",
         "status": "unverified"
+      },
+      "bemba": {
+        "text": "imitwe",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -78685,6 +78960,16 @@
       "nyanja": {
         "text": "henderson",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "hi (informal)",
+    "translations": {
+      "nyanja": {
+        "text": "bo",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -81346,6 +81631,16 @@
     }
   },
   {
+    "english": "house/home",
+    "translations": {
+      "bemba": {
+        "text": "ing'anda",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
     "english": "housed",
     "translations": {
       "nyanja": {
@@ -81514,6 +81809,11 @@
         "text": "Ulibuti or",
         "status": "unverified",
         "source": "transcript"
+      },
+      "bemba": {
+        "text": "mulishani",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -81553,6 +81853,16 @@
       "nyanja": {
         "text": "Nanga ndi angati?",
         "status": "verified"
+      }
+    }
+  },
+  {
+    "english": "how much are you selling",
+    "translations": {
+      "nyanja": {
+        "text": "mugulitsa zingati",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -82698,6 +83008,16 @@
         "text": "ndiliwino",
         "status": "unverified",
         "source": "transcript"
+      },
+      "bemba": {
+        "text": "ndi fye bwino",
+        "status": "unverified",
+        "source": "transcript"
+      },
+      "tonga": {
+        "text": "kabotu",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -82716,6 +83036,26 @@
     "translations": {
       "nyanja": {
         "text": "ndine waku",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "I am going to the lake",
+    "translations": {
+      "nyanja": {
+        "text": "ndikupita ku nyanja",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "I am going to work",
+    "translations": {
+      "bemba": {
+        "text": "ndaya ku kubomba",
         "status": "unverified",
         "source": "transcript"
       }
@@ -82772,6 +83112,16 @@
     }
   },
   {
+    "english": "I am watching TV",
+    "translations": {
+      "nyanja": {
+        "text": "nitamba TV",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
     "english": "I ate",
     "translations": {
       "nyanja": {
@@ -82791,6 +83141,16 @@
     }
   },
   {
+    "english": "I come from",
+    "translations": {
+      "tonga": {
+        "text": "ndazwa ku",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
     "english": "I have",
     "translations": {
       "nyanja": {
@@ -82805,6 +83165,16 @@
     "translations": {
       "nyanja": {
         "text": "ndafika",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "I have bathed",
+    "translations": {
+      "nyanja": {
+        "text": "nasamba",
         "status": "unverified",
         "source": "transcript"
       }
@@ -82831,10 +83201,25 @@
     }
   },
   {
+    "english": "I live in Kitwe",
+    "translations": {
+      "bemba": {
+        "text": "njikala ku Kitwe",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
     "english": "I love you",
     "translations": {
       "nyanja": {
         "text": "ndimakukonda",
+        "status": "unverified",
+        "source": "transcript"
+      },
+      "tonga": {
+        "text": "ndakuyanda",
         "status": "unverified",
         "source": "transcript"
       }
@@ -82855,6 +83240,36 @@
     "translations": {
       "nyanja": {
         "text": "ndikufuna",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "I woke up early in the morning",
+    "translations": {
+      "bemba": {
+        "text": "nachiwuka kachelo chelo",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "I work at",
+    "translations": {
+      "nyanja": {
+        "text": "ndisebenza ku",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "I work at the hospital",
+    "translations": {
+      "tonga": {
+        "text": "ndibeleka ku chipatala",
         "status": "unverified",
         "source": "transcript"
       }
@@ -84456,6 +84871,16 @@
     }
   },
   {
+    "english": "in front",
+    "translations": {
+      "tonga": {
+        "text": "kunembo",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
     "english": "In Nyanja",
     "translations": {
       "nyanja": {
@@ -85996,6 +86421,11 @@
       "nyanja": {
         "text": "mkati",
         "status": "unverified"
+      },
+      "tonga": {
+        "text": "mukati",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -87515,6 +87945,16 @@
       "nyanja": {
         "text": "kuyabwa",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "is everything okay",
+    "translations": {
+      "nyanja": {
+        "text": "zikuteka",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -91784,6 +92224,11 @@
       "tonga": {
         "text": "jobo",
         "status": "unverified"
+      },
+      "nyanja": {
+        "text": "ntchito",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -99271,6 +99716,16 @@
     }
   },
   {
+    "english": "left",
+    "translations": {
+      "bemba": {
+        "text": "kukuso",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
     "english": "leg",
     "translations": {
       "nyanja": {
@@ -101246,6 +101701,21 @@
       "nyanja": {
         "text": "milomo",
         "status": "unverified"
+      },
+      "bemba": {
+        "text": "umulomo",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "lips",
+    "translations": {
+      "nyanja": {
+        "text": "milomu",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -113255,6 +113725,11 @@
       "nyanja": {
         "text": "lolemba",
         "status": "unverified"
+      },
+      "bemba": {
+        "text": "parichimo",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -115625,6 +116100,21 @@
     }
   },
   {
+    "english": "my name is",
+    "translations": {
+      "bemba": {
+        "text": "ishina lyandi",
+        "status": "unverified",
+        "source": "transcript"
+      },
+      "tonga": {
+        "text": "izina lyangu ndime",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
     "english": "mycelia",
     "translations": {
       "nyanja": {
@@ -117528,6 +118018,11 @@
       "nyanja": {
         "text": "khosi",
         "status": "unverified"
+      },
+      "bemba": {
+        "text": "inkoshi",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -119347,6 +119842,16 @@
     }
   },
   {
+    "english": "no",
+    "translations": {
+      "nyanja": {
+        "text": "iyai",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
     "english": "no in Nyanja",
     "translations": {
       "nyanja": {
@@ -119728,6 +120233,11 @@
       "nyanja": {
         "text": "mphuno",
         "status": "unverified"
+      },
+      "bemba": {
+        "text": "impombo",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -122156,6 +122666,16 @@
     }
   },
   {
+    "english": "on top",
+    "translations": {
+      "tonga": {
+        "text": "atala",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
     "english": "onam",
     "translations": {
       "bemba": {
@@ -122223,6 +122743,16 @@
       "nyanja": {
         "text": "winawo",
         "status": "unverified"
+      },
+      "bemba": {
+        "text": "cimo",
+        "status": "unverified",
+        "source": "transcript"
+      },
+      "tonga": {
+        "text": "omwe",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -127296,6 +127826,11 @@
       "tonga": {
         "text": "wakali",
         "status": "unverified"
+      },
+      "bemba": {
+        "text": "indeke",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -129117,6 +129652,11 @@
       "nyanja": {
         "text": "munthu",
         "status": "unverified"
+      },
+      "bemba": {
+        "text": "umuntu",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -129748,6 +130288,16 @@
       "nyanja": {
         "text": "kapena",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "pharmacy",
+    "translations": {
+      "bemba": {
+        "text": "famasi",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -144789,6 +145339,11 @@
       "kaonde": {
         "text": "pano",
         "status": "unverified"
+      },
+      "bemba": {
+        "text": "kukulyo",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -148902,6 +149457,11 @@
       "nyanja": {
         "text": "loweruka",
         "status": "unverified"
+      },
+      "bemba": {
+        "text": "pachibelushi",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -150779,6 +151339,16 @@
       "tonga": {
         "text": "ndabona",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "see you later",
+    "translations": {
+      "bemba": {
+        "text": "tukamonana limo limbi",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -163492,6 +164062,16 @@
     }
   },
   {
+    "english": "stay in peace",
+    "translations": {
+      "bemba": {
+        "text": "mushale umutende",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
     "english": "steadfastness",
     "translations": {
       "bemba": {
@@ -164516,6 +165096,16 @@
     }
   },
   {
+    "english": "stop here",
+    "translations": {
+      "bemba": {
+        "text": "iminina pano",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
     "english": "Stop.",
     "translations": {
       "nyanja": {
@@ -164765,6 +165355,16 @@
       "nyanja": {
         "text": "mapesi",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "straight ahead",
+    "translations": {
+      "bemba": {
+        "text": "pantanshi",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -166587,6 +167187,16 @@
       "nyanja": {
         "text": "dzuwa",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "Sunday",
+    "translations": {
+      "bemba": {
+        "text": "pamulungu",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -170816,6 +171426,16 @@
         "text": "zigomo",
         "status": "unverified",
         "source": "transcript"
+      },
+      "bemba": {
+        "text": "natotela",
+        "status": "unverified",
+        "source": "transcript"
+      },
+      "tonga": {
+        "text": "twalumba",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -171045,6 +171665,16 @@
     "translations": {
       "nyanja": {
         "text": "shining",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "the sun is shining",
+    "translations": {
+      "nyanja": {
+        "text": "dzuwa lachoka",
         "status": "unverified",
         "source": "transcript"
       }
@@ -172336,6 +172966,11 @@
       "tonga": {
         "text": "botatwe",
         "status": "unverified"
+      },
+      "bemba": {
+        "text": "fitatu",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -172766,6 +173401,11 @@
       "nyanja": {
         "text": "lachinayi",
         "status": "unverified"
+      },
+      "bemba": {
+        "text": "parichine",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -173216,6 +173856,11 @@
       "nyanja": {
         "text": "nthawi",
         "status": "unverified"
+      },
+      "bemba": {
+        "text": "inshita",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -173840,6 +174485,11 @@
         "text": "kuya",
         "status": "unverified",
         "source": "transcript"
+      },
+      "bemba": {
+        "text": "ukulya",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -173934,6 +174584,26 @@
     }
   },
   {
+    "english": "to play",
+    "translations": {
+      "bemba": {
+        "text": "ukuteya",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "to read",
+    "translations": {
+      "bemba": {
+        "text": "ukubelenga",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
     "english": "To run",
     "translations": {
       "nyanja": {
@@ -173978,6 +174648,11 @@
     "translations": {
       "nyanja": {
         "text": "kuyimba",
+        "status": "unverified",
+        "source": "transcript"
+      },
+      "bemba": {
+        "text": "ukwimba",
         "status": "unverified",
         "source": "transcript"
       }
@@ -174664,6 +175339,11 @@
       "nyanja": {
         "text": "lililme",
         "status": "unverified"
+      },
+      "bemba": {
+        "text": "ululimi",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -177089,6 +177769,11 @@
       "nyanja": {
         "text": "lachiwiri",
         "status": "unverified"
+      },
+      "bemba": {
+        "text": "parichibiri",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -177274,6 +177959,26 @@
       "nyanja": {
         "text": "komanso",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "turn left",
+    "translations": {
+      "bemba": {
+        "text": "koneka kukuso",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "turn right",
+    "translations": {
+      "bemba": {
+        "text": "koneka kukulyo",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -177701,6 +178406,11 @@
       "tonga": {
         "text": "obilo",
         "status": "unverified"
+      },
+      "bemba": {
+        "text": "fibili",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -178416,6 +179126,16 @@
       "luvale": {
         "text": "kupihya",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "under",
+    "translations": {
+      "tonga": {
+        "text": "ansi",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -185149,6 +185869,11 @@
       "nyanja": {
         "text": "lachitatu",
         "status": "unverified"
+      },
+      "bemba": {
+        "text": "parichitatu",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -185398,6 +186123,16 @@
     }
   },
   {
+    "english": "welcome (with respect)",
+    "translations": {
+      "bemba": {
+        "text": "mulishani mukwai",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
     "english": "welcomed",
     "translations": {
       "bemba": {
@@ -185628,6 +186363,46 @@
     }
   },
   {
+    "english": "what are we eating for lunch",
+    "translations": {
+      "nyanja": {
+        "text": "tizadya chani pa lunch",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "what did you buy",
+    "translations": {
+      "nyanja": {
+        "text": "mwagula chani",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "what is your name",
+    "translations": {
+      "nyanja": {
+        "text": "dzina lako ndani",
+        "status": "unverified",
+        "source": "transcript"
+      },
+      "bemba": {
+        "text": "niwe nani ishina",
+        "status": "unverified",
+        "source": "transcript"
+      },
+      "tonga": {
+        "text": "izina lyako ndiwe ani",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
     "english": "what you say",
     "translations": {
       "bemba": {
@@ -185738,6 +186513,81 @@
       "nyanja": {
         "text": "pamene",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "where are you coming from",
+    "translations": {
+      "nyanja": {
+        "text": "mwachokela kuti",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "where are you going",
+    "translations": {
+      "nyanja": {
+        "text": "muyenda kuti",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "where do you come from",
+    "translations": {
+      "tonga": {
+        "text": "ulazwa kuli",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "where do you work",
+    "translations": {
+      "nyanja": {
+        "text": "musebenza kuti",
+        "status": "unverified",
+        "source": "transcript"
+      },
+      "tonga": {
+        "text": "ubeleka kuli",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "where is the bus station",
+    "translations": {
+      "bemba": {
+        "text": "ku station nikwisa",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "where is the market",
+    "translations": {
+      "bemba": {
+        "text": "ku maliketi nikwisa",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
+    "english": "where is the pharmacy",
+    "translations": {
+      "bemba": {
+        "text": "ku famasi nikwisa",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },
@@ -188066,6 +188916,16 @@
     }
   },
   {
+    "english": "work well",
+    "translations": {
+      "bemba": {
+        "text": "mubombe bwino",
+        "status": "unverified",
+        "source": "transcript"
+      }
+    }
+  },
+  {
     "english": "worker",
     "translations": {
       "kaonde": {
@@ -189416,6 +190276,16 @@
       "nyanja": {
         "text": "jerusalem",
         "status": "unverified"
+      }
+    }
+  },
+  {
+    "english": "yes",
+    "translations": {
+      "nyanja": {
+        "text": "inde",
+        "status": "unverified",
+        "source": "transcript"
       }
     }
   },

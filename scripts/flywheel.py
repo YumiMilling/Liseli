@@ -683,6 +683,24 @@ def run():
     for lang, conj in sorted(conjugations.items()):
         print(f"  {lang}: {len(conj)} conjugation patterns")
 
+    # Load LLM-extracted pairs (manually curated, high quality)
+    llm_pairs_path = DATA / "llm_extracted_pairs.json"
+    if llm_pairs_path.exists():
+        llm_data = json.loads(llm_pairs_path.read_text(encoding="utf-8"))
+        llm_count = 0
+        for lang_name, pairs in llm_data.items():
+            lang_code = LANG_MAP_REV.get(lang_name, lang_name)
+            for pair in pairs:
+                vocab_pairs.setdefault(lang_code, []).append({
+                    "english": pair["english"],
+                    "local": pair["local"],
+                    "source": "llm-extracted",
+                    "video_title": pair.get("source", ""),
+                    "confidence": 0.95,
+                })
+                llm_count += 1
+        print(f"  LLM-extracted pairs loaded: {llm_count}")
+
     # Stage 2: Enrich
     print("\n[2/5] ENRICH — merging into dictionary + engine...")
     enrich_dictionary(vocab_pairs)

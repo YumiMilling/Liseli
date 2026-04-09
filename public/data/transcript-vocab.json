@@ -127,6 +127,13 @@
       "confidence": 0.7
     },
     {
+      "english": "bathing",
+      "local": "kusamba",
+      "source": "llm-extracted",
+      "video_title": "Nyanja Lesson 6",
+      "confidence": 0.95
+    },
+    {
       "english": "Beef",
       "local": "nyamayankumba",
       "source": "chichewa-101",
@@ -197,6 +204,20 @@
       "confidence": 0.7
     },
     {
+      "english": "chair/seat",
+      "local": "mpando",
+      "source": "llm-extracted",
+      "video_title": "Things Around Us",
+      "confidence": 0.95
+    },
+    {
+      "english": "chicken",
+      "local": "nkuku",
+      "source": "llm-extracted",
+      "video_title": "Nyanja Sentences",
+      "confidence": 0.95
+    },
+    {
       "english": "child in yanja",
       "local": "muana baby",
       "source": "ubuntu-talks",
@@ -209,6 +230,20 @@
       "source": "chichewa-101",
       "video_title": "Chichewa 101.13 - learning to speak Chichewa",
       "confidence": 0.7
+    },
+    {
+      "english": "comb",
+      "local": "chisakulo",
+      "source": "llm-extracted",
+      "video_title": "Body Care",
+      "confidence": 0.95
+    },
+    {
+      "english": "come here",
+      "local": "bwerani kuno",
+      "source": "llm-extracted",
+      "video_title": "Its Alice Part 2",
+      "confidence": 0.95
     },
     {
       "english": "come out",
@@ -237,6 +272,20 @@
       "source": "chichewa-101",
       "video_title": "Chichewa 101.21 - learning to speak Chichewa",
       "confidence": 0.7
+    },
+    {
+      "english": "cream/lotion",
+      "local": "mafuta",
+      "source": "llm-extracted",
+      "video_title": "Body Care",
+      "confidence": 0.95
+    },
+    {
+      "english": "cutting",
+      "local": "kudula",
+      "source": "llm-extracted",
+      "video_title": "Nyanja Lesson 6",
+      "confidence": 0.95
     },
     {
       "english": "dance",
@@ -288,11 +337,25 @@
       "confidence": 0.7
     },
     {
+      "english": "ear",
+      "local": "khutu",
+      "source": "llm-extracted",
+      "video_title": "Body Parts",
+      "confidence": 0.95
+    },
+    {
       "english": "Ears",
       "local": "makutu",
       "source": "chichewa-101",
       "video_title": "Chichewa 101.23 - learning to speak Chichewa",
       "confidence": 0.7
+    },
+    {
+      "english": "ears",
+      "local": "matu",
+      "source": "llm-extracted",
+      "video_title": "Body Parts",
+      "confidence": 0.95
     },
     {
       "english": "eat",
@@ -316,11 +379,32 @@
       "confidence": 0.7
     },
     {
+      "english": "eye",
+      "local": "liso",
+      "source": "llm-extracted",
+      "video_title": "Body Parts",
+      "confidence": 0.95
+    },
+    {
+      "english": "eyes",
+      "local": "maso",
+      "source": "llm-extracted",
+      "video_title": "Body Parts",
+      "confidence": 0.95
+    },
+    {
       "english": "Father",
       "local": "bambo",
       "source": "chichewa-101",
       "video_title": "Chichewa 101.11 - learning to speak Chichewa",
       "confidence": 0.7
+    },
+    {
+      "english": "fish",
+      "local": "nsomba",
+      "source": "llm-extracted",
+      "video_title": "Nyanja Sentences",
+      "confidence": 0.95
     },
     {
       "english": "flops",
@@ -335,6 +419,13 @@
       "source": "chichewa-101",
       "video_title": "Chichewa 101.15 - learning to speak Chichewa",
       "confidence": 0.7
+    },
+    {
+      "english": "from the market",
+      "local": "ku maliketi",
+      "source": "llm-extracted",
+      "video_title": "Nyanja Sentences",
+      "confidence": 0.95
     },
     {
       "english": "Fruit",
@@ -365,11 +456,25 @@
       "confidence": 0.7
     },
     {
+      "english": "give me one kg",
+      "local": "nipaseni one kg",
+      "source": "llm-extracted",
+      "video_title": "Shopping Phrases",
+      "confidence": 0.95
+    },
+    {
       "english": "go",
       "local": "kupita",
       "source": "chichewa-101",
       "video_title": "Chichewa 101.04 - learning to speak Chichewa",
       "confidence": 0.7
+    },
+    {
+      "english": "go and bathe",
+      "local": "kasambe",
+      "source": "llm-extracted",
+      "video_title": "Nyanja Lesson 6",
+      "confidence": 0.95
     },
     {
       "english": "God",
@@ -379,11 +484,39 @@
       "confidence": 0.7
     },
     {
+      "english": "good afternoon",
+      "local": "mwachoma bwanji",
+      "source": "llm-extracted",
+      "video_title": "Its Alice Part 1",
+      "confidence": 0.95
+    },
+    {
+      "english": "good morning",
+      "local": "mwauka bwanji",
+      "source": "llm-extracted",
+      "video_title": "Its Alice Part 1",
+      "confidence": 0.95
+    },
+    {
+      "english": "hair",
+      "local": "tsitsi",
+      "source": "llm-extracted",
+      "video_title": "Body Parts",
+      "confidence": 0.95
+    },
+    {
       "english": "Head",
       "local": "mutu",
       "source": "chichewa-101",
       "video_title": "Chichewa 101.23 - learning to speak Chichewa",
       "confidence": 0.7
+    },
+    {
+      "english": "head",
+      "local": "mutu",
+      "source": "llm-extracted",
+      "video_title": "Body Parts",
+      "confidence": 0.95
     },
     {
       "english": "Hello",
@@ -414,6 +547,13 @@
       "confidence": 0.7
     },
     {
+      "english": "hi (informal)",
+      "local": "bo",
+      "source": "llm-extracted",
+      "video_title": "Say It Chichewa 2",
+      "confidence": 0.95
+    },
+    {
       "english": "hide",
       "local": "kubisa",
       "source": "chichewa-101",
@@ -433,6 +573,20 @@
       "source": "chichewa-101",
       "video_title": "Chichewa 101.02 - learning to speak Chichewa",
       "confidence": 0.7
+    },
+    {
+      "english": "how are you",
+      "local": "muli bwanji",
+      "source": "llm-extracted",
+      "video_title": "ZambianAmerican Basic Phrases",
+      "confidence": 0.95
+    },
+    {
+      "english": "how much are you selling",
+      "local": "mugulitsa zingati",
+      "source": "llm-extracted",
+      "video_title": "Shopping Phrases",
+      "confidence": 0.95
     },
     {
       "english": "Hunger",
@@ -456,6 +610,13 @@
       "confidence": 0.7
     },
     {
+      "english": "I am fine",
+      "local": "ndili bwino",
+      "source": "llm-extracted",
+      "video_title": "Its Alice Part 1",
+      "confidence": 0.95
+    },
+    {
       "english": "I am from England",
       "local": "ndine waku",
       "source": "chichewa-101",
@@ -468,6 +629,13 @@
       "source": "chichewa-101",
       "video_title": "Chichewa 101.18 - learning to speak Chichewa",
       "confidence": 0.7
+    },
+    {
+      "english": "I am going to the lake",
+      "local": "ndikupita ku nyanja",
+      "source": "llm-extracted",
+      "video_title": "Say It Chichewa",
+      "confidence": 0.95
     },
     {
       "english": "I am hungry",
@@ -491,6 +659,13 @@
       "confidence": 0.7
     },
     {
+      "english": "I am watching TV",
+      "local": "nitamba TV",
+      "source": "llm-extracted",
+      "video_title": "Nyanja Lesson 6",
+      "confidence": 0.95
+    },
+    {
       "english": "I ate",
       "local": "ndinadja",
       "source": "chichewa-101",
@@ -512,6 +687,13 @@
       "confidence": 0.7
     },
     {
+      "english": "I have bathed",
+      "local": "nasamba",
+      "source": "llm-extracted",
+      "video_title": "Nyanja Lesson 6",
+      "confidence": 0.95
+    },
+    {
       "english": "I love you",
       "local": "ndimakukonda",
       "source": "chichewa-101",
@@ -531,6 +713,13 @@
       "source": "chichewa-101",
       "video_title": "Chichewa 101.01 - learning to speak Chichewa",
       "confidence": 0.7
+    },
+    {
+      "english": "I work at",
+      "local": "ndisebenza ku",
+      "source": "llm-extracted",
+      "video_title": "Nyanja Business",
+      "confidence": 0.95
     },
     {
       "english": "If your response",
@@ -568,6 +757,20 @@
       "confidence": 0.7
     },
     {
+      "english": "is everything okay",
+      "local": "zikuteka",
+      "source": "llm-extracted",
+      "video_title": "Say It Chichewa 2",
+      "confidence": 0.95
+    },
+    {
+      "english": "job",
+      "local": "ntchito",
+      "source": "llm-extracted",
+      "video_title": "Nyanja Business",
+      "confidence": 0.95
+    },
+    {
       "english": "jump",
       "local": "kulumpa",
       "source": "chichewa-101",
@@ -601,6 +804,13 @@
       "source": "zambian-american-nyanja",
       "video_title": "Learn Nyanja 101 - Describing People",
       "confidence": 0.7
+    },
+    {
+      "english": "lips",
+      "local": "milomu",
+      "source": "llm-extracted",
+      "video_title": "Body Parts",
+      "confidence": 0.95
     },
     {
       "english": "m coming",
@@ -643,6 +853,13 @@
       "source": "chichewa-101",
       "video_title": "Chichewa 101.15 - learning to speak Chichewa",
       "confidence": 0.7
+    },
+    {
+      "english": "meat",
+      "local": "nyama",
+      "source": "llm-extracted",
+      "video_title": "Nyanja Sentences",
+      "confidence": 0.95
     },
     {
       "english": "Milk",
@@ -694,6 +911,13 @@
       "confidence": 0.7
     },
     {
+      "english": "mouth",
+      "local": "kamwa",
+      "source": "llm-extracted",
+      "video_title": "Body Parts",
+      "confidence": 0.95
+    },
+    {
       "english": "msikana",
       "local": "lady",
       "source": "ubuntu-talks",
@@ -743,11 +967,25 @@
       "confidence": 0.7
     },
     {
+      "english": "nails",
+      "local": "njala",
+      "source": "llm-extracted",
+      "video_title": "Body Parts",
+      "confidence": 0.95
+    },
+    {
       "english": "nearby",
       "local": "Kuliko ATM pafupi",
       "source": "zambian-american-nyanja",
       "video_title": "Learn Nyanja 101 - Shopping",
       "confidence": 0.7
+    },
+    {
+      "english": "neck",
+      "local": "mkosi",
+      "source": "llm-extracted",
+      "video_title": "Body Parts",
+      "confidence": 0.95
     },
     {
       "english": "Njito",
@@ -762,6 +1000,13 @@
       "source": "its-alice-nyanja",
       "video_title": "Nyanja sentences",
       "confidence": 0.7
+    },
+    {
+      "english": "no",
+      "local": "iyai",
+      "source": "llm-extracted",
+      "video_title": "Its Alice Part 2",
+      "confidence": 0.95
     },
     {
       "english": "no in Nyanja",
@@ -895,6 +1140,13 @@
       "source": "chichewa-101",
       "video_title": "Chichewa 101.01 - learning to speak Chichewa",
       "confidence": 0.7
+    },
+    {
+      "english": "relish",
+      "local": "ndiyo",
+      "source": "llm-extracted",
+      "video_title": "Nyanja Sentences",
+      "confidence": 0.95
     },
     {
       "english": "Rice",
@@ -1086,6 +1338,13 @@
       "confidence": 0.7
     },
     {
+      "english": "soap",
+      "local": "sopo",
+      "source": "llm-extracted",
+      "video_title": "Body Care",
+      "confidence": 0.95
+    },
+    {
       "english": "steal",
       "local": "kuba",
       "source": "chichewa-101",
@@ -1100,11 +1359,25 @@
       "confidence": 0.7
     },
     {
+      "english": "sun",
+      "local": "dzuwa",
+      "source": "llm-extracted",
+      "video_title": "ZambianAmerican Shopping",
+      "confidence": 0.95
+    },
+    {
       "english": "sweeping",
       "local": "kupianga",
       "source": "its-alice-nyanja",
       "video_title": "Nyanja lessons part 6",
       "confidence": 0.7
+    },
+    {
+      "english": "sweeping",
+      "local": "kupianga",
+      "source": "llm-extracted",
+      "video_title": "Nyanja Lesson 6",
+      "confidence": 0.95
     },
     {
       "english": "t know what phone",
@@ -1184,6 +1457,13 @@
       "confidence": 0.7
     },
     {
+      "english": "teeth",
+      "local": "mano",
+      "source": "llm-extracted",
+      "video_title": "Body Parts",
+      "confidence": 0.95
+    },
+    {
       "english": "Thank you",
       "local": "zigomo",
       "source": "chichewa-101",
@@ -1245,6 +1525,13 @@
       "source": "zambian-american-nyanja",
       "video_title": "Learn Nyanja 101 - Shopping",
       "confidence": 0.7
+    },
+    {
+      "english": "the sun is shining",
+      "local": "dzuwa lachoka",
+      "source": "llm-extracted",
+      "video_title": "ZambianAmerican Shopping",
+      "confidence": 0.95
     },
     {
       "english": "The verb to eat",
@@ -1569,6 +1856,13 @@
       "confidence": 0.7
     },
     {
+      "english": "to work",
+      "local": "kusebenza",
+      "source": "llm-extracted",
+      "video_title": "Nyanja Business",
+      "confidence": 0.95
+    },
+    {
       "english": "To write",
       "local": "kulemba",
       "source": "chichewa-101",
@@ -1581,6 +1875,13 @@
       "source": "chichewa-101",
       "video_title": "Chichewa 101.17 - learning to speak Chichewa",
       "confidence": 0.7
+    },
+    {
+      "english": "tooth",
+      "local": "dzino",
+      "source": "llm-extracted",
+      "video_title": "Body Parts",
+      "confidence": 0.95
     },
     {
       "english": "Tummy",
@@ -1618,6 +1919,13 @@
       "confidence": 0.7
     },
     {
+      "english": "waist",
+      "local": "musana",
+      "source": "llm-extracted",
+      "video_title": "Body Parts",
+      "confidence": 0.95
+    },
+    {
       "english": "walk",
       "local": "kuyenda",
       "source": "chichewa-101",
@@ -1639,11 +1947,25 @@
       "confidence": 0.7
     },
     {
+      "english": "watching",
+      "local": "kutamba",
+      "source": "llm-extracted",
+      "video_title": "Nyanja Lesson 6",
+      "confidence": 0.95
+    },
+    {
       "english": "Water",
       "local": "madzi",
       "source": "chichewa-101",
       "video_title": "Chichewa 101.15 - learning to speak Chichewa",
       "confidence": 0.7
+    },
+    {
+      "english": "water",
+      "local": "madzi",
+      "source": "llm-extracted",
+      "video_title": "Body Care",
+      "confidence": 0.95
     },
     {
       "english": "we ate",
@@ -1679,6 +2001,55 @@
       "source": "chichewa-101",
       "video_title": "Chichewa 101.02 - learning to speak Chichewa",
       "confidence": 0.7
+    },
+    {
+      "english": "what are we eating for lunch",
+      "local": "tizadya chani pa lunch",
+      "source": "llm-extracted",
+      "video_title": "Nyanja Sentences",
+      "confidence": 0.95
+    },
+    {
+      "english": "what did you buy",
+      "local": "mwagula chani",
+      "source": "llm-extracted",
+      "video_title": "Nyanja Sentences",
+      "confidence": 0.95
+    },
+    {
+      "english": "what is your name",
+      "local": "dzina lako ndani",
+      "source": "llm-extracted",
+      "video_title": "Say It Chichewa",
+      "confidence": 0.95
+    },
+    {
+      "english": "where are you coming from",
+      "local": "mwachokela kuti",
+      "source": "llm-extracted",
+      "video_title": "Nyanja Sentences",
+      "confidence": 0.95
+    },
+    {
+      "english": "where are you going",
+      "local": "muyenda kuti",
+      "source": "llm-extracted",
+      "video_title": "Its Alice Lesson 4",
+      "confidence": 0.95
+    },
+    {
+      "english": "where are you going",
+      "local": "mukupita kuti",
+      "source": "llm-extracted",
+      "video_title": "Say It Chichewa",
+      "confidence": 0.95
+    },
+    {
+      "english": "where do you work",
+      "local": "musebenza kuti",
+      "source": "llm-extracted",
+      "video_title": "Nyanja Business",
+      "confidence": 0.95
     },
     {
       "english": "Why",
@@ -1728,6 +2099,13 @@
       "source": "whisper-batch",
       "video_title": "Learn Nyanja 101 - Going Places",
       "confidence": 0.7
+    },
+    {
+      "english": "yes",
+      "local": "inde",
+      "source": "llm-extracted",
+      "video_title": "Its Alice Part 2",
+      "confidence": 0.95
     },
     {
       "english": "you ate",
@@ -1858,11 +2236,249 @@
       "confidence": 0.7
     },
     {
+      "english": "book",
+      "local": "ibuuku",
+      "source": "llm-extracted",
+      "video_title": "Learn Bemba Mulenga",
+      "confidence": 0.95
+    },
+    {
+      "english": "cheek",
+      "local": "isaya",
+      "source": "llm-extracted",
+      "video_title": "The Head - Umutwe",
+      "confidence": 0.95
+    },
+    {
+      "english": "chin",
+      "local": "chilamba",
+      "source": "llm-extracted",
+      "video_title": "The Head - Umutwe",
+      "confidence": 0.95
+    },
+    {
+      "english": "ear",
+      "local": "ukutwe",
+      "source": "llm-extracted",
+      "video_title": "The Head - Umutwe",
+      "confidence": 0.95
+    },
+    {
+      "english": "ears",
+      "local": "amatwe",
+      "source": "llm-extracted",
+      "video_title": "The Head - Umutwe",
+      "confidence": 0.95
+    },
+    {
+      "english": "eight",
+      "local": "cine konse konse",
+      "source": "llm-extracted",
+      "video_title": "Bemba Numbers",
+      "confidence": 0.95
+    },
+    {
+      "english": "evening",
+      "local": "ichungulo",
+      "source": "llm-extracted",
+      "video_title": "Learn Bemba Mulenga",
+      "confidence": 0.95
+    },
+    {
+      "english": "every day I go to school",
+      "local": "chilyonse ndaya ku sukulu",
+      "source": "llm-extracted",
+      "video_title": "Learn Bemba Mulenga",
+      "confidence": 0.95
+    },
+    {
       "english": "excuse me",
       "local": "njehlehlehniko",
       "source": "kitwe-online-bemba",
       "video_title": "38-How to Ask for Directions in Bemba",
       "confidence": 0.7
+    },
+    {
+      "english": "excuse me",
+      "local": "njeleleniko",
+      "source": "llm-extracted",
+      "video_title": "Directions in Bemba",
+      "confidence": 0.95
+    },
+    {
+      "english": "eye",
+      "local": "linso",
+      "source": "llm-extracted",
+      "video_title": "The Head - Umutwe",
+      "confidence": 0.95
+    },
+    {
+      "english": "eyelash",
+      "local": "lukopyo",
+      "source": "llm-extracted",
+      "video_title": "The Head - Umutwe",
+      "confidence": 0.95
+    },
+    {
+      "english": "eyes",
+      "local": "amenso",
+      "source": "llm-extracted",
+      "video_title": "The Head - Umutwe",
+      "confidence": 0.95
+    },
+    {
+      "english": "far",
+      "local": "patali",
+      "source": "llm-extracted",
+      "video_title": "Directions in Bemba",
+      "confidence": 0.95
+    },
+    {
+      "english": "five",
+      "local": "fisano",
+      "source": "llm-extracted",
+      "video_title": "Bemba Numbers",
+      "confidence": 0.95
+    },
+    {
+      "english": "football",
+      "local": "umupila",
+      "source": "llm-extracted",
+      "video_title": "Learn Bemba Mulenga",
+      "confidence": 0.95
+    },
+    {
+      "english": "forehead",
+      "local": "ipala",
+      "source": "llm-extracted",
+      "video_title": "The Head - Umutwe",
+      "confidence": 0.95
+    },
+    {
+      "english": "four",
+      "local": "fine",
+      "source": "llm-extracted",
+      "video_title": "Bemba Numbers",
+      "confidence": 0.95
+    },
+    {
+      "english": "Friday",
+      "local": "parichisano",
+      "source": "llm-extracted",
+      "video_title": "Learn Bemba Mulenga",
+      "confidence": 0.95
+    },
+    {
+      "english": "friends",
+      "local": "abanandi",
+      "source": "llm-extracted",
+      "video_title": "Learn Bemba Mulenga",
+      "confidence": 0.95
+    },
+    {
+      "english": "go",
+      "local": "enda",
+      "source": "llm-extracted",
+      "video_title": "Directions in Bemba",
+      "confidence": 0.95
+    },
+    {
+      "english": "go straight",
+      "local": "muye pantanshi",
+      "source": "llm-extracted",
+      "video_title": "Directions in Bemba",
+      "confidence": 0.95
+    },
+    {
+      "english": "good",
+      "local": "chabwino",
+      "source": "llm-extracted",
+      "video_title": "12 Bemba Words",
+      "confidence": 0.95
+    },
+    {
+      "english": "good afternoon",
+      "local": "chungulonkwe",
+      "source": "llm-extracted",
+      "video_title": "Bemba Greetings",
+      "confidence": 0.95
+    },
+    {
+      "english": "good evening",
+      "local": "chungulonkwe",
+      "source": "llm-extracted",
+      "video_title": "Bemba Greetings",
+      "confidence": 0.95
+    },
+    {
+      "english": "good morning",
+      "local": "mwashibukeni",
+      "source": "llm-extracted",
+      "video_title": "Bemba Greetings",
+      "confidence": 0.95
+    },
+    {
+      "english": "good morning",
+      "local": "mwashibukeni",
+      "source": "llm-extracted",
+      "video_title": "12 Bemba Words",
+      "confidence": 0.95
+    },
+    {
+      "english": "goodbye",
+      "local": "shalinipo",
+      "source": "llm-extracted",
+      "video_title": "Bemba Greetings",
+      "confidence": 0.95
+    },
+    {
+      "english": "hair",
+      "local": "infushi",
+      "source": "llm-extracted",
+      "video_title": "The Head - Umutwe",
+      "confidence": 0.95
+    },
+    {
+      "english": "have a nice day",
+      "local": "mutushe bwino",
+      "source": "llm-extracted",
+      "video_title": "Bemba Greetings",
+      "confidence": 0.95
+    },
+    {
+      "english": "head",
+      "local": "umutwe",
+      "source": "llm-extracted",
+      "video_title": "The Head - Umutwe",
+      "confidence": 0.95
+    },
+    {
+      "english": "heads",
+      "local": "imitwe",
+      "source": "llm-extracted",
+      "video_title": "The Head - Umutwe",
+      "confidence": 0.95
+    },
+    {
+      "english": "hello",
+      "local": "mulishani",
+      "source": "llm-extracted",
+      "video_title": "Bemba Greetings",
+      "confidence": 0.95
+    },
+    {
+      "english": "house/home",
+      "local": "ing'anda",
+      "source": "llm-extracted",
+      "video_title": "Learn Bemba Mulenga",
+      "confidence": 0.95
+    },
+    {
+      "english": "how are you",
+      "local": "mulishani",
+      "source": "llm-extracted",
+      "video_title": "Bemba Greetings",
+      "confidence": 0.95
     },
     {
       "english": "how it",
@@ -1872,6 +2488,34 @@
       "confidence": 0.7
     },
     {
+      "english": "I am fine",
+      "local": "ndi fye bwino",
+      "source": "llm-extracted",
+      "video_title": "Bemba Greetings",
+      "confidence": 0.95
+    },
+    {
+      "english": "I am going to work",
+      "local": "ndaya ku kubomba",
+      "source": "llm-extracted",
+      "video_title": "Bemba Phrases",
+      "confidence": 0.95
+    },
+    {
+      "english": "I live in Kitwe",
+      "local": "njikala ku Kitwe",
+      "source": "llm-extracted",
+      "video_title": "Learn Bemba Mulenga",
+      "confidence": 0.95
+    },
+    {
+      "english": "I woke up early in the morning",
+      "local": "nachiwuka kachelo chelo",
+      "source": "llm-extracted",
+      "video_title": "Bemba Phrases",
+      "confidence": 0.95
+    },
+    {
       "english": "In Bemba it",
       "local": "ii",
       "source": "whisper-batch",
@@ -1879,11 +2523,67 @@
       "confidence": 0.7
     },
     {
+      "english": "left",
+      "local": "kukuso",
+      "source": "llm-extracted",
+      "video_title": "Directions in Bemba",
+      "confidence": 0.95
+    },
+    {
+      "english": "lip",
+      "local": "umulomo",
+      "source": "llm-extracted",
+      "video_title": "The Head - Umutwe",
+      "confidence": 0.95
+    },
+    {
+      "english": "market",
+      "local": "maliketi",
+      "source": "llm-extracted",
+      "video_title": "Directions in Bemba",
+      "confidence": 0.95
+    },
+    {
       "english": "may I ask",
       "local": "njipusheko",
       "source": "kitwe-online-bemba",
       "video_title": "38-How to Ask for Directions in Bemba",
       "confidence": 0.7
+    },
+    {
+      "english": "may I ask",
+      "local": "njipusheko",
+      "source": "llm-extracted",
+      "video_title": "Directions in Bemba",
+      "confidence": 0.95
+    },
+    {
+      "english": "Monday",
+      "local": "parichimo",
+      "source": "llm-extracted",
+      "video_title": "Learn Bemba Mulenga",
+      "confidence": 0.95
+    },
+    {
+      "english": "money",
+      "local": "indalama",
+      "source": "llm-extracted",
+      "video_title": "12 Bemba Words",
+      "confidence": 0.95
+    },
+    {
+      "english": "mother",
+      "local": "bama",
+      "source": "llm-extracted",
+      "video_title": "Learn Bemba Mulenga",
+      "confidence": 0.95
+    },
+    {
+      "english": "mouth",
+      "local": "mulomo",
+      "source": "llm-extracted",
+      "video_title": "The Head - Umutwe",
+      "confidence": 0.95
     },
     {
       "english": "My name",
@@ -1949,6 +2649,167 @@
       "confidence": 0.7
     },
     {
+      "english": "my name is",
+      "local": "ishina lyandi",
+      "source": "llm-extracted",
+      "video_title": "Bemba Self Intro",
+      "confidence": 0.95
+    },
+    {
+      "english": "near",
+      "local": "mupepi",
+      "source": "llm-extracted",
+      "video_title": "Directions in Bemba",
+      "confidence": 0.95
+    },
+    {
+      "english": "neck",
+      "local": "inkoshi",
+      "source": "llm-extracted",
+      "video_title": "The Head - Umutwe",
+      "confidence": 0.95
+    },
+    {
+      "english": "nine",
+      "local": "pabula",
+      "source": "llm-extracted",
+      "video_title": "Bemba Numbers",
+      "confidence": 0.95
+    },
+    {
+      "english": "nose",
+      "local": "impombo",
+      "source": "llm-extracted",
+      "video_title": "The Head - Umutwe",
+      "confidence": 0.95
+    },
+    {
+      "english": "one",
+      "local": "cimo",
+      "source": "llm-extracted",
+      "video_title": "Bemba Numbers",
+      "confidence": 0.95
+    },
+    {
+      "english": "peace",
+      "local": "indeke",
+      "source": "llm-extracted",
+      "video_title": "12 Bemba Words",
+      "confidence": 0.95
+    },
+    {
+      "english": "person",
+      "local": "umuntu",
+      "source": "llm-extracted",
+      "video_title": "12 Bemba Words",
+      "confidence": 0.95
+    },
+    {
+      "english": "pharmacy",
+      "local": "famasi",
+      "source": "llm-extracted",
+      "video_title": "Directions in Bemba",
+      "confidence": 0.95
+    },
+    {
+      "english": "right",
+      "local": "kukulyo",
+      "source": "llm-extracted",
+      "video_title": "Directions in Bemba",
+      "confidence": 0.95
+    },
+    {
+      "english": "Saturday",
+      "local": "pachibelushi",
+      "source": "llm-extracted",
+      "video_title": "Learn Bemba Mulenga",
+      "confidence": 0.95
+    },
+    {
+      "english": "school",
+      "local": "isukulu",
+      "source": "llm-extracted",
+      "video_title": "Directions in Bemba",
+      "confidence": 0.95
+    },
+    {
+      "english": "see you later",
+      "local": "tukamonana limo limbi",
+      "source": "llm-extracted",
+      "video_title": "Bemba Greetings",
+      "confidence": 0.95
+    },
+    {
+      "english": "seven",
+      "local": "cine lubali",
+      "source": "llm-extracted",
+      "video_title": "Bemba Numbers",
+      "confidence": 0.95
+    },
+    {
+      "english": "sister",
+      "local": "inkashi",
+      "source": "llm-extracted",
+      "video_title": "Learn Bemba Mulenga",
+      "confidence": 0.95
+    },
+    {
+      "english": "six",
+      "local": "mutanda",
+      "source": "llm-extracted",
+      "video_title": "Bemba Numbers",
+      "confidence": 0.95
+    },
+    {
+      "english": "stay in peace",
+      "local": "mushale umutende",
+      "source": "llm-extracted",
+      "video_title": "Bemba Greetings",
+      "confidence": 0.95
+    },
+    {
+      "english": "stop here",
+      "local": "iminina pano",
+      "source": "llm-extracted",
+      "video_title": "Directions in Bemba",
+      "confidence": 0.95
+    },
+    {
+      "english": "straight ahead",
+      "local": "pantanshi",
+      "source": "llm-extracted",
+      "video_title": "Directions in Bemba",
+      "confidence": 0.95
+    },
+    {
+      "english": "Sunday",
+      "local": "pamulungu",
+      "source": "llm-extracted",
+      "video_title": "Learn Bemba Mulenga",
+      "confidence": 0.95
+    },
+    {
+      "english": "teeth",
+      "local": "ameno",
+      "source": "llm-extracted",
+      "video_title": "The Head - Umutwe",
+      "confidence": 0.95
+    },
+    {
+      "english": "ten",
+      "local": "ikumi",
+      "source": "llm-extracted",
+      "video_title": "Bemba Numbers",
+      "confidence": 0.95
+    },
+    {
+      "english": "thank you",
+      "local": "natotela",
+      "source": "llm-extracted",
+      "video_title": "12 Bemba Words",
+      "confidence": 0.95
+    },
+    {
       "english": "The sound",
       "local": "sh",
       "source": "kaputu-bemba",
@@ -1956,11 +2817,151 @@
       "confidence": 0.7
     },
     {
+      "english": "three",
+      "local": "fitatu",
+      "source": "llm-extracted",
+      "video_title": "Bemba Numbers",
+      "confidence": 0.95
+    },
+    {
+      "english": "Thursday",
+      "local": "parichine",
+      "source": "llm-extracted",
+      "video_title": "Learn Bemba Mulenga",
+      "confidence": 0.95
+    },
+    {
+      "english": "time",
+      "local": "inshita",
+      "source": "llm-extracted",
+      "video_title": "12 Bemba Words",
+      "confidence": 0.95
+    },
+    {
+      "english": "to eat",
+      "local": "ukulya",
+      "source": "llm-extracted",
+      "video_title": "Learn Bemba Mulenga",
+      "confidence": 0.95
+    },
+    {
+      "english": "to play",
+      "local": "ukuteya",
+      "source": "llm-extracted",
+      "video_title": "Learn Bemba Mulenga",
+      "confidence": 0.95
+    },
+    {
+      "english": "to read",
+      "local": "ukubelenga",
+      "source": "llm-extracted",
+      "video_title": "Learn Bemba Mulenga",
+      "confidence": 0.95
+    },
+    {
+      "english": "to sing",
+      "local": "ukwimba",
+      "source": "llm-extracted",
+      "video_title": "Learn Bemba Mulenga",
+      "confidence": 0.95
+    },
+    {
+      "english": "tongue",
+      "local": "ululimi",
+      "source": "llm-extracted",
+      "video_title": "The Head - Umutwe",
+      "confidence": 0.95
+    },
+    {
+      "english": "tooth",
+      "local": "ilino",
+      "source": "llm-extracted",
+      "video_title": "The Head - Umutwe",
+      "confidence": 0.95
+    },
+    {
+      "english": "Tuesday",
+      "local": "parichibiri",
+      "source": "llm-extracted",
+      "video_title": "Learn Bemba Mulenga",
+      "confidence": 0.95
+    },
+    {
+      "english": "turn left",
+      "local": "koneka kukuso",
+      "source": "llm-extracted",
+      "video_title": "Directions in Bemba",
+      "confidence": 0.95
+    },
+    {
+      "english": "turn right",
+      "local": "koneka kukulyo",
+      "source": "llm-extracted",
+      "video_title": "Directions in Bemba",
+      "confidence": 0.95
+    },
+    {
+      "english": "two",
+      "local": "fibili",
+      "source": "llm-extracted",
+      "video_title": "Bemba Numbers",
+      "confidence": 0.95
+    },
+    {
+      "english": "Wednesday",
+      "local": "parichitatu",
+      "source": "llm-extracted",
+      "video_title": "Learn Bemba Mulenga",
+      "confidence": 0.95
+    },
+    {
+      "english": "welcome (with respect)",
+      "local": "mulishani mukwai",
+      "source": "llm-extracted",
+      "video_title": "Bemba Greetings",
+      "confidence": 0.95
+    },
+    {
+      "english": "what is your name",
+      "local": "niwe nani ishina",
+      "source": "llm-extracted",
+      "video_title": "Kaputu Lesson 1",
+      "confidence": 0.95
+    },
+    {
       "english": "what you say",
       "local": "umueni",
       "source": "whisper-batch",
       "video_title": "Learn to Speak Bemba Lesson 1: Greetings",
       "confidence": 0.7
+    },
+    {
+      "english": "where is the bus station",
+      "local": "ku station nikwisa",
+      "source": "llm-extracted",
+      "video_title": "Directions in Bemba",
+      "confidence": 0.95
+    },
+    {
+      "english": "where is the market",
+      "local": "ku maliketi nikwisa",
+      "source": "llm-extracted",
+      "video_title": "Directions in Bemba",
+      "confidence": 0.95
+    },
+    {
+      "english": "where is the pharmacy",
+      "local": "ku famasi nikwisa",
+      "source": "llm-extracted",
+      "video_title": "Directions in Bemba",
+      "confidence": 0.95
+    },
+    {
+      "english": "work well",
+      "local": "mubombe bwino",
+      "source": "llm-extracted",
+      "video_title": "Bemba Greetings",
+      "confidence": 0.95
     }
   ],
   "tonga": [
@@ -1993,11 +2994,46 @@
       "confidence": 0.7
     },
     {
+      "english": "behind",
+      "local": "kusyule",
+      "source": "llm-extracted",
+      "video_title": "Positions in Chitonga",
+      "confidence": 0.95
+    },
+    {
+      "english": "beside",
+      "local": "kumabbazu",
+      "source": "llm-extracted",
+      "video_title": "Positions in Chitonga",
+      "confidence": 0.95
+    },
+    {
+      "english": "between",
+      "local": "akati",
+      "source": "llm-extracted",
+      "video_title": "Positions in Chitonga",
+      "confidence": 0.95
+    },
+    {
+      "english": "come here",
+      "local": "boola kuno",
+      "source": "llm-extracted",
+      "video_title": "ZedLexicon",
+      "confidence": 0.95
+    },
+    {
       "english": "December",
       "local": "Nalupale",
       "source": "learn-tonga-nyanja",
       "video_title": "LEARN TONGA CHITONGA Part 4 Name of Months",
       "confidence": 0.7
+    },
+    {
+      "english": "eight",
+      "local": "lusele",
+      "source": "llm-extracted",
+      "video_title": "Chitonga Numbers",
+      "confidence": 0.95
     },
     {
       "english": "February",
@@ -2007,6 +3043,90 @@
       "confidence": 0.7
     },
     {
+      "english": "February",
+      "local": "Febuluali",
+      "source": "llm-extracted",
+      "video_title": "Chitonga Months",
+      "confidence": 0.95
+    },
+    {
+      "english": "five",
+      "local": "osanwe",
+      "source": "llm-extracted",
+      "video_title": "Chitonga Numbers",
+      "confidence": 0.95
+    },
+    {
+      "english": "four",
+      "local": "one",
+      "source": "llm-extracted",
+      "video_title": "Chitonga Numbers",
+      "confidence": 0.95
+    },
+    {
+      "english": "girl",
+      "local": "musimbi",
+      "source": "llm-extracted",
+      "video_title": "ZedLexicon",
+      "confidence": 0.95
+    },
+    {
+      "english": "good afternoon",
+      "local": "mwachita buti",
+      "source": "llm-extracted",
+      "video_title": "Chitonga Greetings",
+      "confidence": 0.95
+    },
+    {
+      "english": "good evening",
+      "local": "mwasiya buti",
+      "source": "llm-extracted",
+      "video_title": "Chitonga Greetings",
+      "confidence": 0.95
+    },
+    {
+      "english": "good morning",
+      "local": "mwabuka buti",
+      "source": "llm-extracted",
+      "video_title": "Chitonga Greetings",
+      "confidence": 0.95
+    },
+    {
+      "english": "how are you",
+      "local": "mwapona",
+      "source": "llm-extracted",
+      "video_title": "Chitonga Greetings",
+      "confidence": 0.95
+    },
+    {
+      "english": "I am fine",
+      "local": "kabotu",
+      "source": "llm-extracted",
+      "video_title": "Chitonga Greetings",
+      "confidence": 0.95
+    },
+    {
+      "english": "I come from",
+      "local": "ndazwa ku",
+      "source": "llm-extracted",
+      "video_title": "Chitonga Part 1",
+      "confidence": 0.95
+    },
+    {
+      "english": "I love you",
+      "local": "ndakuyanda",
+      "source": "llm-extracted",
+      "video_title": "ZedLexicon",
+      "confidence": 0.95
+    },
+    {
+      "english": "I work at the hospital",
+      "local": "ndibeleka ku chipatala",
+      "source": "llm-extracted",
+      "video_title": "Chitonga Part 1",
+      "confidence": 0.95
+    },
+    {
       "english": "Ihina",
       "local": "name",
       "source": "learn-tonga-nyanja",
@@ -2014,11 +3134,32 @@
       "confidence": 0.7
     },
     {
+      "english": "in front",
+      "local": "kunembo",
+      "source": "llm-extracted",
+      "video_title": "Positions in Chitonga",
+      "confidence": 0.95
+    },
+    {
+      "english": "inside",
+      "local": "mukati",
+      "source": "llm-extracted",
+      "video_title": "Positions in Chitonga",
+      "confidence": 0.95
+    },
+    {
       "english": "January",
       "local": "Mugazimaziba",
       "source": "learn-tonga-nyanja",
       "video_title": "LEARN TONGA CHITONGA Part 4 Name of Months",
       "confidence": 0.7
+    },
+    {
+      "english": "January",
+      "local": "Janyuwali",
+      "source": "llm-extracted",
+      "video_title": "Chitonga Months",
+      "confidence": 0.95
     },
     {
       "english": "Ji badela",
@@ -2091,11 +3232,32 @@
       "confidence": 0.7
     },
     {
+      "english": "my name is",
+      "local": "izina lyangu ndime",
+      "source": "llm-extracted",
+      "video_title": "Chitonga Part 1",
+      "confidence": 0.95
+    },
+    {
+      "english": "name",
+      "local": "izina",
+      "source": "llm-extracted",
+      "video_title": "Chitonga Part 1",
+      "confidence": 0.95
+    },
+    {
       "english": "Ndewilegamci baddela",
       "local": "hospital",
       "source": "whisper-batch",
       "video_title": "Learn Chitonga Part 1",
       "confidence": 0.7
+    },
+    {
+      "english": "nine",
+      "local": "fuka",
+      "source": "llm-extracted",
+      "video_title": "Chitonga Numbers",
+      "confidence": 0.95
     },
     {
       "english": "November",
@@ -2112,6 +3274,27 @@
       "confidence": 0.7
     },
     {
+      "english": "on top",
+      "local": "atala",
+      "source": "llm-extracted",
+      "video_title": "Positions in Chitonga",
+      "confidence": 0.95
+    },
+    {
+      "english": "one",
+      "local": "omwe",
+      "source": "llm-extracted",
+      "video_title": "Chitonga Numbers",
+      "confidence": 0.95
+    },
+    {
+      "english": "outside",
+      "local": "aanze",
+      "source": "llm-extracted",
+      "video_title": "Positions in Chitonga",
+      "confidence": 0.95
+    },
+    {
       "english": "s it",
       "local": "LWI",
       "source": "zedlexicon-tonga",
@@ -2124,6 +3307,34 @@
       "source": "learn-tonga-nyanja",
       "video_title": "LEARN TONGA CHITONGA Part 4 Name of Months",
       "confidence": 0.7
+    },
+    {
+      "english": "seven",
+      "local": "musanu aobile",
+      "source": "llm-extracted",
+      "video_title": "Chitonga Numbers",
+      "confidence": 0.95
+    },
+    {
+      "english": "six",
+      "local": "mutanda",
+      "source": "llm-extracted",
+      "video_title": "Chitonga Numbers",
+      "confidence": 0.95
+    },
+    {
+      "english": "ten",
+      "local": "kkumi",
+      "source": "llm-extracted",
+      "video_title": "Chitonga Numbers",
+      "confidence": 0.95
+    },
+    {
+      "english": "thank you",
+      "local": "twalumba",
+      "source": "llm-extracted",
+      "video_title": "Chitonga Greetings",
+      "confidence": 0.95
     },
     {
       "english": "The first word",
@@ -2154,11 +3365,53 @@
       "confidence": 0.7
     },
     {
+      "english": "three",
+      "local": "otatwe",
+      "source": "llm-extracted",
+      "video_title": "Chitonga Numbers",
+      "confidence": 0.95
+    },
+    {
+      "english": "two",
+      "local": "obile",
+      "source": "llm-extracted",
+      "video_title": "Chitonga Numbers",
+      "confidence": 0.95
+    },
+    {
+      "english": "under",
+      "local": "ansi",
+      "source": "llm-extracted",
+      "video_title": "Positions in Chitonga",
+      "confidence": 0.95
+    },
+    {
       "english": "Wek",
       "local": "Muli mo",
       "source": "whisper-batch",
       "video_title": "Learn Chitonga Part 1",
       "confidence": 0.7
+    },
+    {
+      "english": "what is your name",
+      "local": "izina lyako ndiwe ani",
+      "source": "llm-extracted",
+      "video_title": "Chitonga Part 1",
+      "confidence": 0.95
+    },
+    {
+      "english": "where do you come from",
+      "local": "ulazwa kuli",
+      "source": "llm-extracted",
+      "video_title": "Chitonga Part 1",
+      "confidence": 0.95
+    },
+    {
+      "english": "where do you work",
+      "local": "ubeleka kuli",
+      "source": "llm-extracted",
+      "video_title": "Chitonga Part 1",
+      "confidence": 0.95
     },
     {
       "english": "work",
