@@ -1,0 +1,2205 @@
+{
+  "nyanja": [
+    {
+      "english": "A headscarf",
+      "local": "dugu",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.01 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "a language that",
+      "local": "widely spoken",
+      "source": "ubuntu-talks",
+      "video_title": "Learn Chinyanja at Ubuntu Talks",
+      "confidence": 0.7
+    },
+    {
+      "english": "A person",
+      "local": "munthu",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.11 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "A shirt",
+      "local": "shirti",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.13 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "A shoe",
+      "local": "sapato",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.13 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "almighty",
+      "local": "think",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.11 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "ana",
+      "local": "Children",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.24 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "And butter",
+      "local": "stoko",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.14 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "And finally fish",
+      "local": "nsomba",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.16 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "And lastly fish",
+      "local": "nsomba",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.16 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "And me too",
+      "local": "inenso",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.02 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "And our official language",
+      "local": "Chichewa",
+      "source": "ubuntu-talks",
+      "video_title": "Chichewa Crash Course",
+      "confidence": 0.7
+    },
+    {
+      "english": "And pepo",
+      "local": "pe",
+      "source": "zambian-american-nyanja",
+      "video_title": "Learn Nyanja 101 - Shopping",
+      "confidence": 0.7
+    },
+    {
+      "english": "And that",
+      "local": "nifuna",
+      "source": "zambian-american-nyanja",
+      "video_title": "Learn Nyanja 101 - Basic Phrases",
+      "confidence": 0.7
+    },
+    {
+      "english": "And then the response",
+      "local": "Nacho Mapwino",
+      "source": "whisper-batch",
+      "video_title": "Learn Nyanja 101 - Basic Phrases",
+      "confidence": 0.7
+    },
+    {
+      "english": "And tiredness",
+      "local": "tulo",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.17 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "And to hide yourself",
+      "local": "kubisala",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.07 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "are eating",
+      "local": "mkudya",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.03 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Beef",
+      "local": "nyamayankumba",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.15 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Beer",
+      "local": "mwa",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.15 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Boat",
+      "local": "boti",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.22 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Boy",
+      "local": "nyamada",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.11 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "But good morning",
+      "local": "moka bwanji",
+      "source": "zambian-american-nyanja",
+      "video_title": "Learn Nyanja 101 - Basic Phrases",
+      "confidence": 0.7
+    },
+    {
+      "english": "But good morning",
+      "local": "Mokabwajji",
+      "source": "whisper-batch",
+      "video_title": "Learn Nyanja 101 - Basic Phrases",
+      "confidence": 0.7
+    },
+    {
+      "english": "but in Chewa TV",
+      "local": "chitunzi tunzi",
+      "source": "ubuntu-talks",
+      "video_title": "Nyanja sentences part 2",
+      "confidence": 0.7
+    },
+    {
+      "english": "but vana",
+      "local": "multiple children",
+      "source": "zambian-american-nyanja",
+      "video_title": "Learn Nyanja 101 - Describing People",
+      "confidence": 0.7
+    },
+    {
+      "english": "But Vanna",
+      "local": "multiple children",
+      "source": "whisper-batch",
+      "video_title": "Learn Nyanja 101 - Describing People",
+      "confidence": 0.7
+    },
+    {
+      "english": "buy",
+      "local": "kugula",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.04 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "child in yanja",
+      "local": "muana baby",
+      "source": "ubuntu-talks",
+      "video_title": "Nyanja lessons part 5",
+      "confidence": 0.7
+    },
+    {
+      "english": "Clothes",
+      "local": "malaya",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.13 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "come out",
+      "local": "kachoka",
+      "source": "zambian-american-nyanja",
+      "video_title": "Learn Nyanja 101 - Shopping",
+      "confidence": 0.7
+    },
+    {
+      "english": "come out",
+      "local": "Kacholka",
+      "source": "whisper-batch",
+      "video_title": "Learn Nyanja 101 - Shopping",
+      "confidence": 0.7
+    },
+    {
+      "english": "complain",
+      "local": "kudandaula",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.07 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "cook",
+      "local": "kupika",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.21 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "dance",
+      "local": "kuvina",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.05 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "do you",
+      "local": "Muziba",
+      "source": "zambian-american-nyanja",
+      "video_title": "Learn Nyanja 101 - Basic Phrases",
+      "confidence": 0.7
+    },
+    {
+      "english": "drink",
+      "local": "kumwa",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.05 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "drinking",
+      "local": "kumwa",
+      "source": "its-alice-nyanja",
+      "video_title": "Nyanja lessons part 6",
+      "confidence": 0.7
+    },
+    {
+      "english": "drinking",
+      "local": "kumuwa",
+      "source": "ubuntu-talks",
+      "video_title": "Nyanja sentences part 2",
+      "confidence": 0.7
+    },
+    {
+      "english": "driving",
+      "local": "kuyenza",
+      "source": "its-alice-nyanja",
+      "video_title": "Nyanja lessons part 6",
+      "confidence": 0.7
+    },
+    {
+      "english": "Ear",
+      "local": "kutu",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.23 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Ears",
+      "local": "makutu",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.23 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "eat",
+      "local": "kudya",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.03 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "English",
+      "local": "chizungu",
+      "source": "zambian-american-nyanja",
+      "video_title": "Learn Nyanja 101 - Basic Phrases",
+      "confidence": 0.7
+    },
+    {
+      "english": "everything",
+      "local": "fine",
+      "source": "say-it-chichewa",
+      "video_title": "Learn Chichewa Language For Tourists and beginners 2",
+      "confidence": 0.7
+    },
+    {
+      "english": "Father",
+      "local": "bambo",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.11 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "flops",
+      "local": "slipasi",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.13 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Food",
+      "local": "chakudya",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.15 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Fruit",
+      "local": "zipazo",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.16 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Future tense",
+      "local": "quite simple",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.03 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Girl",
+      "local": "ntsikana",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.11 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "girl and boy",
+      "local": "nyamata ndi",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.18 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "go",
+      "local": "kupita",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.04 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "God",
+      "local": "mulungu",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.11 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Head",
+      "local": "mutu",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.23 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Hello",
+      "local": "moni",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.02 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "help",
+      "local": "kutandiza",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.09 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Help",
+      "local": "nditandizeni",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.22 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Help",
+      "local": "nditandizeni ndikumila",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.22 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "hide",
+      "local": "kubisa",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.07 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "House",
+      "local": "nyumba",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.17 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "How are you",
+      "local": "muli bwanji",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.02 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Hunger",
+      "local": "njala",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.17 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "I am eating",
+      "local": "ndikudya",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.03 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "I am fine",
+      "local": "ndiliwino",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.02 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "I am from England",
+      "local": "ndine waku",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.18 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "I am from Malawi",
+      "local": "ndine waku",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.18 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "I am hungry",
+      "local": "ndili ndijala",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.17 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "I am thirsty",
+      "local": "ndili ndiludzu",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.17 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "I am tired",
+      "local": "ndatoba",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.02 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "I ate",
+      "local": "ndinadja",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.06 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "I have",
+      "local": "Ndili",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.10 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "I have arrived",
+      "local": "ndafika",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.21 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "I love you",
+      "local": "ndimakukonda",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.02 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "I love you",
+      "local": "Konda",
+      "source": "whisper-batch",
+      "video_title": "Learn Nyanja 101 - Shopping",
+      "confidence": 0.7
+    },
+    {
+      "english": "I want",
+      "local": "ndikufuna",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.01 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "If your response",
+      "local": "negative",
+      "source": "say-it-chichewa",
+      "video_title": "Learn Chichewa Language For Tourists and beginners 2",
+      "confidence": 0.7
+    },
+    {
+      "english": "In Nyanja",
+      "local": "muiende buino",
+      "source": "its-alice-nyanja",
+      "video_title": "Lets learn Nyanja part 2",
+      "confidence": 0.7
+    },
+    {
+      "english": "in Nyanja",
+      "local": "nipasi",
+      "source": "its-alice-nyanja",
+      "video_title": "Lets learn Nyanja part 2",
+      "confidence": 0.7
+    },
+    {
+      "english": "In the morning",
+      "local": "huseni",
+      "source": "zambian-american-nyanja",
+      "video_title": "Learn Nyanja for Business / Work",
+      "confidence": 0.7
+    },
+    {
+      "english": "Indarama",
+      "local": "money",
+      "source": "zambian-american-nyanja",
+      "video_title": "Learn Nyanja 101 - Shopping",
+      "confidence": 0.7
+    },
+    {
+      "english": "jump",
+      "local": "kulumpa",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.07 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "kusamba",
+      "local": "bathing",
+      "source": "its-alice-nyanja",
+      "video_title": "Nyanja lessons part 6",
+      "confidence": 0.7
+    },
+    {
+      "english": "laugh",
+      "local": "kuseka",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.05 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Leg",
+      "local": "muendo",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.23 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "like stay",
+      "local": "Ninkala",
+      "source": "zambian-american-nyanja",
+      "video_title": "Learn Nyanja 101 - Describing People",
+      "confidence": 0.7
+    },
+    {
+      "english": "m coming",
+      "local": "dikwera",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.09 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "m drowning",
+      "local": "nditandizeni ndikumila",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.22 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "m going to Malawi",
+      "local": "ndikupita ku",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.18 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Maize",
+      "local": "chimanga",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.16 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "make",
+      "local": "kubanga",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.09 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Meat",
+      "local": "nyama",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.15 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Milk",
+      "local": "nkaka",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.16 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "mkuku",
+      "local": "Chicken",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.15 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "mkuku",
+      "local": "chicken nyama",
+      "source": "ubuntu-talks",
+      "video_title": "Nyanja sentences",
+      "confidence": 0.7
+    },
+    {
+      "english": "Money",
+      "local": "ndalama",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.17 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Mother",
+      "local": "mayi",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.11 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "mother mother in yanja",
+      "local": "amayi amayi",
+      "source": "ubuntu-talks",
+      "video_title": "Nyanja lessons part 5",
+      "confidence": 0.7
+    },
+    {
+      "english": "Mouth",
+      "local": "gamwa",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.23 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "msikana",
+      "local": "lady",
+      "source": "ubuntu-talks",
+      "video_title": "Nyanja sentences part 2",
+      "confidence": 0.7
+    },
+    {
+      "english": "mwana",
+      "local": "Child",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.11 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "my mother",
+      "local": "mayianga",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.11 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "My name",
+      "local": "Zambian",
+      "source": "zambian-american-nyanja",
+      "video_title": "Learn Nyanja 101 - Describing People",
+      "confidence": 0.7
+    },
+    {
+      "english": "My name",
+      "local": "Russell Makonyola",
+      "source": "ubuntu-talks",
+      "video_title": "Chichewa Crash Course",
+      "confidence": 0.7
+    },
+    {
+      "english": "My name",
+      "local": "Moses Chingala",
+      "source": "ubuntu-talks",
+      "video_title": "Learn Chinyanja at Ubuntu Talks",
+      "confidence": 0.7
+    },
+    {
+      "english": "my name",
+      "local": "Zinayanga Indi",
+      "source": "whisper-batch",
+      "video_title": "Learn Nyanja 101 - Describing People",
+      "confidence": 0.7
+    },
+    {
+      "english": "nearby",
+      "local": "Kuliko ATM pafupi",
+      "source": "zambian-american-nyanja",
+      "video_title": "Learn Nyanja 101 - Shopping",
+      "confidence": 0.7
+    },
+    {
+      "english": "Njito",
+      "local": "job",
+      "source": "zambian-american-nyanja",
+      "video_title": "Learn Nyanja for Business / Work",
+      "confidence": 0.7
+    },
+    {
+      "english": "nkuku",
+      "local": "chicken",
+      "source": "its-alice-nyanja",
+      "video_title": "Nyanja sentences",
+      "confidence": 0.7
+    },
+    {
+      "english": "no in Nyanja",
+      "local": "iyai",
+      "source": "its-alice-nyanja",
+      "video_title": "Lets learn Nyanja part 2",
+      "confidence": 0.7
+    },
+    {
+      "english": "Nose",
+      "local": "mpuno",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.23 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "not the",
+      "local": "Chichewa",
+      "source": "ubuntu-talks",
+      "video_title": "Chichewa Crash Course",
+      "confidence": 0.7
+    },
+    {
+      "english": "Nsikana",
+      "local": "lady",
+      "source": "whisper-batch",
+      "video_title": "Nyanja sentences part 2",
+      "confidence": 0.7
+    },
+    {
+      "english": "nyama",
+      "local": "meat",
+      "source": "its-alice-nyanja",
+      "video_title": "Nyanja sentences",
+      "confidence": 0.7
+    },
+    {
+      "english": "Nyanja",
+      "local": "widely spoken",
+      "source": "ubuntu-talks",
+      "video_title": "Zambia Language Nyanja",
+      "confidence": 0.7
+    },
+    {
+      "english": "on the road",
+      "local": "pansewu",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.18 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "One child",
+      "local": "mwana",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.24 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "One eye",
+      "local": "iso",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.23 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "One tooth",
+      "local": "zino",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.23 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "opening",
+      "local": "kusegula",
+      "source": "its-alice-nyanja",
+      "video_title": "Nyanja lessons part 6",
+      "confidence": 0.7
+    },
+    {
+      "english": "or they ate",
+      "local": "anadja",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.06 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Over here",
+      "local": "apapa",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.22 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Over there",
+      "local": "apopo",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.22 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "papaya",
+      "local": "papaya",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.24 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "People",
+      "local": "anthu",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.11 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Pepper",
+      "local": "sabola",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.16 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Pork",
+      "local": "nyamayankumba",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.15 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Porridge",
+      "local": "pala",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.01 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Rice",
+      "local": "mpunga",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.01 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "rice with fish",
+      "local": "mpunga ndi",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.18 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Rock",
+      "local": "mwala",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.24 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "run",
+      "local": "kutamanga",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.07 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Sabatos",
+      "local": "shoes",
+      "source": "zambian-american-nyanja",
+      "video_title": "Learn Nyanja 101 - Shopping",
+      "confidence": 0.7
+    },
+    {
+      "english": "Salt",
+      "local": "njere",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.16 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "sand",
+      "local": "njenga",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.24 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "sebenza",
+      "local": "work",
+      "source": "zambian-american-nyanja",
+      "video_title": "Learn Nyanja for Business / Work",
+      "confidence": 0.7
+    },
+    {
+      "english": "she or they have",
+      "local": "ali",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.10 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "sing",
+      "local": "kuyimba",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.05 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "sisi",
+      "local": "hair",
+      "source": "ubuntu-talks",
+      "video_title": "Nyanja sentences part 2",
+      "confidence": 0.7
+    },
+    {
+      "english": "sleep",
+      "local": "kugona",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.04 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Smoking",
+      "local": "kusuta",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.17 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "so chipatala",
+      "local": "hospital inyanja",
+      "source": "ubuntu-talks",
+      "video_title": "Nyanja sentences part 2",
+      "confidence": 0.7
+    },
+    {
+      "english": "So how are you",
+      "local": "Muri Bwajji",
+      "source": "whisper-batch",
+      "video_title": "Learn Nyanja 101 - Basic Phrases",
+      "confidence": 0.7
+    },
+    {
+      "english": "So I am hiding",
+      "local": "ndikubisala",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.07 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "so I will eat",
+      "local": "ndidya",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.03 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "So kogona",
+      "local": "sleeping",
+      "source": "whisper-batch",
+      "video_title": "Nyanja sentences part 2",
+      "confidence": 0.7
+    },
+    {
+      "english": "so kugona",
+      "local": "sleeping",
+      "source": "ubuntu-talks",
+      "video_title": "Nyanja sentences part 2",
+      "confidence": 0.7
+    },
+    {
+      "english": "so kujua",
+      "local": "cutting",
+      "source": "its-alice-nyanja",
+      "video_title": "Nyanja lessons part 6",
+      "confidence": 0.7
+    },
+    {
+      "english": "so mangisa",
+      "local": "plaiting",
+      "source": "ubuntu-talks",
+      "video_title": "Nyanja sentences part 2",
+      "confidence": 0.7
+    },
+    {
+      "english": "So mangisa",
+      "local": "platinum",
+      "source": "whisper-batch",
+      "video_title": "Nyanja sentences part 2",
+      "confidence": 0.7
+    },
+    {
+      "english": "So nsomba",
+      "local": "fish",
+      "source": "its-alice-nyanja",
+      "video_title": "Nyanja sentences",
+      "confidence": 0.7
+    },
+    {
+      "english": "So the town Nyanja",
+      "local": "Kazuba",
+      "source": "whisper-batch",
+      "video_title": "Learn Nyanja 101 - Shopping",
+      "confidence": 0.7
+    },
+    {
+      "english": "So this vegetable",
+      "local": "called lumanda",
+      "source": "its-alice-nyanja",
+      "video_title": "Useful Nyanja phrases used when shopping",
+      "confidence": 0.7
+    },
+    {
+      "english": "So water in Nyanja",
+      "local": "manzi",
+      "source": "its-alice-nyanja",
+      "video_title": "Body care vocabulary Nyanja",
+      "confidence": 0.7
+    },
+    {
+      "english": "so zina",
+      "local": "name",
+      "source": "ubuntu-talks",
+      "video_title": "Nyanja sentences part 2",
+      "confidence": 0.7
+    },
+    {
+      "english": "steal",
+      "local": "kuba",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.05 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Sun",
+      "local": "dzua",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.15 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "sweeping",
+      "local": "kupianga",
+      "source": "its-alice-nyanja",
+      "video_title": "Nyanja lessons part 6",
+      "confidence": 0.7
+    },
+    {
+      "english": "t know what phone",
+      "local": "inyanja",
+      "source": "ubuntu-talks",
+      "video_title": "Nyanja sentences part 2",
+      "confidence": 0.7
+    },
+    {
+      "english": "t know what TV",
+      "local": "inyanja",
+      "source": "ubuntu-talks",
+      "video_title": "Nyanja sentences part 2",
+      "confidence": 0.7
+    },
+    {
+      "english": "t want",
+      "local": "sinifuna",
+      "source": "its-alice-nyanja",
+      "video_title": "Useful Nyanja phrases used when shopping",
+      "confidence": 0.7
+    },
+    {
+      "english": "ta ya",
+      "local": "eat",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.09 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "talking about",
+      "local": "Mu",
+      "source": "zambian-american-nyanja",
+      "video_title": "Learn Nyanja 101 - Basic Phrases",
+      "confidence": 0.7
+    },
+    {
+      "english": "talking about",
+      "local": "Muj",
+      "source": "whisper-batch",
+      "video_title": "Learn Nyanja 101 - Basic Phrases",
+      "confidence": 0.7
+    },
+    {
+      "english": "talking about",
+      "local": "Muu",
+      "source": "whisper-batch",
+      "video_title": "Learn Nyanja 101 - Going Places",
+      "confidence": 0.7
+    },
+    {
+      "english": "tea with milk",
+      "local": "ti wa",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.18 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Tea without milk",
+      "local": "ti opanda",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.18 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Teeth",
+      "local": "madzino",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.23 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Teeth",
+      "local": "mano",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.23 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Thank you",
+      "local": "zigomo",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.01 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "That one",
+      "local": "iyoyo",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.22 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Thatched roof",
+      "local": "denga lama",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.24 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "The first one",
+      "local": "kusamba",
+      "source": "its-alice-nyanja",
+      "video_title": "Nyanja lessons part 6",
+      "confidence": 0.7
+    },
+    {
+      "english": "The next one",
+      "local": "kutamba",
+      "source": "its-alice-nyanja",
+      "video_title": "Nyanja lessons part 6",
+      "confidence": 0.7
+    },
+    {
+      "english": "The next one",
+      "local": "kupianga",
+      "source": "its-alice-nyanja",
+      "video_title": "Nyanja lessons part 6",
+      "confidence": 0.7
+    },
+    {
+      "english": "The response",
+      "local": "simply bo",
+      "source": "say-it-chichewa",
+      "video_title": "Learn Chichewa Language For Tourists and beginners 2",
+      "confidence": 0.7
+    },
+    {
+      "english": "the response",
+      "local": "nachomabwino",
+      "source": "zambian-american-nyanja",
+      "video_title": "Learn Nyanja 101 - Basic Phrases",
+      "confidence": 0.7
+    },
+    {
+      "english": "the sun",
+      "local": "shining",
+      "source": "zambian-american-nyanja",
+      "video_title": "Learn Nyanja 101 - Shopping",
+      "confidence": 0.7
+    },
+    {
+      "english": "The verb to eat",
+      "local": "kudya",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.03 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "the where",
+      "local": "Kutti",
+      "source": "whisper-batch",
+      "video_title": "Learn Nyanja 101 - Going Places",
+      "confidence": 0.7
+    },
+    {
+      "english": "The word for yes",
+      "local": "eh",
+      "source": "zambian-american-nyanja",
+      "video_title": "Learn Nyanja 101 - Basic Phrases",
+      "confidence": 0.7
+    },
+    {
+      "english": "The word zikuteka",
+      "local": "used informally",
+      "source": "say-it-chichewa",
+      "video_title": "Learn Chichewa Language For Tourists and beginners 2",
+      "confidence": 0.7
+    },
+    {
+      "english": "then intawi",
+      "local": "time",
+      "source": "ubuntu-talks",
+      "video_title": "Nyanja sentences part 2",
+      "confidence": 0.7
+    },
+    {
+      "english": "Then the next one",
+      "local": "kujua",
+      "source": "its-alice-nyanja",
+      "video_title": "Nyanja lessons part 6",
+      "confidence": 0.7
+    },
+    {
+      "english": "Then the next one",
+      "local": "kumwa",
+      "source": "its-alice-nyanja",
+      "video_title": "Nyanja lessons part 6",
+      "confidence": 0.7
+    },
+    {
+      "english": "Then the next one",
+      "local": "kusegula",
+      "source": "its-alice-nyanja",
+      "video_title": "Nyanja lessons part 6",
+      "confidence": 0.7
+    },
+    {
+      "english": "Then this",
+      "local": "dry fish",
+      "source": "its-alice-nyanja",
+      "video_title": "Useful Nyanja phrases used when shopping",
+      "confidence": 0.7
+    },
+    {
+      "english": "Then your response",
+      "local": "Naokabwino",
+      "source": "whisper-batch",
+      "video_title": "Learn Nyanja 101 - Basic Phrases",
+      "confidence": 0.7
+    },
+    {
+      "english": "They are eating",
+      "local": "akudya",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.03 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "They will eat",
+      "local": "adya",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.03 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "think",
+      "local": "kuganeza",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.04 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "think the correct pronunciation",
+      "local": "nsima",
+      "source": "its-alice-nyanja",
+      "video_title": "Nyanja sentences",
+      "confidence": 0.7
+    },
+    {
+      "english": "think the correct pronunciation",
+      "local": "nsyiima whether",
+      "source": "ubuntu-talks",
+      "video_title": "Nyanja sentences",
+      "confidence": 0.7
+    },
+    {
+      "english": "Thirst",
+      "local": "ludzu",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.17 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "This one",
+      "local": "tough",
+      "source": "zambian-american-nyanja",
+      "video_title": "Learn Nyanja 101 - Basic Phrases",
+      "confidence": 0.7
+    },
+    {
+      "english": "this type of sand",
+      "local": "doti",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.24 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "To buy",
+      "local": "kugula",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.04 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "To chat",
+      "local": "gujeza",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.21 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "To come",
+      "local": "kwera",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.09 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "To complain",
+      "local": "kudandaula",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.07 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "To cook",
+      "local": "kupika",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.21 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "To dance",
+      "local": "kuvina",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.05 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "To drink",
+      "local": "kumwa",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.05 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "to eat",
+      "local": "kuya",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.06 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "To go",
+      "local": "kupita",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.04 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "To help",
+      "local": "kutandiza",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.09 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "To hide",
+      "local": "kubisa",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.07 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "To laugh",
+      "local": "kuseka",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.05 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "To laugh",
+      "local": "gusega",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.21 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "To leave something",
+      "local": "kusia",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.09 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "To lie",
+      "local": "gunama",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.07 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "To make",
+      "local": "kubanga",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.09 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "To run",
+      "local": "kutamanga",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.07 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "To run away",
+      "local": "kutawa",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.21 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "To say sorry",
+      "local": "pepa",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.21 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "To sing",
+      "local": "kuyimba",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.05 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "To sleep",
+      "local": "kugona",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.04 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "To steal",
+      "local": "kuba",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.05 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "To think",
+      "local": "kuganeza",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.04 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "To tickle",
+      "local": "ngugiligisha",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.21 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "To urinate",
+      "local": "kukoza",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.05 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "To walk",
+      "local": "kuyenda",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.04 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "To want",
+      "local": "kufuna",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.04 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "to work",
+      "local": "sebenza",
+      "source": "zambian-american-nyanja",
+      "video_title": "Learn Nyanja for Business / Work",
+      "confidence": 0.7
+    },
+    {
+      "english": "To write",
+      "local": "kulemba",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.04 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Tobacco",
+      "local": "fodya",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.17 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Tummy",
+      "local": "mimba",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.23 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Under the",
+      "local": "pansi pa",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.18 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "under the table",
+      "local": "pansi pa",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.18 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "urinate",
+      "local": "kukoza",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.05 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Vana",
+      "local": "kids",
+      "source": "zambian-american-nyanja",
+      "video_title": "Learn Nyanja 101 - Describing People",
+      "confidence": 0.7
+    },
+    {
+      "english": "walk",
+      "local": "kuyenda",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.04 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "want",
+      "local": "kufuna",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.04 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "watching",
+      "local": "kutamba",
+      "source": "its-alice-nyanja",
+      "video_title": "Nyanja lessons part 6",
+      "confidence": 0.7
+    },
+    {
+      "english": "Water",
+      "local": "madzi",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.15 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "we ate",
+      "local": "dinadja",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.06 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "We were eating",
+      "local": "timadja",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.06 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "We will eat",
+      "local": "didya",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.03 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "weather",
+      "local": "nice",
+      "source": "zambian-american-nyanja",
+      "video_title": "Learn Nyanja 101 - Describing People",
+      "confidence": 0.7
+    },
+    {
+      "english": "What about you",
+      "local": "kaya inu",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.02 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Why",
+      "local": "chifukwajani",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.18 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "will eat",
+      "local": "didya",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.03 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "will we eat",
+      "local": "didya",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.03 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "will you eat",
+      "local": "didya",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.03 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Without",
+      "local": "opanda",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.18 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "write",
+      "local": "kulemba",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.04 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "Yenda",
+      "local": "going",
+      "source": "whisper-batch",
+      "video_title": "Learn Nyanja 101 - Going Places",
+      "confidence": 0.7
+    },
+    {
+      "english": "you ate",
+      "local": "unadja",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.06 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "you ate plural",
+      "local": "munadja",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.06 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "you have",
+      "local": "Uli",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.10 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "you plural have",
+      "local": "muli",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.10 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "You say this",
+      "local": "Uyuu Nir",
+      "source": "whisper-batch",
+      "video_title": "Learn Nyanja 101 - Describing People",
+      "confidence": 0.7
+    },
+    {
+      "english": "you sleep well",
+      "local": "mugwanebwino",
+      "source": "zambian-american-nyanja",
+      "video_title": "Learn Nyanja 101 - Basic Phrases",
+      "confidence": 0.7
+    },
+    {
+      "english": "you were",
+      "local": "Mumadja",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.06 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "You were eating",
+      "local": "umadja",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.06 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "You will eat",
+      "local": "udya",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.03 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "you will not go",
+      "local": "suguvita",
+      "source": "chichewa-101",
+      "video_title": "Chichewa 101.10 - learning to speak Chichewa",
+      "confidence": 0.7
+    },
+    {
+      "english": "your response",
+      "local": "naokabwino",
+      "source": "zambian-american-nyanja",
+      "video_title": "Learn Nyanja 101 - Basic Phrases",
+      "confidence": 0.7
+    },
+    {
+      "english": "Zikuyenda literally means",
+      "local": "everything going",
+      "source": "say-it-chichewa",
+      "video_title": "Learn Chichewa Language For Tourists and beginners 2",
+      "confidence": 0.7
+    },
+    {
+      "english": "Zinala kini su zina",
+      "local": "nem",
+      "source": "whisper-batch",
+      "video_title": "Nyanja sentences part 2",
+      "confidence": 0.7
+    }
+  ],
+  "bemba": [
+    {
+      "english": "A language that",
+      "local": "widely spoken",
+      "source": "whisper-batch",
+      "video_title": "Learn to Speak Bemba Lesson 1: Greetings",
+      "confidence": 0.7
+    },
+    {
+      "english": "a large water body",
+      "local": "Bemba",
+      "source": "ubuntu-talks",
+      "video_title": "Ubuntu Talks Chibemba",
+      "confidence": 0.7
+    },
+    {
+      "english": "among",
+      "local": "Ichibemba",
+      "source": "ubuntu-talks",
+      "video_title": "Learn Bemba at Ubuntu Talks",
+      "confidence": 0.7
+    },
+    {
+      "english": "Among my favorite things",
+      "local": "spending time",
+      "source": "ubuntu-talks",
+      "video_title": "Learn ChiBemba Beginner to fluent",
+      "confidence": 0.7
+    },
+    {
+      "english": "among which",
+      "local": "Ichibemba",
+      "source": "ubuntu-talks",
+      "video_title": "Learn Bemba at Ubuntu Talks",
+      "confidence": 0.7
+    },
+    {
+      "english": "excuse me",
+      "local": "njehlehlehniko",
+      "source": "kitwe-online-bemba",
+      "video_title": "38-How to Ask for Directions in Bemba",
+      "confidence": 0.7
+    },
+    {
+      "english": "how it",
+      "local": "written",
+      "source": "kaputu-bemba",
+      "video_title": "kaputu bemba teacher lesson 1",
+      "confidence": 0.7
+    },
+    {
+      "english": "In Bemba it",
+      "local": "ii",
+      "source": "whisper-batch",
+      "video_title": "Learn to Speak Bemba Lesson 1: Greetings",
+      "confidence": 0.7
+    },
+    {
+      "english": "may I ask",
+      "local": "njipusheko",
+      "source": "kitwe-online-bemba",
+      "video_title": "38-How to Ask for Directions in Bemba",
+      "confidence": 0.7
+    },
+    {
+      "english": "My name",
+      "local": "Ishina",
+      "source": "kaputu-bemba",
+      "video_title": "kaputu bemba teacher lesson 1",
+      "confidence": 0.7
+    },
+    {
+      "english": "My name",
+      "local": "Kaputu Oswat",
+      "source": "kaputu-bemba",
+      "video_title": "KAPUTU BEMBA TEACHER INTRO",
+      "confidence": 0.7
+    },
+    {
+      "english": "My name",
+      "local": "Jane",
+      "source": "kitwe-online-bemba",
+      "video_title": "Bemba Lesson 12 Self Introduction",
+      "confidence": 0.7
+    },
+    {
+      "english": "My name",
+      "local": "Mulenga",
+      "source": "kitwe-online-bemba",
+      "video_title": "Learn Bemba With Mulenga - My Week",
+      "confidence": 0.7
+    },
+    {
+      "english": "My name",
+      "local": "Akemboka",
+      "source": "kitwe-online-bemba",
+      "video_title": "Learn Bemba With Mulenga - My Week",
+      "confidence": 0.7
+    },
+    {
+      "english": "My name",
+      "local": "Samba",
+      "source": "kitwe-online-bemba",
+      "video_title": "Learn Bemba With Mulenga - My Week",
+      "confidence": 0.7
+    },
+    {
+      "english": "My name",
+      "local": "Rachel Amishi",
+      "source": "ubuntu-talks",
+      "video_title": "Learn Bemba at Ubuntu Talks",
+      "confidence": 0.7
+    },
+    {
+      "english": "My name",
+      "local": "Rachel",
+      "source": "ubuntu-talks",
+      "video_title": "Ubuntu Talks Chibemba",
+      "confidence": 0.7
+    },
+    {
+      "english": "My name",
+      "local": "Oswai",
+      "source": "whisper-batch",
+      "video_title": "Learn to Speak Bemba Lesson 1: Greetings",
+      "confidence": 0.7
+    },
+    {
+      "english": "The sound",
+      "local": "sh",
+      "source": "kaputu-bemba",
+      "video_title": "kaputu bemba teacher lesson 1",
+      "confidence": 0.7
+    },
+    {
+      "english": "what you say",
+      "local": "umueni",
+      "source": "whisper-batch",
+      "video_title": "Learn to Speak Bemba Lesson 1: Greetings",
+      "confidence": 0.7
+    }
+  ],
+  "tonga": [
+    {
+      "english": "And then there",
+      "local": "formal",
+      "source": "whisper-batch",
+      "video_title": "How to greet in Tonga",
+      "confidence": 0.7
+    },
+    {
+      "english": "April",
+      "local": "Muguwegangala",
+      "source": "learn-tonga-nyanja",
+      "video_title": "LEARN TONGA CHITONGA Part 4 Name of Months",
+      "confidence": 0.7
+    },
+    {
+      "english": "August",
+      "local": "Itwe",
+      "source": "learn-tonga-nyanja",
+      "video_title": "LEARN TONGA CHITONGA Part 4 Name of Months",
+      "confidence": 0.7
+    },
+    {
+      "english": "back or behind",
+      "local": "Gusiule",
+      "source": "learn-tonga-nyanja",
+      "video_title": "POSITIONS IN CHITONGA",
+      "confidence": 0.7
+    },
+    {
+      "english": "December",
+      "local": "Nalupale",
+      "source": "learn-tonga-nyanja",
+      "video_title": "LEARN TONGA CHITONGA Part 4 Name of Months",
+      "confidence": 0.7
+    },
+    {
+      "english": "February",
+      "local": "Mulumi",
+      "source": "learn-tonga-nyanja",
+      "video_title": "LEARN TONGA CHITONGA Part 4 Name of Months",
+      "confidence": 0.7
+    },
+    {
+      "english": "Ihina",
+      "local": "name",
+      "source": "learn-tonga-nyanja",
+      "video_title": "LEARN CHITONGA Part 1",
+      "confidence": 0.7
+    },
+    {
+      "english": "January",
+      "local": "Mugazimaziba",
+      "source": "learn-tonga-nyanja",
+      "video_title": "LEARN TONGA CHITONGA Part 4 Name of Months",
+      "confidence": 0.7
+    },
+    {
+      "english": "Ji badela",
+      "local": "hospital",
+      "source": "learn-tonga-nyanja",
+      "video_title": "LEARN CHITONGA Part 1",
+      "confidence": 0.7
+    },
+    {
+      "english": "July",
+      "local": "Gunkumunamasamu",
+      "source": "learn-tonga-nyanja",
+      "video_title": "LEARN TONGA CHITONGA Part 4 Name of Months",
+      "confidence": 0.7
+    },
+    {
+      "english": "June",
+      "local": "Gandampati",
+      "source": "learn-tonga-nyanja",
+      "video_title": "LEARN TONGA CHITONGA Part 4 Name of Months",
+      "confidence": 0.7
+    },
+    {
+      "english": "look up",
+      "local": "gujulu",
+      "source": "learn-tonga-nyanja",
+      "video_title": "POSITIONS IN CHITONGA",
+      "confidence": 0.7
+    },
+    {
+      "english": "March",
+      "local": "Mioba",
+      "source": "learn-tonga-nyanja",
+      "video_title": "LEARN TONGA CHITONGA Part 4 Name of Months",
+      "confidence": 0.7
+    },
+    {
+      "english": "meaning my name",
+      "local": "Venzo",
+      "source": "learn-tonga-nyanja",
+      "video_title": "LEARN CHITONGA Part 1",
+      "confidence": 0.7
+    },
+    {
+      "english": "miaka",
+      "local": "years",
+      "source": "learn-tonga-nyanja",
+      "video_title": "LEARN CHITONGA Part 1",
+      "confidence": 0.7
+    },
+    {
+      "english": "My name",
+      "local": "Sunu",
+      "source": "zedlexicon-tonga",
+      "video_title": "Writing Chitonga Lesson 1 The English Alphabet",
+      "confidence": 0.7
+    },
+    {
+      "english": "My name",
+      "local": "Mutinta",
+      "source": "ubuntu-talks",
+      "video_title": "Ubuntu Talks Chitonga",
+      "confidence": 0.7
+    },
+    {
+      "english": "My name",
+      "local": "Yvonne Makeshakala",
+      "source": "whisper-batch",
+      "video_title": "Learn Tonga at Ubuntu Talks",
+      "confidence": 0.7
+    },
+    {
+      "english": "Ndewilegamci baddela",
+      "local": "hospital",
+      "source": "whisper-batch",
+      "video_title": "Learn Chitonga Part 1",
+      "confidence": 0.7
+    },
+    {
+      "english": "November",
+      "local": "Vumbimpati",
+      "source": "learn-tonga-nyanja",
+      "video_title": "LEARN TONGA CHITONGA Part 4 Name of Months",
+      "confidence": 0.7
+    },
+    {
+      "english": "October",
+      "local": "Ravumbiganini",
+      "source": "learn-tonga-nyanja",
+      "video_title": "LEARN TONGA CHITONGA Part 4 Name of Months",
+      "confidence": 0.7
+    },
+    {
+      "english": "s it",
+      "local": "LWI",
+      "source": "zedlexicon-tonga",
+      "video_title": "Reading Chitonga Lesson 3 Simple Method",
+      "confidence": 0.7
+    },
+    {
+      "english": "September",
+      "local": "Iwe Iwe",
+      "source": "learn-tonga-nyanja",
+      "video_title": "LEARN TONGA CHITONGA Part 4 Name of Months",
+      "confidence": 0.7
+    },
+    {
+      "english": "The first word",
+      "local": "Chitonga",
+      "source": "zedlexicon-tonga",
+      "video_title": "Reading Chitonga Lesson 3 Simple Method",
+      "confidence": 0.7
+    },
+    {
+      "english": "The first word",
+      "local": "Goiliha",
+      "source": "zedlexicon-tonga",
+      "video_title": "Reading Chitonga Lesson 3 Simple Method",
+      "confidence": 0.7
+    },
+    {
+      "english": "The following word",
+      "local": "Rwimbo",
+      "source": "zedlexicon-tonga",
+      "video_title": "Reading Chitonga Lesson 3 Simple Method",
+      "confidence": 0.7
+    },
+    {
+      "english": "This LW double I",
+      "local": "LWI",
+      "source": "zedlexicon-tonga",
+      "video_title": "Reading Chitonga Lesson 3 Simple Method",
+      "confidence": 0.7
+    },
+    {
+      "english": "Wek",
+      "local": "Muli mo",
+      "source": "whisper-batch",
+      "video_title": "Learn Chitonga Part 1",
+      "confidence": 0.7
+    },
+    {
+      "english": "work",
+      "local": "Mulimo",
+      "source": "learn-tonga-nyanja",
+      "video_title": "LEARN CHITONGA Part 1",
+      "confidence": 0.7
+    }
+  ],
+  "lozi": [
+    {
+      "english": "language which",
+      "local": "commonly used",
+      "source": "whisper-batch",
+      "video_title": "Learn 5 Zambian Languages",
+      "confidence": 0.7
+    }
+  ],
+  "kaonde": [
+    {
+      "english": "My name",
+      "local": "Jessica",
+      "source": "whisper-batch",
+      "video_title": "Learn Kaonde Language in 5 mins",
+      "confidence": 0.7
+    },
+    {
+      "english": "one of",
+      "local": "Kawanda",
+      "source": "whisper-batch",
+      "video_title": "Learn Kaonde 101",
+      "confidence": 0.7
+    }
+  ],
+  "luvale": [
+    {
+      "english": "my friend",
+      "local": "Bandai",
+      "source": "whisper-batch",
+      "video_title": "Basics to Luvale Language",
+      "confidence": 0.7
+    }
+  ]
+}

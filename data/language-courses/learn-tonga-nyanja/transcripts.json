@@ -1,0 +1,663 @@
+{
+  "Q-zTJAuObbw": {
+    "video_id": "Q-zTJAuObbw",
+    "title": "LEARN CHITONGA Part 1",
+    "source": "learn-tonga-nyanja",
+    "target_lang": "toi",
+    "url": "https://youtube.com/watch?v=Q-zTJAuObbw",
+    "detected_language": "english",
+    "prompt_used": "This is a Chitonga (Tonga) language lesson. The creator teaches Tonga vocabulary, counting, greetings, and everyday phrases. Common Chitonga: ulibuti (how are you), kabotu (fine), ndakuyanda (I love y...",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.2,
+        "text": "Learn Tonga or Chitonga Part 1."
+      },
+      {
+        "start": 5.2,
+        "end": 10.2,
+        "text": "In this episode we are going to learn about the introduction, how to introduce yourself"
+      },
+      {
+        "start": 10.2,
+        "end": 11.8,
+        "text": "in Tonga."
+      },
+      {
+        "start": 11.8,
+        "end": 19.8,
+        "text": "So, if you want to ask what someone's name is, you simply say, ndiweni hinayago, ndiweni"
+      },
+      {
+        "start": 19.8,
+        "end": 23.5,
+        "text": "hinayago, meaning what is your name."
+      },
+      {
+        "start": 23.5,
+        "end": 30.0,
+        "text": "Ndiweni is you, or it's you, but in this case it's you."
+      },
+      {
+        "start": 30.0,
+        "end": 35.0,
+        "text": "Ihina is name, ihina is name."
+      },
+      {
+        "start": 35.0,
+        "end": 41.0,
+        "text": "And then, yago is you, yours, or your."
+      },
+      {
+        "start": 41.0,
+        "end": 47.2,
+        "text": "So when you put them together they translate to what is your name, ndiweni hinayago."
+      },
+      {
+        "start": 47.2,
+        "end": 54.3,
+        "text": "And if you want to be polite and respectful, you would say, ndiweni hinayeno, ndiweni"
+      },
+      {
+        "start": 54.3,
+        "end": 58.1,
+        "text": "hinayeno, which means the same thing, what is your name."
+      },
+      {
+        "start": 58.1,
+        "end": 60.4,
+        "text": "And this is how you respond."
+      },
+      {
+        "start": 60.4,
+        "end": 71.2,
+        "text": "You simply say, ihinaangu dinevenzo, ihinaangu dinevenzo, meaning my name is Venzo."
+      },
+      {
+        "start": 71.2,
+        "end": 78.8,
+        "text": "And if you want to ask how old someone is, you simply say, ulamiaga hyongae, ulamiaga"
+      },
+      {
+        "start": 78.8,
+        "end": 86.2,
+        "text": "hyongae, miaka is years, hyongae is how many, or how much."
+      },
+      {
+        "start": 86.2,
+        "end": 90.9,
+        "text": "So when you put them together, it means how old are you."
+      },
+      {
+        "start": 90.9,
+        "end": 97.2,
+        "text": "And if you want to be more polite, you would say, ulamiaga hyongae, ulamiaga hyongae, which"
+      },
+      {
+        "start": 97.3,
+        "end": 101.4,
+        "text": "means the same thing, how old are you."
+      },
+      {
+        "start": 101.4,
+        "end": 109.9,
+        "text": "And if you want to respond, you would say, ndilamiaga hili 27, ndilamiaga hili 27, meaning"
+      },
+      {
+        "start": 109.9,
+        "end": 116.8,
+        "text": "I am 27 years old, I am 27 years old."
+      },
+      {
+        "start": 116.8,
+        "end": 121.3,
+        "text": "Next is how to ask where someone lives or stays."
+      },
+      {
+        "start": 121.3,
+        "end": 129.7,
+        "text": "You simply say, ukala guli, ukala guli, which means where do you live or stay."
+      },
+      {
+        "start": 129.7,
+        "end": 133.9,
+        "text": "Ukala is to stay or leave."
+      },
+      {
+        "start": 133.9,
+        "end": 140.2,
+        "text": "In other cases, it would mean to sit, but in this case, it means stay or leave."
+      },
+      {
+        "start": 140.2,
+        "end": 146.1,
+        "text": "And then guli means where, guli means where."
+      },
+      {
+        "start": 146.1,
+        "end": 152.4,
+        "text": "When you put the words together, it means where do you stay or leave."
+      },
+      {
+        "start": 152.4,
+        "end": 159.9,
+        "text": "And again, if you want to be more polite or respectful, you would say, mukala guli, mukala"
+      },
+      {
+        "start": 159.9,
+        "end": 164.2,
+        "text": "guli, which means the same thing, where do you stay."
+      },
+      {
+        "start": 164.2,
+        "end": 166.2,
+        "text": "And this is how you respond."
+      },
+      {
+        "start": 166.2,
+        "end": 174.6,
+        "text": "You would say, ndikala huu, roads park, ndikala huu, roads park, which means I stay at or"
+      },
+      {
+        "start": 174.6,
+        "end": 176.6,
+        "text": "in roads park."
+      },
+      {
+        "start": 176.6,
+        "end": 180.9,
+        "text": "I stay in roads park."
+      },
+      {
+        "start": 180.9,
+        "end": 186.5,
+        "text": "Next is how to ask what kind of work someone does or where they work."
+      },
+      {
+        "start": 186.5,
+        "end": 193.0,
+        "text": "You simply say, ubelega mulimon zi, ubelega mulimon zi."
+      },
+      {
+        "start": 193.4,
+        "end": 197.4,
+        "text": "Mulimo is work."
+      },
+      {
+        "start": 197.4,
+        "end": 199.0,
+        "text": "Zi is what."
+      },
+      {
+        "start": 199.0,
+        "end": 206.4,
+        "text": "So when you put them together, they translate to what kind of work do you do."
+      },
+      {
+        "start": 206.4,
+        "end": 212.8,
+        "text": "Or if you want to be polite, you would say, ubelega mulimon zi, ubelega mulimon zi, which"
+      },
+      {
+        "start": 212.8,
+        "end": 214.2,
+        "text": "means the same thing."
+      },
+      {
+        "start": 214.2,
+        "end": 216.2,
+        "text": "What kind of work do you do?"
+      },
+      {
+        "start": 216.2,
+        "end": 219.1,
+        "text": "And this is how you would respond."
+      },
+      {
+        "start": 219.1,
+        "end": 226.9,
+        "text": "You would say, ndibelegan chitoya bu dokta, ndibelegan chitoya bu dokta, meaning I work"
+      },
+      {
+        "start": 226.9,
+        "end": 229.5,
+        "text": "as a doctor."
+      },
+      {
+        "start": 229.5,
+        "end": 238.1,
+        "text": "The other way to ask would be, ubelega guli, or to be polite, you say, mubelega guli, which"
+      },
+      {
+        "start": 238.1,
+        "end": 241.1,
+        "text": "means where do you work?"
+      },
+      {
+        "start": 241.1,
+        "end": 247.3,
+        "text": "And then you would say, or you would respond as, ndibelega guji badela, ndibelega guji"
+      },
+      {
+        "start": 247.3,
+        "end": 248.3,
+        "text": "badela."
+      },
+      {
+        "start": 248.3,
+        "end": 250.7,
+        "text": "Ji badela is hospital."
+      },
+      {
+        "start": 250.7,
+        "end": 255.5,
+        "text": "So this would mean I work at a hospital."
+      },
+      {
+        "start": 255.5,
+        "end": 260.6,
+        "text": "So before this video ends, I'm going to ask you a few questions."
+      },
+      {
+        "start": 260.6,
+        "end": 263.8,
+        "text": "Number one, ndiweni hinayago."
+      },
+      {
+        "start": 263.8,
+        "end": 267.0,
+        "text": "Number two, ulami aga hiongaye."
+      },
+      {
+        "start": 267.0,
+        "end": 270.5,
+        "text": "Number three, ukala guli."
+      },
+      {
+        "start": 270.5,
+        "end": 276.5,
+        "text": "Number four, ubelega guli, or ubelega mulimon zi."
+      },
+      {
+        "start": 276.6,
+        "end": 281.6,
+        "text": "Please drop the answers in the comments section, and watch out for more videos."
+      },
+      {
+        "start": 281.6,
+        "end": 282.5,
+        "text": "Thanks for watching."
+      }
+    ],
+    "full_text": "Learn Tonga or Chitonga Part 1. In this episode we are going to learn about the introduction, how to introduce yourself in Tonga. So, if you want to ask what someone's name is, you simply say, ndiweni hinayago, ndiweni hinayago, meaning what is your name. Ndiweni is you, or it's you, but in this case it's you. Ihina is name, ihina is name. And then, yago is you, yours, or your. So when you put them together they translate to what is your name, ndiweni hinayago. And if you want to be polite and respectful, you would say, ndiweni hinayeno, ndiweni hinayeno, which means the same thing, what is your name. And this is how you respond. You simply say, ihinaangu dinevenzo, ihinaangu dinevenzo, meaning my name is Venzo. And if you want to ask how old someone is, you simply say, ulamiaga hyongae, ulamiaga hyongae, miaka is years, hyongae is how many, or how much. So when you put them together, it means how old are you. And if you want to be more polite, you would say, ulamiaga hyongae, ulamiaga hyongae, which means the same thing, how old are you. And if you want to respond, you would say, ndilamiaga hili 27, ndilamiaga hili 27, meaning I am 27 years old, I am 27 years old. Next is how to ask where someone lives or stays. You simply say, ukala guli, ukala guli, which means where do you live or stay. Ukala is to stay or leave. In other cases, it would mean to sit, but in this case, it means stay or leave. And then guli means where, guli means where. When you put the words together, it means where do you stay or leave. And again, if you want to be more polite or respectful, you would say, mukala guli, mukala guli, which means the same thing, where do you stay. And this is how you respond. You would say, ndikala huu, roads park, ndikala huu, roads park, which means I stay at or in roads park. I stay in roads park. Next is how to ask what kind of work someone does or where they work. You simply say, ubelega mulimon zi, ubelega mulimon zi. Mulimo is work. Zi is what. So when you put them together, they translate to what kind of work do you do. Or if you want to be polite, you would say, ubelega mulimon zi, ubelega mulimon zi, which means the same thing. What kind of work do you do? And this is how you would respond. You would say, ndibelegan chitoya bu dokta, ndibelegan chitoya bu dokta, meaning I work as a doctor. The other way to ask would be, ubelega guli, or to be polite, you say, mubelega guli, which means where do you work? And then you would say, or you would respond as, ndibelega guji badela, ndibelega guji badela. Ji badela is hospital. So this would mean I work at a hospital. So before this video ends, I'm going to ask you a few questions. Number one, ndiweni hinayago. Number two, ulami aga hiongaye. Number three, ukala guli. Number four, ubelega guli, or ubelega mulimon zi. Please drop the answers in the comments section, and watch out for more videos. Thanks for watching."
+  },
+  "KTulJqS7FxE": {
+    "video_id": "KTulJqS7FxE",
+    "title": "LEARN TONGA CHITONGA",
+    "source": "learn-tonga-nyanja",
+    "target_lang": "toi",
+    "url": "https://youtube.com/watch?v=KTulJqS7FxE",
+    "detected_language": "english",
+    "prompt_used": "This is a Chitonga (Tonga) language lesson. The creator teaches Tonga vocabulary, counting, greetings, and everyday phrases. Common Chitonga: ulibuti (how are you), kabotu (fine), ndakuyanda (I love y...",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.6,
+        "text": "Learn Tonga or Chitonga."
+      },
+      {
+        "start": 3.6,
+        "end": 24.4,
+        "text": "Gufwambana, to hurry, gumuga or gujelwa, to be late, gufuma, to be early, asyonto, a little bit, agapati, very much, guhula, to be much or to be a lot, gujeya, to be little."
+      },
+      {
+        "start": 25.1,
+        "end": 26.4,
+        "text": "Examples."
+      },
+      {
+        "start": 26.4,
+        "end": 52.9,
+        "text": "Gufwambana, a hurry up, wamuga guvola, you came late, sununda fuma guvuga, I woke up early today, golinda asyonto, wait a little bit, ndalumbaga pati, thank you, very much, ayamenda ahula, this water is a lot, ziagulia ziajeya, the food is a little."
+      }
+    ],
+    "full_text": "Learn Tonga or Chitonga. Gufwambana, to hurry, gumuga or gujelwa, to be late, gufuma, to be early, asyonto, a little bit, agapati, very much, guhula, to be much or to be a lot, gujeya, to be little. Examples. Gufwambana, a hurry up, wamuga guvola, you came late, sununda fuma guvuga, I woke up early today, golinda asyonto, wait a little bit, ndalumbaga pati, thank you, very much, ayamenda ahula, this water is a lot, ziagulia ziajeya, the food is a little."
+  },
+  "30U8J5Z3ZWQ": {
+    "video_id": "30U8J5Z3ZWQ",
+    "title": "HOW TO GREET IN TONGA CHITONGA",
+    "source": "learn-tonga-nyanja",
+    "target_lang": "toi",
+    "url": "https://youtube.com/watch?v=30U8J5Z3ZWQ",
+    "detected_language": "english",
+    "prompt_used": "This is a Chitonga (Tonga) language lesson. The creator teaches Tonga vocabulary, counting, greetings, and everyday phrases. Common Chitonga: ulibuti (how are you), kabotu (fine), ndakuyanda (I love y...",
+    "segments": [
+      {
+        "start": 0.3,
+        "end": 7.9,
+        "text": "Lentonga or Chitonga. In this episode, we're going to talk about how to greet in Chitonga."
+      },
+      {
+        "start": 9.3,
+        "end": 17.2,
+        "text": "There are two ways you can greet in Tonga. One is informal. This is when you're addressing people"
+      },
+      {
+        "start": 17.2,
+        "end": 23.2,
+        "text": "of your age or people that you don't necessarily have to address with respect, or singular when"
+      },
+      {
+        "start": 23.2,
+        "end": 29.8,
+        "text": "you're addressing to just one person. And then there's formal. This is when you're addressing"
+      },
+      {
+        "start": 29.8,
+        "end": 36.2,
+        "text": "people that are not of your age, for example, your parents, or maybe your boss, or you're under"
+      },
+      {
+        "start": 36.2,
+        "end": 43.8,
+        "text": "respectable grounds. Or it can also be used as a plural. It can also be used under plural"
+      },
+      {
+        "start": 43.8,
+        "end": 50.5,
+        "text": "circumstances when you're addressing more than one person. All right, so let's move on."
+      },
+      {
+        "start": 51.0,
+        "end": 62.9,
+        "text": "So, how are you is ulivuti or mulivuti. Or you can just say waponavuti or mwaponavuti."
+      },
+      {
+        "start": 63.9,
+        "end": 69.4,
+        "text": "Basically means the same thing. I am fine, thanks and how are you?"
+      },
+      {
+        "start": 69.4,
+        "end": 79.3,
+        "text": "Ndirigavotu ulivuti or ndirigavotu mulivuti. Or rabotu mwaponavuti."
+      },
+      {
+        "start": 80.5,
+        "end": 90.1,
+        "text": "Or rabotu mwaponavuti. Good morning. Wavugavuti or mwavugavuti."
+      },
+      {
+        "start": 91.0,
+        "end": 99.9,
+        "text": "This direct translates to how did you wake up? And this is how you respond. Good morning to you too."
+      },
+      {
+        "start": 99.9,
+        "end": 116.2,
+        "text": "Rabotu mwaponavuti or rabotu mwaponavuti. Good afternoon. You can still say waponavuti"
+      },
+      {
+        "start": 116.2,
+        "end": 126.0,
+        "text": "or mwaponavuti. Good afternoon to rabotu mwaponavuti or rabotu mwaponavuti."
+      },
+      {
+        "start": 126.8,
+        "end": 136.8,
+        "text": "Good evening. Waliviziavuti or mwaliviziavuti. Good evening to you too. You can say, you can"
+      },
+      {
+        "start": 136.8,
+        "end": 146.9,
+        "text": "still say the same thing. Rabotu waliviziavuti or rabotu mwaliviziavuti. Or you can also say"
+      },
+      {
+        "start": 147.4,
+        "end": 153.4,
+        "text": "wasiavuti and then you can respond the same way. Rabotu wasiavuti."
+      },
+      {
+        "start": 155.2,
+        "end": 160.2,
+        "text": "Good night is onegavotu or mwonegavotu."
+      },
+      {
+        "start": 162.5,
+        "end": 166.7,
+        "text": "Good night to you too or thanks good night to you too is"
+      },
+      {
+        "start": 166.7,
+        "end": 174.8,
+        "text": "ndalumba ayevo onegavotu or ndalumba anuevo mwonegavotu."
+      }
+    ],
+    "full_text": "Lentonga or Chitonga. In this episode, we're going to talk about how to greet in Chitonga. There are two ways you can greet in Tonga. One is informal. This is when you're addressing people of your age or people that you don't necessarily have to address with respect, or singular when you're addressing to just one person. And then there's formal. This is when you're addressing people that are not of your age, for example, your parents, or maybe your boss, or you're under respectable grounds. Or it can also be used as a plural. It can also be used under plural circumstances when you're addressing more than one person. All right, so let's move on. So, how are you is ulivuti or mulivuti. Or you can just say waponavuti or mwaponavuti. Basically means the same thing. I am fine, thanks and how are you? Ndirigavotu ulivuti or ndirigavotu mulivuti. Or rabotu mwaponavuti. Or rabotu mwaponavuti. Good morning. Wavugavuti or mwavugavuti. This direct translates to how did you wake up? And this is how you respond. Good morning to you too. Rabotu mwaponavuti or rabotu mwaponavuti. Good afternoon. You can still say waponavuti or mwaponavuti. Good afternoon to rabotu mwaponavuti or rabotu mwaponavuti. Good evening. Waliviziavuti or mwaliviziavuti. Good evening to you too. You can say, you can still say the same thing. Rabotu waliviziavuti or rabotu mwaliviziavuti. Or you can also say wasiavuti and then you can respond the same way. Rabotu wasiavuti. Good night is onegavotu or mwonegavotu. Good night to you too or thanks good night to you too is ndalumba ayevo onegavotu or ndalumba anuevo mwonegavotu."
+  },
+  "BOK9LwlvinI": {
+    "video_id": "BOK9LwlvinI",
+    "title": "Learn Chitonga",
+    "source": "learn-tonga-nyanja",
+    "target_lang": "toi",
+    "url": "https://youtube.com/watch?v=BOK9LwlvinI",
+    "detected_language": "english",
+    "prompt_used": "This is a Chitonga (Tonga) language lesson. The creator teaches Tonga vocabulary, counting, greetings, and everyday phrases. Common Chitonga: ulibuti (how are you), kabotu (fine), ndakuyanda (I love y...",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.4,
+        "text": "Learn Tonga or Chitonga."
+      },
+      {
+        "start": 3.4,
+        "end": 24.4,
+        "text": "Gufwambana, to hurry, gumuga or ujelwa, to be late, gufuma, to be early, asyonto, a little bit, agapati, very much, guhula, to be much or to be a lot, ujeya, to be little."
+      },
+      {
+        "start": 24.4,
+        "end": 52.7,
+        "text": "Examples. Gufwambana, a hurry up, wamuga uvola, you came late, sunundafuma uvuga, I woke up early today, golinda asyonto, wait a little bit, ndalumbaga apati, thank you, very much, ayamenda ahula, this water is a lot, ziagulia ziajeya, the food is a little."
+      }
+    ],
+    "full_text": "Learn Tonga or Chitonga. Gufwambana, to hurry, gumuga or ujelwa, to be late, gufuma, to be early, asyonto, a little bit, agapati, very much, guhula, to be much or to be a lot, ujeya, to be little. Examples. Gufwambana, a hurry up, wamuga uvola, you came late, sunundafuma uvuga, I woke up early today, golinda asyonto, wait a little bit, ndalumbaga apati, thank you, very much, ayamenda ahula, this water is a lot, ziagulia ziajeya, the food is a little."
+  },
+  "tAyJhNyeGjk": {
+    "video_id": "tAyJhNyeGjk",
+    "title": "LEARN TONGA CHITONGA Numbers counting",
+    "source": "learn-tonga-nyanja",
+    "target_lang": "toi",
+    "url": "https://youtube.com/watch?v=tAyJhNyeGjk",
+    "detected_language": "english",
+    "prompt_used": "This is a Chitonga (Tonga) language lesson. The creator teaches Tonga vocabulary, counting, greetings, and everyday phrases. Common Chitonga: ulibuti (how are you), kabotu (fine), ndakuyanda (I love y...",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 9.0,
+        "text": "Learn Tonga or Chitonga. In this episode, we are going to talk about counting or numbers in Chitonga. Let's go."
+      },
+      {
+        "start": 9.0,
+        "end": 33.0,
+        "text": "1 is omwe, 2 is tobilo, 3 is otatwe, 4 is tone, 5 is osanwe, 6 is jisambomwe, 7 is jiloba, 8 is lusele, 9 is huga, 10 is kumi."
+      },
+      {
+        "start": 34.0,
+        "end": 36.0,
+        "text": "And now from 11 to 21."
+      },
+      {
+        "start": 37.0,
+        "end": 56.0,
+        "text": "11 is kumi a omwe, meaning one ten and one. 12 is kumi a tobilo, 13 is kumi a otatwe. From 14 up to 19, it's the same principle, you just add a single number to a ten."
+      },
+      {
+        "start": 56.0,
+        "end": 69.0,
+        "text": "20 is makumi o bilo, meaning two tens. 21 is makumi o bilo a omwe, meaning two tens and a one. And now from 30 to 90."
+      },
+      {
+        "start": 70.0,
+        "end": 81.0,
+        "text": "30 is makumi o tatwe, meaning three tens. 31 is makumi o tatwe a omwe, meaning three tens and a one."
+      },
+      {
+        "start": 81.0,
+        "end": 104.0,
+        "text": "40 is makumi yo ne, meaning four tens. 50 is makumi o sanwe. 60 is makumi jisambomwe. 70 is makumi jiloba. 80 is makumi lusele. 90 is makumi huga."
+      },
+      {
+        "start": 104.0,
+        "end": 110.0,
+        "text": "100 is muanda. 1000 is julu."
+      }
+    ],
+    "full_text": "Learn Tonga or Chitonga. In this episode, we are going to talk about counting or numbers in Chitonga. Let's go. 1 is omwe, 2 is tobilo, 3 is otatwe, 4 is tone, 5 is osanwe, 6 is jisambomwe, 7 is jiloba, 8 is lusele, 9 is huga, 10 is kumi. And now from 11 to 21. 11 is kumi a omwe, meaning one ten and one. 12 is kumi a tobilo, 13 is kumi a otatwe. From 14 up to 19, it's the same principle, you just add a single number to a ten. 20 is makumi o bilo, meaning two tens. 21 is makumi o bilo a omwe, meaning two tens and a one. And now from 30 to 90. 30 is makumi o tatwe, meaning three tens. 31 is makumi o tatwe a omwe, meaning three tens and a one. 40 is makumi yo ne, meaning four tens. 50 is makumi o sanwe. 60 is makumi jisambomwe. 70 is makumi jiloba. 80 is makumi lusele. 90 is makumi huga. 100 is muanda. 1000 is julu."
+  },
+  "pBlvSU4A1H0": {
+    "video_id": "pBlvSU4A1H0",
+    "title": "POSITIONS IN CHITONGA",
+    "source": "learn-tonga-nyanja",
+    "target_lang": "toi",
+    "url": "https://youtube.com/watch?v=pBlvSU4A1H0",
+    "detected_language": "english",
+    "prompt_used": "This is a Chitonga (Tonga) language lesson. The creator teaches Tonga vocabulary, counting, greetings, and everyday phrases. Common Chitonga: ulibuti (how are you), kabotu (fine), ndakuyanda (I love y...",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 8.1,
+        "text": "Lentonga or Jitonga. In this episode, we're going to talk about positions in Jitonga."
+      },
+      {
+        "start": 9.0,
+        "end": 22.0,
+        "text": "Gujulu or Mujulu means up or in the sky. Ansi, down or bottom. Gumbele, front or forward."
+      },
+      {
+        "start": 22.6,
+        "end": 34.9,
+        "text": "Gunze or Gusiule means back or behind. Atala, on top or above. Mujungusi, under or below."
+      },
+      {
+        "start": 35.9,
+        "end": 44.2,
+        "text": "Anze, outside. Mugati, inside. Here are some examples."
+      },
+      {
+        "start": 45.0,
+        "end": 54.0,
+        "text": "Langa gujulu means look up. Kala ansi, sit down. Guyagu mbele, go or move forward."
+      },
+      {
+        "start": 54.8,
+        "end": 61.6,
+        "text": "Gunze or Gusiule anganda, behind the house. Atala anganda, on top of the house."
+      },
+      {
+        "start": 62.2,
+        "end": 69.2,
+        "text": "Mujungusi avulo, under the bed. Anze ajintolo, outside the shop."
+      },
+      {
+        "start": 69.2,
+        "end": 73.8,
+        "text": "Mugati ajintolo, inside the shop."
+      }
+    ],
+    "full_text": "Lentonga or Jitonga. In this episode, we're going to talk about positions in Jitonga. Gujulu or Mujulu means up or in the sky. Ansi, down or bottom. Gumbele, front or forward. Gunze or Gusiule means back or behind. Atala, on top or above. Mujungusi, under or below. Anze, outside. Mugati, inside. Here are some examples. Langa gujulu means look up. Kala ansi, sit down. Guyagu mbele, go or move forward. Gunze or Gusiule anganda, behind the house. Atala anganda, on top of the house. Mujungusi avulo, under the bed. Anze ajintolo, outside the shop. Mugati ajintolo, inside the shop."
+  },
+  "1x2vtzfcpxA": {
+    "video_id": "1x2vtzfcpxA",
+    "title": "LEARN TONGA CHITONGA Part 4 Name of Months",
+    "source": "learn-tonga-nyanja",
+    "target_lang": "toi",
+    "url": "https://youtube.com/watch?v=1x2vtzfcpxA",
+    "detected_language": "english",
+    "prompt_used": "This is a Chitonga (Tonga) language lesson. The creator teaches Tonga vocabulary, counting, greetings, and everyday phrases. Common Chitonga: ulibuti (how are you), kabotu (fine), ndakuyanda (I love y...",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 11.0,
+        "text": "Learn Tonga or Chitonga. In this episode, we're going to talk about months or name of months in Chitonga. Let's go."
+      },
+      {
+        "start": 12.0,
+        "end": 38.0,
+        "text": "January is Mugazimaziba. February is Mulumi. March is Mioba. April is Muguwegangala. May is Gandaganini. June is Gandampati. July is Gunkumunamasamu. August is Itwe."
+      },
+      {
+        "start": 38.0,
+        "end": 52.0,
+        "text": "September is Iwe Iwe. October is Ravumbiganini. November is Vumbimpati. December is Nalupale."
+      },
+      {
+        "start": 68.0,
+        "end": 78.0,
+        "text": "Thank you for watching."
+      }
+    ],
+    "full_text": "Learn Tonga or Chitonga. In this episode, we're going to talk about months or name of months in Chitonga. Let's go. January is Mugazimaziba. February is Mulumi. March is Mioba. April is Muguwegangala. May is Gandaganini. June is Gandampati. July is Gunkumunamasamu. August is Itwe. September is Iwe Iwe. October is Ravumbiganini. November is Vumbimpati. December is Nalupale. Thank you for watching."
+  },
+  "5YXEVKJuosI": {
+    "video_id": "5YXEVKJuosI",
+    "title": "Daily Nyanja Part 1",
+    "source": "learn-tonga-nyanja",
+    "target_lang": "toi",
+    "url": "https://youtube.com/watch?v=5YXEVKJuosI",
+    "detected_language": "english",
+    "prompt_used": "This is a Chitonga (Tonga) language lesson. The creator teaches Tonga vocabulary, counting, greetings, and everyday phrases. Common Chitonga: ulibuti (how are you), kabotu (fine), ndakuyanda (I love y...",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Len Nyanja, muli buanji, how are you?"
+      },
+      {
+        "start": 4.0,
+        "end": 7.0,
+        "text": "Buino muli buanji, I am fine and you?"
+      },
+      {
+        "start": 7.0,
+        "end": 9.5,
+        "text": "Mwaoka buanji, good morning."
+      },
+      {
+        "start": 9.5,
+        "end": 13.0,
+        "text": "Buino mwaoka buanji, good morning to you too."
+      },
+      {
+        "start": 13.0,
+        "end": 16.0,
+        "text": "Mwachoma buanji, good afternoon or good evening."
+      },
+      {
+        "start": 16.0,
+        "end": 21.0,
+        "text": "Tachoma buino mwachoma buanji, good afternoon or good evening to you too."
+      },
+      {
+        "start": 21.0,
+        "end": 24.0,
+        "text": "Mugone buino, sleep well or good night."
+      },
+      {
+        "start": 24.0,
+        "end": 27.0,
+        "text": "Tizau nana mailo, see you tomorrow."
+      },
+      {
+        "start": 27.0,
+        "end": 29.0,
+        "text": "Zikomo, thank you."
+      },
+      {
+        "start": 30.0,
+        "end": 32.0,
+        "text": "Zikomo, thank you."
+      }
+    ],
+    "full_text": "Len Nyanja, muli buanji, how are you? Buino muli buanji, I am fine and you? Mwaoka buanji, good morning. Buino mwaoka buanji, good morning to you too. Mwachoma buanji, good afternoon or good evening. Tachoma buino mwachoma buanji, good afternoon or good evening to you too. Mugone buino, sleep well or good night. Tizau nana mailo, see you tomorrow. Zikomo, thank you. Zikomo, thank you."
+  }
+}
